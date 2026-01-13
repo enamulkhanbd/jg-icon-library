@@ -123,5 +123,25 @@
     "name": "IconKeyboardSlash",
     "title": "Keyboard Slash",
     "tag": "Division Key |\nOblique Key |\nForward Slash Key |\nSolidus Key |"
+  },
+  {
+    "name": "IconUpload",
+    "title": "Upload",
+    "tag": "Upload"
+  },
+  {
+    "name": "IconUploadOff",
+    "title": "Upload Off",
+    "tag": "Upload Off"
+  },
+  {
+    "name": "IconUnderline",
+    "title": "Underline",
+    "tag": "Underline"
+  },
+  {
+    "name": "IconUploadCloud",
+    "title": "Upload Cloud",
+    "tag": "Upload Cloud"
   }
 ]
