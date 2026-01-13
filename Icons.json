@@ -108,5 +108,20 @@
     "name": "IconDCategory",
     "title": "D Category",
     "tag": "D Category"
+  },
+  {
+    "name": "IconKeyboardEnter",
+    "title": "Keyboard Enter",
+    "tag": "Return | Shortcut"
+  },
+  {
+    "name": "IconKeyboardEsc",
+    "title": "Keyboard Esc",
+    "tag": "close | shortcut"
+  },
+  {
+    "name": "IconKeyboardSlash",
+    "title": "Keyboard Slash",
+    "tag": "Division Key |\nOblique Key |\nForward Slash Key |\nSolidus Key |"
   }
 ]
