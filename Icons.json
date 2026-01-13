@@ -88,5 +88,10 @@
     "name": "IconArrowDirectionUp",
     "title": "Arrow Direction Up",
     "tag": "Arrow Direction Up"
+  },
+  {
+    "name": "IconCommentAddFill",
+    "title": "Comment Add Fill",
+    "tag": "Comment Add Fill"
   }
 ]
