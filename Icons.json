@@ -98,5 +98,15 @@
     "name": "IconCode",
     "title": "Code",
     "tag": "code | embed | embedded | development | iframe"
+  },
+  {
+    "name": "IconDotsGrid",
+    "title": "Dots Grid",
+    "tag": "Dots Grid"
+  },
+  {
+    "name": "IconDCategory",
+    "title": "D Category",
+    "tag": "D Category"
   }
 ]
