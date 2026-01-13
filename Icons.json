@@ -93,5 +93,10 @@
     "name": "IconCommentAddFill",
     "title": "Comment Add Fill",
     "tag": "Comment Add Fill"
+  },
+  {
+    "name": "IconCode",
+    "title": "Code",
+    "tag": "code | embed | embedded | development | iframe"
   }
 ]
