@@ -153,5 +153,20 @@
     "name": "IconZoomOut",
     "title": "Zoom Out",
     "tag": "Zoom Out"
+  },
+  {
+    "name": "IconWifi",
+    "title": "Wifi",
+    "tag": "Wifi"
+  },
+  {
+    "name": "IconWifiOff",
+    "title": "Wifi Off",
+    "tag": "Wifi Off"
+  },
+  {
+    "name": "IconTextTitle",
+    "title": "Text Title",
+    "tag": "Text Title"
   }
 ]
