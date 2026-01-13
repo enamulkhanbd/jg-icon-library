@@ -8,5 +8,85 @@
     "name": "IconBriefcaseOutline",
     "title": "Briefcase Outline",
     "tag": "Work"
+  },
+  {
+    "name": "IconArrowDirectionRight",
+    "title": "Arrow Direction Right",
+    "tag": "arrow | right"
+  },
+  {
+    "name": "IconArrowNarrowPointingDirectionUpRight",
+    "title": "Arrow Narrow Pointing Direction Up Right",
+    "tag": "arrow | outward"
+  },
+  {
+    "name": "IconArrowNarrowPointingDirectionUpLeft",
+    "title": "Arrow Narrow Pointing Direction Up Left",
+    "tag": "Arrow Narrow Pointing Direction Up Left"
+  },
+  {
+    "name": "IconArrowNarrowDirectionUp",
+    "title": "Arrow Narrow Direction Up",
+    "tag": "Arrow Narrow Direction Up"
+  },
+  {
+    "name": "IconArrowNarrowDirectionLeft",
+    "title": "Arrow Narrow Direction Left",
+    "tag": "Arrow Narrow Direction Left"
+  },
+  {
+    "name": "IconArrowNarrowPointingDirectionDownRight",
+    "title": "Arrow Narrow Pointing Direction Down Right",
+    "tag": "Arrow Narrow Pointing Direction Down Right"
+  },
+  {
+    "name": "IconArrowNarrowPointingDirectionDownLeft",
+    "title": "Arrow Narrow Pointing Direction Down Left",
+    "tag": "Arrow Narrow Pointing Direction Down Left"
+  },
+  {
+    "name": "IconArrowDirectionLeft",
+    "title": "Arrow Direction Left",
+    "tag": "Arrow Direction Left"
+  },
+  {
+    "name": "IconArrowDirectionDown",
+    "title": "Arrow Direction Down",
+    "tag": "Arrow Direction Down"
+  },
+  {
+    "name": "IconArrowNarrowDirectionDown",
+    "title": "Arrow Narrow Direction Down",
+    "tag": "Arrow Narrow Direction Down"
+  },
+  {
+    "name": "IconArrowPointingDirectionDownRight",
+    "title": "Arrow Pointing Direction Down Right",
+    "tag": "Arrow Pointing Direction Down Right"
+  },
+  {
+    "name": "IconArrowNarrowDirectionRight",
+    "title": "Arrow Narrow Direction Right",
+    "tag": "Arrow Narrow Direction Right"
+  },
+  {
+    "name": "IconArrowPointingDirectionDownLeft",
+    "title": "Arrow Pointing Direction Down Left",
+    "tag": "Arrow Pointing Direction Down Left"
+  },
+  {
+    "name": "IconArrowPointingDirectionUpRight",
+    "title": "Arrow Pointing Direction Up Right",
+    "tag": "Arrow Pointing Direction Up Right"
+  },
+  {
+    "name": "IconArrowPointingDirectionUpLeft",
+    "title": "Arrow Pointing Direction Up Left",
+    "tag": "Arrow Pointing Direction Up Left"
+  },
+  {
+    "name": "IconArrowDirectionUp",
+    "title": "Arrow Direction Up",
+    "tag": "Arrow Direction Up"
   }
 ]
