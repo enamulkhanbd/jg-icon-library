@@ -143,5 +143,15 @@
     "name": "IconUploadCloud",
     "title": "Upload Cloud",
     "tag": "Upload Cloud"
+  },
+  {
+    "name": "IconZoomIn",
+    "title": "Zoom In",
+    "tag": "Zoom In"
+  },
+  {
+    "name": "IconZoomOut",
+    "title": "Zoom Out",
+    "tag": "Zoom Out"
   }
 ]
