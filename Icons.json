@@ -402,7 +402,7 @@
   {
     "name": "IconAddCircleFill",
     "title": "Add Circle Fill",
-    "tag": "plus circle filled |"
+    "tag": "plus circle filled"
   },
   {
     "name": "IconAt",
@@ -1912,22 +1912,22 @@
   {
     "name": "IconDigitalWalletConfigOutline",
     "title": "Digital Wallet Config Outline",
-    "tag": "Digital Wallet Config Outline"
+    "tag": "digital | card | wallet"
   },
   {
     "name": "IconDigitalWalletConfigFill",
     "title": "Digital Wallet Config Fill",
-    "tag": "Digital Wallet Config Fill"
+    "tag": "digital | card | wallet"
   },
   {
     "name": "IconDigitalWalletOutline",
     "title": "Digital Wallet Outline",
-    "tag": "Digital Wallet Outline"
+    "tag": "digital | card | wallet"
   },
   {
     "name": "IconDigitalWalletFill",
     "title": "Digital Wallet Fill",
-    "tag": "Digital Wallet Fill"
+    "tag": "digital | card | wallet"
   },
   {
     "name": "IconDirectionsArrowRightOutline",
@@ -3702,7 +3702,7 @@
   {
     "name": "IconHeading",
     "title": "Heading",
-    "tag": "h | H | section |"
+    "tag": "h | H | section"
   },
   {
     "name": "IconHourglassFill",
@@ -3977,7 +3977,7 @@
   {
     "name": "IconKeyboardSlash",
     "title": "Keyboard Slash",
-    "tag": "Division Key |\nOblique Key |\nForward Slash Key |\nSolidus Key |"
+    "tag": "Division Key | Oblique Key | Forward Slash Key | Solidus Key"
   },
   {
     "name": "IconLinkTypeLink",
@@ -4072,7 +4072,7 @@
   {
     "name": "IconLayersThreeOutline",
     "title": "Layers Three Outline",
-    "tag": "Bulk Renew |"
+    "tag": "Bulk Renew"
   },
   {
     "name": "IconListRounded",
@@ -4107,7 +4107,7 @@
   {
     "name": "IconLayersThreeFill",
     "title": "Layers Three Fill",
-    "tag": "Bulk Renew |"
+    "tag": "Bulk Renew"
   },
   {
     "name": "IconListDoubleLineRounded",
@@ -5607,12 +5607,12 @@
   {
     "name": "IconShopOutline",
     "title": "Shop Outline",
-    "tag": "Store Symbol | \nRetail Emblem | \nMarketplace Marker | \nTrade Insignia | \nBuy Badge | \nMerchandise Icon | \nShopping Symbol | \nCommerce Token | \nRetail Graphic | \nPurchase Mark | \nOutlet Sign | \nConsumer Logo | \nShop Identifier | \nMarket Emblem | \nRetailer Icon | \nShopping Cart Symbol | \nTrade Logo | \nStorefront Marker | \nBuy Button | \nRetail Token"
+    "tag": "Store Symbol | Retail Emblem | Marketplace Marker | Trade Insignia | Buy Badge | Merchandise Icon | Shopping Symbol | Commerce Token | Retail Graphic | Purchase Mark | Outlet Sign | Consumer Logo | Shop Identifier | Market Emblem | Retailer Icon | Shopping Cart Symbol | Trade Logo | Storefront Marker | Buy Button | Retail Token"
   },
   {
     "name": "IconShopFill",
     "title": "Shop Fill",
-    "tag": "Store Symbol | \nRetail Emblem | \nMarketplace Marker | \nTrade Insignia | \nBuy Badge | \nMerchandise Icon | \nShopping Symbol | \nCommerce Token | \nRetail Graphic | \nPurchase Mark | \nOutlet Sign | \nConsumer Logo | \nShop Identifier | \nMarket Emblem | \nRetailer Icon | \nShopping Cart Symbol | \nTrade Logo | \nStorefront Marker | \nBuy Button | \nRetail Token"
+    "tag": "Store Symbol | Retail Emblem | Marketplace Marker | Trade Insignia | Buy Badge | Merchandise Icon | Shopping Symbol | Commerce Token | Retail Graphic | Purchase Mark | Outlet Sign | Consumer Logo | Shop Identifier | Market Emblem | Retailer Icon | Shopping Cart Symbol | Trade Logo | Storefront Marker | Buy Button | Retail Token"
   },
   {
     "name": "IconShopSearchFill",
@@ -5727,7 +5727,7 @@
   {
     "name": "IconShare01",
     "title": "Share01",
-    "tag": "quick links | shortcut |"
+    "tag": "quick links | shortcut"
   },
   {
     "name": "IconShare02Outline",
@@ -6618,5 +6618,90 @@
     "name": "IconZoomOut",
     "title": "Zoom Out",
     "tag": "Zoom Out"
+  },
+  {
+    "name": "IconSettingsOutline",
+    "title": "Settings Outline",
+    "tag": "Opt-ins | setting"
+  },
+  {
+    "name": "IconSettingsFill",
+    "title": "Settings Fill",
+    "tag": "Settings Fill"
+  },
+  {
+    "name": "IconSocialInstagramStyleColor",
+    "title": "Social Instagram Style Color",
+    "tag": "Social Instagram Style Color"
+  },
+  {
+    "name": "IconSocialInstagramStyleFill",
+    "title": "Social Instagram Style Fill",
+    "tag": "Social Instagram Style Fill"
+  },
+  {
+    "name": "IconSocialInstagramStyleOutline",
+    "title": "Social Instagram Style Outline",
+    "tag": "Social Instagram Style Outline"
+  },
+  {
+    "name": "IconCredentialCalendarCloseFill",
+    "title": "Credential Calendar Close Fill",
+    "tag": "Credential Calendar Close Fill"
+  },
+  {
+    "name": "IconCredentialCalendarCloseOutline",
+    "title": "Credential Calendar Close Outline",
+    "tag": "Credential Calendar Close Outline"
+  },
+  {
+    "name": "IconArrowDoubleFlowHorizontalDirectionOutgoing",
+    "title": "Arrow Double Flow Horizontal Direction Outgoing",
+    "tag": "Arrow Double Flow Horizontal Direction Outgoing"
+  },
+  {
+    "name": "IconArrowDoubleFlowHorizontalDirectionIncoming",
+    "title": "Arrow Double Flow Horizontal Direction Incoming",
+    "tag": "Arrow Double Flow Horizontal Direction Incoming"
+  },
+  {
+    "name": "IconArrowDoubleFlowVerticalDirectionDown",
+    "title": "Arrow Double Flow Vertical Direction Down",
+    "tag": "Arrow Double Flow Vertical Direction Down"
+  },
+  {
+    "name": "IconArrowDoubleFlowVerticalDirectionUp",
+    "title": "Arrow Double Flow Vertical Direction Up",
+    "tag": "Arrow Double Flow Vertical Direction Up"
+  },
+  {
+    "name": "IconPendingOutline",
+    "title": "Pending Outline",
+    "tag": "Pending Outline"
+  },
+  {
+    "name": "IconPendingFill",
+    "title": "Pending Fill",
+    "tag": "Pending Fill"
+  },
+  {
+    "name": "IconNoteAttachmentOutline",
+    "title": "Note Attachment Outline",
+    "tag": "Note Attachment Outline"
+  },
+  {
+    "name": "IconNoteAttachmentFill",
+    "title": "Note Attachment Fill",
+    "tag": "Note Attachment Fill"
+  },
+  {
+    "name": "IconRankingPodiumFill",
+    "title": "Ranking Podium Fill",
+    "tag": "Ranking Podium Fill"
+  },
+  {
+    "name": "IconRankingPodiumOutline",
+    "title": "Ranking Podium Outline",
+    "tag": "Ranking Podium Outline"
   }
 ]
