@@ -402,7 +402,7 @@
   {
     "name": "IconAddCircleFill",
     "title": "Add Circle Fill",
-    "tag": "plus circle filled"
+    "tag": "plus circle filled |"
   },
   {
     "name": "IconAt",
@@ -1912,22 +1912,22 @@
   {
     "name": "IconDigitalWalletConfigOutline",
     "title": "Digital Wallet Config Outline",
-    "tag": "digital | card | wallet"
+    "tag": "Digital Wallet Config Outline"
   },
   {
     "name": "IconDigitalWalletConfigFill",
     "title": "Digital Wallet Config Fill",
-    "tag": "digital | card | wallet"
+    "tag": "Digital Wallet Config Fill"
   },
   {
     "name": "IconDigitalWalletOutline",
     "title": "Digital Wallet Outline",
-    "tag": "digital | card | wallet"
+    "tag": "Digital Wallet Outline"
   },
   {
     "name": "IconDigitalWalletFill",
     "title": "Digital Wallet Fill",
-    "tag": "digital | card | wallet"
+    "tag": "Digital Wallet Fill"
   },
   {
     "name": "IconDirectionsArrowRightOutline",
@@ -3702,7 +3702,7 @@
   {
     "name": "IconHeading",
     "title": "Heading",
-    "tag": "h | H | section"
+    "tag": "h | H | section |"
   },
   {
     "name": "IconHourglassFill",
@@ -3977,7 +3977,7 @@
   {
     "name": "IconKeyboardSlash",
     "title": "Keyboard Slash",
-    "tag": "Division Key | Oblique Key | Forward Slash Key | Solidus Key"
+    "tag": "Division Key |\nOblique Key |\nForward Slash Key |\nSolidus Key |"
   },
   {
     "name": "IconLinkTypeLink",
@@ -4072,7 +4072,7 @@
   {
     "name": "IconLayersThreeOutline",
     "title": "Layers Three Outline",
-    "tag": "Bulk Renew"
+    "tag": "Bulk Renew |"
   },
   {
     "name": "IconListRounded",
@@ -4107,7 +4107,7 @@
   {
     "name": "IconLayersThreeFill",
     "title": "Layers Three Fill",
-    "tag": "Bulk Renew"
+    "tag": "Bulk Renew |"
   },
   {
     "name": "IconListDoubleLineRounded",
@@ -5607,12 +5607,12 @@
   {
     "name": "IconShopOutline",
     "title": "Shop Outline",
-    "tag": "Store Symbol | Retail Emblem | Marketplace Marker | Trade Insignia | Buy Badge | Merchandise Icon | Shopping Symbol | Commerce Token | Retail Graphic | Purchase Mark | Outlet Sign | Consumer Logo | Shop Identifier | Market Emblem | Retailer Icon | Shopping Cart Symbol | Trade Logo | Storefront Marker | Buy Button | Retail Token"
+    "tag": "Store Symbol | \nRetail Emblem | \nMarketplace Marker | \nTrade Insignia | \nBuy Badge | \nMerchandise Icon | \nShopping Symbol | \nCommerce Token | \nRetail Graphic | \nPurchase Mark | \nOutlet Sign | \nConsumer Logo | \nShop Identifier | \nMarket Emblem | \nRetailer Icon | \nShopping Cart Symbol | \nTrade Logo | \nStorefront Marker | \nBuy Button | \nRetail Token"
   },
   {
     "name": "IconShopFill",
     "title": "Shop Fill",
-    "tag": "Store Symbol | Retail Emblem | Marketplace Marker | Trade Insignia | Buy Badge | Merchandise Icon | Shopping Symbol | Commerce Token | Retail Graphic | Purchase Mark | Outlet Sign | Consumer Logo | Shop Identifier | Market Emblem | Retailer Icon | Shopping Cart Symbol | Trade Logo | Storefront Marker | Buy Button | Retail Token"
+    "tag": "Store Symbol | \nRetail Emblem | \nMarketplace Marker | \nTrade Insignia | \nBuy Badge | \nMerchandise Icon | \nShopping Symbol | \nCommerce Token | \nRetail Graphic | \nPurchase Mark | \nOutlet Sign | \nConsumer Logo | \nShop Identifier | \nMarket Emblem | \nRetailer Icon | \nShopping Cart Symbol | \nTrade Logo | \nStorefront Marker | \nBuy Button | \nRetail Token"
   },
   {
     "name": "IconShopSearchFill",
@@ -5727,7 +5727,7 @@
   {
     "name": "IconShare01",
     "title": "Share01",
-    "tag": "quick links | shortcut"
+    "tag": "quick links | shortcut |"
   },
   {
     "name": "IconShare02Outline",
@@ -6620,41 +6620,6 @@
     "tag": "Zoom Out"
   },
   {
-    "name": "IconSettingsOutline",
-    "title": "Settings Outline",
-    "tag": "Opt-ins | setting"
-  },
-  {
-    "name": "IconSettingsFill",
-    "title": "Settings Fill",
-    "tag": "Settings Fill"
-  },
-  {
-    "name": "IconSocialInstagramStyleColor",
-    "title": "Social Instagram Style Color",
-    "tag": "Social Instagram Style Color"
-  },
-  {
-    "name": "IconSocialInstagramStyleFill",
-    "title": "Social Instagram Style Fill",
-    "tag": "Social Instagram Style Fill"
-  },
-  {
-    "name": "IconSocialInstagramStyleOutline",
-    "title": "Social Instagram Style Outline",
-    "tag": "Social Instagram Style Outline"
-  },
-  {
-    "name": "IconCredentialCalendarCloseFill",
-    "title": "Credential Calendar Close Fill",
-    "tag": "Credential Calendar Close Fill"
-  },
-  {
-    "name": "IconCredentialCalendarCloseOutline",
-    "title": "Credential Calendar Close Outline",
-    "tag": "Credential Calendar Close Outline"
-  },
-  {
     "name": "IconArrowDoubleFlowHorizontalDirectionOutgoing",
     "title": "Arrow Double Flow Horizontal Direction Outgoing",
     "tag": "Arrow Double Flow Horizontal Direction Outgoing"
@@ -6675,6 +6640,26 @@
     "tag": "Arrow Double Flow Vertical Direction Up"
   },
   {
+    "name": "IconAAAAPlaceholderDonTUse",
+    "title": "A A A A Placeholder Don T Use",
+    "tag": "This is a placeholder.\n[ ⚠️Do not use it for designing. ]"
+  },
+  {
+    "name": "IconAAAAPlaceholderIconDonTUseTypeRectangle",
+    "title": "A A A A Placeholder Icon Don T Use Type Rectangle",
+    "tag": "A A A A Placeholder Icon Don T Use Type Rectangle"
+  },
+  {
+    "name": "IconAAAAPlaceholderIconDonTUseTypeCircle",
+    "title": "A A A A Placeholder Icon Don T Use Type Circle",
+    "tag": "A A A A Placeholder Icon Don T Use Type Circle"
+  },
+  {
+    "name": "IconZoomTest",
+    "title": "Zoom Test",
+    "tag": "Zoom Test"
+  },
+  {
     "name": "IconPendingOutline",
     "title": "Pending Outline",
     "tag": "Pending Outline"
@@ -6685,23 +6670,178 @@
     "tag": "Pending Fill"
   },
   {
-    "name": "IconNoteAttachmentOutline",
-    "title": "Note Attachment Outline",
-    "tag": "Note Attachment Outline"
+    "name": "IconSocialDribbleStyleOutline",
+    "title": "Social Dribble Style Outline",
+    "tag": "Social Dribble Style Outline"
   },
   {
-    "name": "IconNoteAttachmentFill",
-    "title": "Note Attachment Fill",
-    "tag": "Note Attachment Fill"
+    "name": "IconSocialDribbleStyleColor",
+    "title": "Social Dribble Style Color",
+    "tag": "Social Dribble Style Color"
   },
   {
-    "name": "IconRankingPodiumFill",
-    "title": "Ranking Podium Fill",
-    "tag": "Ranking Podium Fill"
+    "name": "IconSocialVimeoStyleFilled",
+    "title": "Social Vimeo Style Filled",
+    "tag": "Social Vimeo Style Filled"
   },
   {
-    "name": "IconRankingPodiumOutline",
-    "title": "Ranking Podium Outline",
-    "tag": "Ranking Podium Outline"
+    "name": "IconSocialVimeoStyleColor",
+    "title": "Social Vimeo Style Color",
+    "tag": "Social Vimeo Style Color"
+  },
+  {
+    "name": "IconSocialSlackStyleFilled",
+    "title": "Social Slack Style Filled",
+    "tag": "Social Slack Style Filled"
+  },
+  {
+    "name": "IconSocialSlackStyleColor",
+    "title": "Social Slack Style Color",
+    "tag": "Social Slack Style Color"
+  },
+  {
+    "name": "IconSocialWechatStyleFilled",
+    "title": "Social Wechat Style Filled",
+    "tag": "Social Wechat Style Filled"
+  },
+  {
+    "name": "IconSocialWechatStyleColor",
+    "title": "Social Wechat Style Color",
+    "tag": "Social Wechat Style Color"
+  },
+  {
+    "name": "IconSocialLineStyleFilled",
+    "title": "Social Line Style Filled",
+    "tag": "Social Line Style Filled"
+  },
+  {
+    "name": "IconSocialLineStyleColor",
+    "title": "Social Line Style Color",
+    "tag": "Social Line Style Color"
+  },
+  {
+    "name": "IconSocialBehanceStyleBulk",
+    "title": "Social Behance Style Bulk",
+    "tag": "Social Behance Style Bulk"
+  },
+  {
+    "name": "IconSocialBehanceStyleColor",
+    "title": "Social Behance Style Color",
+    "tag": "Social Behance Style Color"
+  },
+  {
+    "name": "IconSocialQuoraStyleOutline",
+    "title": "Social Quora Style Outline",
+    "tag": "Social Quora Style Outline"
+  },
+  {
+    "name": "IconSocialQuoraStyleColor",
+    "title": "Social Quora Style Color",
+    "tag": "Social Quora Style Color"
+  },
+  {
+    "name": "IconSocialMedium",
+    "title": "Social Medium",
+    "tag": "Social Medium"
+  },
+  {
+    "name": "IconSocialTwitchStyleOutline",
+    "title": "Social Twitch Style Outline",
+    "tag": "Social Twitch Style Outline"
+  },
+  {
+    "name": "IconSocialTwitchStyleColor",
+    "title": "Social Twitch Style Color",
+    "tag": "Social Twitch Style Color"
+  },
+  {
+    "name": "IconSocialPinterestStyleOutline",
+    "title": "Social Pinterest Style Outline",
+    "tag": "Social Pinterest Style Outline"
+  },
+  {
+    "name": "IconSocialPinterestStyleFilled",
+    "title": "Social Pinterest Style Filled",
+    "tag": "Social Pinterest Style Filled"
+  },
+  {
+    "name": "IconSocialPinterestStyleColor",
+    "title": "Social Pinterest Style Color",
+    "tag": "Social Pinterest Style Color"
+  },
+  {
+    "name": "IconSocialTumblrStyleOutline",
+    "title": "Social Tumblr Style Outline",
+    "tag": "Social Tumblr Style Outline"
+  },
+  {
+    "name": "IconSocialTumblrStyleFilled",
+    "title": "Social Tumblr Style Filled",
+    "tag": "Social Tumblr Style Filled"
+  },
+  {
+    "name": "IconSocialTumblrStyleColor",
+    "title": "Social Tumblr Style Color",
+    "tag": "Social Tumblr Style Color"
+  },
+  {
+    "name": "IconSocialSnapChatStyleFilled",
+    "title": "Social Snap Chat Style Filled",
+    "tag": "Social Snap Chat Style Filled"
+  },
+  {
+    "name": "IconSocialSnapChatStyleColor",
+    "title": "Social Snap Chat Style Color",
+    "tag": "Social Snap Chat Style Color"
+  },
+  {
+    "name": "IconSocialRedditStyleFilled",
+    "title": "Social Reddit Style Filled",
+    "tag": "Social Reddit Style Filled"
+  },
+  {
+    "name": "IconSocialRedditStyleColor",
+    "title": "Social Reddit Style Color",
+    "tag": "Social Reddit Style Color"
+  },
+  {
+    "name": "IconSocialDiscordStyleFilled",
+    "title": "Social Discord Style Filled",
+    "tag": "Social Discord Style Filled"
+  },
+  {
+    "name": "IconSocialDiscordStyleColor",
+    "title": "Social Discord Style Color",
+    "tag": "Social Discord Style Color"
+  },
+  {
+    "name": "IconSocialTelegramStyleOutline",
+    "title": "Social Telegram Style Outline",
+    "tag": "Social Telegram Style Outline"
+  },
+  {
+    "name": "IconSocialTelegramStyleBulk",
+    "title": "Social Telegram Style Bulk",
+    "tag": "Social Telegram Style Bulk"
+  },
+  {
+    "name": "IconSocialTelegramStyleColor",
+    "title": "Social Telegram Style Color",
+    "tag": "Social Telegram Style Color"
+  },
+  {
+    "name": "IconSocialInstagramStyleColor",
+    "title": "Social Instagram Style Color",
+    "tag": "Social Instagram Style Color"
+  },
+  {
+    "name": "IconSocialInstagramStyleFill",
+    "title": "Social Instagram Style Fill",
+    "tag": "Social Instagram Style Fill"
+  },
+  {
+    "name": "IconSocialInstagramStyleOutline",
+    "title": "Social Instagram Style Outline",
+    "tag": "Social Instagram Style Outline"
   }
 ]
