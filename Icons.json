@@ -1912,22 +1912,22 @@
   {
     "name": "IconDigitalWalletConfigOutline",
     "title": "Digital Wallet Config Outline",
-    "tag": "Digital Wallet Config Outline"
+    "tag": "digital | card | wallet"
   },
   {
     "name": "IconDigitalWalletConfigFill",
     "title": "Digital Wallet Config Fill",
-    "tag": "Digital Wallet Config Fill"
+    "tag": "digital | card | wallet"
   },
   {
     "name": "IconDigitalWalletOutline",
     "title": "Digital Wallet Outline",
-    "tag": "Digital Wallet Outline"
+    "tag": "digital | card | wallet"
   },
   {
     "name": "IconDigitalWalletFill",
     "title": "Digital Wallet Fill",
-    "tag": "Digital Wallet Fill"
+    "tag": "digital | card | wallet"
   },
   {
     "name": "IconDirectionsArrowRightOutline",
@@ -6843,5 +6843,50 @@
     "name": "IconSocialInstagramStyleOutline",
     "title": "Social Instagram Style Outline",
     "tag": "Social Instagram Style Outline"
+  },
+  {
+    "name": "IconSettingsOutline",
+    "title": "Settings Outline",
+    "tag": "Opt-ins | setting"
+  },
+  {
+    "name": "IconSettingsFill",
+    "title": "Settings Fill",
+    "tag": "Settings Fill"
+  },
+  {
+    "name": "IconCredentialCalendarCloseFill",
+    "title": "Credential Calendar Close Fill",
+    "tag": "Credential Calendar Close Fill"
+  },
+  {
+    "name": "IconCredentialCalendarCloseOutline",
+    "title": "Credential Calendar Close Outline",
+    "tag": "Credential Calendar Close Outline"
+  },
+  {
+    "name": "IconFlip",
+    "title": "Flip",
+    "tag": "image | flip"
+  },
+  {
+    "name": "IconNoteAttachmentOutline",
+    "title": "Note Attachment Outline",
+    "tag": "Note Attachment Outline"
+  },
+  {
+    "name": "IconNoteAttachmentFill",
+    "title": "Note Attachment Fill",
+    "tag": "Note Attachment Fill"
+  },
+  {
+    "name": "IconRankingPodiumFill",
+    "title": "Ranking Podium Fill",
+    "tag": "Ranking Podium Fill"
+  },
+  {
+    "name": "IconRankingPodiumOutline",
+    "title": "Ranking Podium Outline",
+    "tag": "Ranking Podium Outline"
   }
 ]
