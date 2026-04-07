@@ -6888,5 +6888,90 @@
     "name": "IconRankingPodiumOutline",
     "title": "Ranking Podium Outline",
     "tag": "Ranking Podium Outline"
+  },
+  {
+    "name": "IconInfoStyleFill",
+    "title": "Info Style Fill",
+    "tag": "Info Style Fill"
+  },
+  {
+    "name": "IconCakeFillFill",
+    "title": "Cake Fill Fill",
+    "tag": "Cake Fill Fill"
+  },
+  {
+    "name": "IconCakeFillOutline",
+    "title": "Cake Fill Outline",
+    "tag": "Cake Fill Outline"
+  },
+  {
+    "name": "IconSocialGoogleStyleOutline",
+    "title": "Social Google Style Outline",
+    "tag": "Social Google Style Outline"
+  },
+  {
+    "name": "IconCategoryFillCategoryFill",
+    "title": "Category Fill Category Fill",
+    "tag": "Category Fill Category Fill"
+  },
+  {
+    "name": "IconCategoryAddFillCategoryAddFill",
+    "title": "Category Add Fill Category Add Fill",
+    "tag": "Category Add Fill Category Add Fill"
+  },
+  {
+    "name": "IconHeartStyleMonochrome",
+    "title": "Heart Style Monochrome",
+    "tag": "Heart Style Monochrome"
+  },
+  {
+    "name": "IconHeartStyleColor",
+    "title": "Heart Style Color",
+    "tag": "Heart Style Color"
+  },
+  {
+    "name": "IconSocialVimeoStyleFill",
+    "title": "Social Vimeo Style Fill",
+    "tag": "Social Vimeo Style Fill"
+  },
+  {
+    "name": "IconSocialSlackStyleFill",
+    "title": "Social Slack Style Fill",
+    "tag": "Social Slack Style Fill"
+  },
+  {
+    "name": "IconSocialWechatStyleFill",
+    "title": "Social Wechat Style Fill",
+    "tag": "Social Wechat Style Fill"
+  },
+  {
+    "name": "IconSocialLineStyleFill",
+    "title": "Social Line Style Fill",
+    "tag": "Social Line Style Fill"
+  },
+  {
+    "name": "IconSocialPinterestStyleFill",
+    "title": "Social Pinterest Style Fill",
+    "tag": "Social Pinterest Style Fill"
+  },
+  {
+    "name": "IconSocialTumblrStyleFill",
+    "title": "Social Tumblr Style Fill",
+    "tag": "Social Tumblr Style Fill"
+  },
+  {
+    "name": "IconSocialSnapChatStyleFill",
+    "title": "Social Snap Chat Style Fill",
+    "tag": "Social Snap Chat Style Fill"
+  },
+  {
+    "name": "IconSocialRedditStyleFill",
+    "title": "Social Reddit Style Fill",
+    "tag": "Social Reddit Style Fill"
+  },
+  {
+    "name": "IconSocialDiscordStyleFill",
+    "title": "Social Discord Style Fill",
+    "tag": "Social Discord Style Fill"
   }
 ]
