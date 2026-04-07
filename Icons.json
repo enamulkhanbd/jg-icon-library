@@ -1,1 +1,6892 @@
-[]
+[
+  {
+    "name": "IconAttachFile",
+    "title": "Attach File",
+    "tag": "attachment | file | attach file"
+  },
+  {
+    "name": "IconAttachFileAdd",
+    "title": "Attach File Add",
+    "tag": "add | attachment | file add"
+  },
+  {
+    "name": "IconAttachment",
+    "title": "Attachment",
+    "tag": "Attachment"
+  },
+  {
+    "name": "IconArrowDirectionRight",
+    "title": "Arrow Direction Right",
+    "tag": "arrow | right"
+  },
+  {
+    "name": "IconArrowDirectionLeft",
+    "title": "Arrow Direction Left",
+    "tag": "Arrow Direction Left"
+  },
+  {
+    "name": "IconArrowDirectionDown",
+    "title": "Arrow Direction Down",
+    "tag": "Arrow Direction Down"
+  },
+  {
+    "name": "IconArrowDirectionUp",
+    "title": "Arrow Direction Up",
+    "tag": "Arrow Direction Up"
+  },
+  {
+    "name": "IconArrowPointingDirectionDownRight",
+    "title": "Arrow Pointing Direction Down Right",
+    "tag": "Arrow Pointing Direction Down Right"
+  },
+  {
+    "name": "IconArrowPointingDirectionDownLeft",
+    "title": "Arrow Pointing Direction Down Left",
+    "tag": "Arrow Pointing Direction Down Left"
+  },
+  {
+    "name": "IconArrowPointingDirectionUpRight",
+    "title": "Arrow Pointing Direction Up Right",
+    "tag": "Arrow Pointing Direction Up Right"
+  },
+  {
+    "name": "IconArrowPointingDirectionUpLeft",
+    "title": "Arrow Pointing Direction Up Left",
+    "tag": "Arrow Pointing Direction Up Left"
+  },
+  {
+    "name": "IconArrowNarrowPointingDirectionUpRight",
+    "title": "Arrow Narrow Pointing Direction Up Right",
+    "tag": "arrow | outward"
+  },
+  {
+    "name": "IconArrowNarrowPointingDirectionUpLeft",
+    "title": "Arrow Narrow Pointing Direction Up Left",
+    "tag": "Arrow Narrow Pointing Direction Up Left"
+  },
+  {
+    "name": "IconArrowNarrowDirectionUp",
+    "title": "Arrow Narrow Direction Up",
+    "tag": "Arrow Narrow Direction Up"
+  },
+  {
+    "name": "IconArrowNarrowDirectionLeft",
+    "title": "Arrow Narrow Direction Left",
+    "tag": "Arrow Narrow Direction Left"
+  },
+  {
+    "name": "IconArrowNarrowPointingDirectionDownRight",
+    "title": "Arrow Narrow Pointing Direction Down Right",
+    "tag": "Arrow Narrow Pointing Direction Down Right"
+  },
+  {
+    "name": "IconArrowNarrowPointingDirectionDownLeft",
+    "title": "Arrow Narrow Pointing Direction Down Left",
+    "tag": "Arrow Narrow Pointing Direction Down Left"
+  },
+  {
+    "name": "IconArrowNarrowDirectionDown",
+    "title": "Arrow Narrow Direction Down",
+    "tag": "Arrow Narrow Direction Down"
+  },
+  {
+    "name": "IconArrowNarrowDirectionRight",
+    "title": "Arrow Narrow Direction Right",
+    "tag": "Arrow Narrow Direction Right"
+  },
+  {
+    "name": "IconArrowDoubleHorizontal",
+    "title": "Arrow Double Horizontal",
+    "tag": "Club Transfer"
+  },
+  {
+    "name": "IconArrowSyncDirectionDescending",
+    "title": "Arrow Sync Direction Descending",
+    "tag": "Arrow Sync Direction Descending"
+  },
+  {
+    "name": "IconArrowSyncDirectionAscending",
+    "title": "Arrow Sync Direction Ascending",
+    "tag": "Arrow Sync Direction Ascending"
+  },
+  {
+    "name": "IconActivityOutline",
+    "title": "Activity Outline",
+    "tag": "Activity Outline"
+  },
+  {
+    "name": "IconActivityFill",
+    "title": "Activity Fill",
+    "tag": "Activity Fill"
+  },
+  {
+    "name": "IconArrowFlowHoriozontalDirectionOutgoing",
+    "title": "Arrow Flow Horiozontal Direction Outgoing",
+    "tag": "Arrow Flow Horiozontal Direction Outgoing"
+  },
+  {
+    "name": "IconArrowFlowHoriozontalDirectionIncoming",
+    "title": "Arrow Flow Horiozontal Direction Incoming",
+    "tag": "Arrow Flow Horiozontal Direction Incoming"
+  },
+  {
+    "name": "IconArrowFlowVerticalProperty1ArrowDoubleDown",
+    "title": "Arrow Flow Vertical Property1 Arrow Double Down",
+    "tag": "Arrow Flow Vertical Property1 Arrow Double Down"
+  },
+  {
+    "name": "IconArrowFlowVerticalProperty1ArrowDoubleUp",
+    "title": "Arrow Flow Vertical Property1 Arrow Double Up",
+    "tag": "Arrow Flow Vertical Property1 Arrow Double Up"
+  },
+  {
+    "name": "IconAlertCircleStyleOutline",
+    "title": "Alert Circle Style Outline",
+    "tag": "Alert Circle Style Outline"
+  },
+  {
+    "name": "IconAlertOctagonStyleOutline",
+    "title": "Alert Octagon Style Outline",
+    "tag": "Alert Octagon Style Outline"
+  },
+  {
+    "name": "IconAlertTriangleStyleOutline",
+    "title": "Alert Triangle Style Outline",
+    "tag": "Alert Triangle Style Outline"
+  },
+  {
+    "name": "IconAlertOctagonStyleFill",
+    "title": "Alert Octagon Style Fill",
+    "tag": "Alert Octagon Style Fill"
+  },
+  {
+    "name": "IconAlertCircleStyleFill",
+    "title": "Alert Circle Style Fill",
+    "tag": "Alert Circle Style Fill"
+  },
+  {
+    "name": "IconAlertTriangleStyleBulk",
+    "title": "Alert Triangle Style Bulk",
+    "tag": "Alert Triangle Style Bulk"
+  },
+  {
+    "name": "IconAlertTriangleStyleFill",
+    "title": "Alert Triangle Style Fill",
+    "tag": "Alert Triangle Style Fill"
+  },
+  {
+    "name": "IconAlertOctagonStyleBulk",
+    "title": "Alert Octagon Style Bulk",
+    "tag": "Alert Octagon Style Bulk"
+  },
+  {
+    "name": "IconAlertCircleStyleBulk",
+    "title": "Alert Circle Style Bulk",
+    "tag": "Alert Circle Style Bulk"
+  },
+  {
+    "name": "IconAccountSettingsOutline",
+    "title": "Account Settings Outline",
+    "tag": "Account Settings Outline"
+  },
+  {
+    "name": "IconAccountSettingsFill",
+    "title": "Account Settings Fill",
+    "tag": "Account Settings Fill"
+  },
+  {
+    "name": "IconAccountFill",
+    "title": "Account Fill",
+    "tag": "Individual | user | profile"
+  },
+  {
+    "name": "IconAccountRemoveOutline",
+    "title": "Account Remove Outline",
+    "tag": "Suspend"
+  },
+  {
+    "name": "IconAccountRemoveFill",
+    "title": "Account Remove Fill",
+    "tag": "Account Remove Fill"
+  },
+  {
+    "name": "IconAccountOutline",
+    "title": "Account Outline",
+    "tag": "Individual | user | profile"
+  },
+  {
+    "name": "IconAccountMinusOutline",
+    "title": "Account Minus Outline",
+    "tag": "Inactive"
+  },
+  {
+    "name": "IconAccountMinusFill",
+    "title": "Account Minus Fill",
+    "tag": "Account Minus Fill"
+  },
+  {
+    "name": "IconAccountPlusOutline",
+    "title": "Account Plus Outline",
+    "tag": "Account Plus Outline"
+  },
+  {
+    "name": "IconAccountPlusFill",
+    "title": "Account Plus Fill",
+    "tag": "Account Plus Fill"
+  },
+  {
+    "name": "IconAccountCheckOutline",
+    "title": "Account Check Outline",
+    "tag": "Account Check Outline"
+  },
+  {
+    "name": "IconAccountCancelFill",
+    "title": "Account Cancel Fill",
+    "tag": "Account Cancel Fill"
+  },
+  {
+    "name": "IconAccountCancelOutline",
+    "title": "Account Cancel Outline",
+    "tag": "Account Cancel Outline"
+  },
+  {
+    "name": "IconAccountAlertOutline",
+    "title": "Account Alert Outline",
+    "tag": "Account Alert Outline"
+  },
+  {
+    "name": "IconAccountAlertFill",
+    "title": "Account Alert Fill",
+    "tag": "Account Alert Fill"
+  },
+  {
+    "name": "IconAccountCheckFill",
+    "title": "Account Check Fill",
+    "tag": "Account Check Fill"
+  },
+  {
+    "name": "IconAccountClockOutline",
+    "title": "Account Clock Outline",
+    "tag": "Account Clock Outline"
+  },
+  {
+    "name": "IconAccountClockFill",
+    "title": "Account Clock Fill",
+    "tag": "Account Clock Fill"
+  },
+  {
+    "name": "IconAccountTieFill",
+    "title": "Account Tie Fill",
+    "tag": "admin"
+  },
+  {
+    "name": "IconAccountStarOutline",
+    "title": "Account Star Outline",
+    "tag": "membership | user-star"
+  },
+  {
+    "name": "IconAccountStarFill",
+    "title": "Account Star Fill",
+    "tag": "Account Star Fill"
+  },
+  {
+    "name": "IconAccountOffOutline",
+    "title": "Account Off Outline",
+    "tag": "Account Off Outline"
+  },
+  {
+    "name": "IconAccountOffFill",
+    "title": "Account Off Fill",
+    "tag": "Account Off Fill"
+  },
+  {
+    "name": "IconAccountCircleOutline",
+    "title": "Account Circle Outline",
+    "tag": "Account Circle Outline"
+  },
+  {
+    "name": "IconAccountCircleFill",
+    "title": "Account Circle Fill",
+    "tag": "Account Circle Fill"
+  },
+  {
+    "name": "IconAccountChildCircleFill",
+    "title": "Account Child Circle Fill",
+    "tag": "Account Child Circle Fill"
+  },
+  {
+    "name": "IconAccountChildFill",
+    "title": "Account Child Fill",
+    "tag": "Account Child Fill"
+  },
+  {
+    "name": "IconAccountBadgeOutline",
+    "title": "Account Badge Outline",
+    "tag": "Account Badge Outline"
+  },
+  {
+    "name": "IconAccountBadgeFill",
+    "title": "Account Badge Fill",
+    "tag": "Account Badge Fill"
+  },
+  {
+    "name": "IconAccountMultipleOutline",
+    "title": "Account Multiple Outline",
+    "tag": "members"
+  },
+  {
+    "name": "IconAccountMultipleMinusFill",
+    "title": "Account Multiple Minus Fill",
+    "tag": "Account Multiple Minus Fill"
+  },
+  {
+    "name": "IconAccountMultipleFill",
+    "title": "Account Multiple Fill",
+    "tag": "Account Multiple Fill"
+  },
+  {
+    "name": "IconAccountGroupOutline",
+    "title": "Account Group Outline",
+    "tag": "Account Group Outline"
+  },
+  {
+    "name": "IconAccountGroupFill",
+    "title": "Account Group Fill",
+    "tag": "Account Group Fill"
+  },
+  {
+    "name": "IconAccountMultipleMinusOutline",
+    "title": "Account Multiple Minus Outline",
+    "tag": "Account Multiple Minus Outline"
+  },
+  {
+    "name": "IconAccountMultiplePlusOutline",
+    "title": "Account Multiple Plus Outline",
+    "tag": "Account Multiple Plus Outline"
+  },
+  {
+    "name": "IconAccountMultiplePlusFill",
+    "title": "Account Multiple Plus Fill",
+    "tag": "Account Multiple Plus Fill"
+  },
+  {
+    "name": "IconAccountChildOutline",
+    "title": "Account Child Outline",
+    "tag": "Account Child Outline"
+  },
+  {
+    "name": "IconAccountTieOutline",
+    "title": "Account Tie Outline",
+    "tag": "admin"
+  },
+  {
+    "name": "IconAccountChildCircleOutline",
+    "title": "Account Child Circle Outline",
+    "tag": "Account Child Circle Outline"
+  },
+  {
+    "name": "IconAccountText",
+    "title": "Account Text",
+    "tag": "Account Text"
+  },
+  {
+    "name": "IconAdd",
+    "title": "Add",
+    "tag": "plus"
+  },
+  {
+    "name": "IconAddCircleOutline",
+    "title": "Add Circle Outline",
+    "tag": "plus circle outline"
+  },
+  {
+    "name": "IconAddCircleFill",
+    "title": "Add Circle Fill",
+    "tag": "plus circle filled |"
+  },
+  {
+    "name": "IconAt",
+    "title": "At",
+    "tag": "At"
+  },
+  {
+    "name": "IconAdvanceSearch",
+    "title": "Advance Search",
+    "tag": "Advance Search"
+  },
+  {
+    "name": "IconAlarmLightOutline",
+    "title": "Alarm Light Outline",
+    "tag": "Alert indicator | Warning beacon | Notification signal | Emergency signal | Alarm indicator | Alert beacon | Caution light | Attention signal | Hazard light | Notification light"
+  },
+  {
+    "name": "IconAlarmLightFill",
+    "title": "Alarm Light Fill",
+    "tag": "Alert indicator | Warning beacon | Notification signal | Emergency signal | Alarm indicator | Alert beacon | Caution light | Attention signal | Hazard light | Notification light"
+  },
+  {
+    "name": "IconAlarmLightOffOutline",
+    "title": "Alarm Light Off Outline",
+    "tag": "Alert indicator | Warning beacon | Notification signal | Emergency signal | Alarm indicator | Alert beacon | Caution light | Attention signal | Hazard light | Notification light"
+  },
+  {
+    "name": "IconAlarmLightOffFill",
+    "title": "Alarm Light Off Fill",
+    "tag": "Alert indicator | Warning beacon | Notification signal | Emergency signal | Alarm indicator | Alert beacon | Caution light | Attention signal | Hazard light | Notification light"
+  },
+  {
+    "name": "IconActivitySwim",
+    "title": "Activity Swim",
+    "tag": "Activity Swim"
+  },
+  {
+    "name": "IconActivityRide",
+    "title": "Activity Ride",
+    "tag": "Activity Ride"
+  },
+  {
+    "name": "IconActivityRun",
+    "title": "Activity Run",
+    "tag": "Activity Run"
+  },
+  {
+    "name": "IconAlarmFill",
+    "title": "Alarm Fill",
+    "tag": "Alarm Fill"
+  },
+  {
+    "name": "IconAlarmOutline",
+    "title": "Alarm Outline",
+    "tag": "Alarm Outline"
+  },
+  {
+    "name": "IconAlarmCheckFill",
+    "title": "Alarm Check Fill",
+    "tag": "Alarm Check Fill"
+  },
+  {
+    "name": "IconAlarmCheckOutline",
+    "title": "Alarm Check Outline",
+    "tag": "Alarm Check Outline"
+  },
+  {
+    "name": "IconAlarmAddFill",
+    "title": "Alarm Add Fill",
+    "tag": "Alarm Add Fill"
+  },
+  {
+    "name": "IconAlarmAddOutline",
+    "title": "Alarm Add Outline",
+    "tag": "Alarm Add Outline"
+  },
+  {
+    "name": "IconAlarmPausedFill",
+    "title": "Alarm Paused Fill",
+    "tag": "Alarm Paused Fill"
+  },
+  {
+    "name": "IconAlarmPausedOutline",
+    "title": "Alarm Paused Outline",
+    "tag": "Alarm Paused Outline"
+  },
+  {
+    "name": "IconAlarmRemoveOutline",
+    "title": "Alarm Remove Outline",
+    "tag": "Alarm Remove Outline"
+  },
+  {
+    "name": "IconAlarmRemoveFill",
+    "title": "Alarm Remove Fill",
+    "tag": "Alarm Remove Fill"
+  },
+  {
+    "name": "IconArtificialIntelligenceAI",
+    "title": "Artificial Intelligence A I",
+    "tag": "ai | AI"
+  },
+  {
+    "name": "IconArrowBackDirectionRight",
+    "title": "Arrow Back Direction Right",
+    "tag": "Arrow Back Direction Right"
+  },
+  {
+    "name": "IconArrowBackDirectionLeft",
+    "title": "Arrow Back Direction Left",
+    "tag": "Arrow Back Direction Left"
+  },
+  {
+    "name": "IconBandedOutline",
+    "title": "Banded Outline",
+    "tag": "Banded Outline"
+  },
+  {
+    "name": "IconBookmarkOutline",
+    "title": "Bookmark Outline",
+    "tag": "Bookmark Outline"
+  },
+  {
+    "name": "IconBookmarkAddOutline",
+    "title": "Bookmark Add Outline",
+    "tag": "Bookmark Add Outline"
+  },
+  {
+    "name": "IconBookmarkAddedOutline",
+    "title": "Bookmark Added Outline",
+    "tag": "Bookmark Added Outline"
+  },
+  {
+    "name": "IconBookmarkRemoveOutline",
+    "title": "Bookmark Remove Outline",
+    "tag": "Bookmark Remove Outline"
+  },
+  {
+    "name": "IconArchiveOutline",
+    "title": "Archive Outline",
+    "tag": "Archive Outline"
+  },
+  {
+    "name": "IconBarChartAddOutline",
+    "title": "Bar Chart Add Outline",
+    "tag": "Bar Chart Add Outline"
+  },
+  {
+    "name": "IconBold",
+    "title": "Bold",
+    "tag": "Bold"
+  },
+  {
+    "name": "IconBookmarkFill",
+    "title": "Bookmark Fill",
+    "tag": "Bookmark Fill"
+  },
+  {
+    "name": "IconBookmarkAddedFill",
+    "title": "Bookmark Added Fill",
+    "tag": "Bookmark Added Fill"
+  },
+  {
+    "name": "IconBookmarkAddFill",
+    "title": "Bookmark Add Fill",
+    "tag": "Bookmark Add Fill"
+  },
+  {
+    "name": "IconBookmarkRemoveFill",
+    "title": "Bookmark Remove Fill",
+    "tag": "Bookmark Remove Fill"
+  },
+  {
+    "name": "IconBedFill",
+    "title": "Bed Fill",
+    "tag": "Bed Fill"
+  },
+  {
+    "name": "IconBedOutline",
+    "title": "Bed Outline",
+    "tag": "Bed Outline"
+  },
+  {
+    "name": "IconBankRemoveOutline",
+    "title": "Bank Remove Outline",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankOutline",
+    "title": "Bank Outline",
+    "tag": "finance | money | wealth | payment"
+  },
+  {
+    "name": "IconBankCheckFill",
+    "title": "Bank Check Fill",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankPlusOutline",
+    "title": "Bank Plus Outline",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankMinusOutline",
+    "title": "Bank Minus Outline",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankFill",
+    "title": "Bank Fill",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBackspaceLeftFill",
+    "title": "Backspace Left Fill",
+    "tag": "Backspace Left Fill"
+  },
+  {
+    "name": "IconBackspaceLeftOutline",
+    "title": "Backspace Left Outline",
+    "tag": "Backspace Left Outline"
+  },
+  {
+    "name": "IconBoatFill",
+    "title": "Boat Fill",
+    "tag": "Boat Fill"
+  },
+  {
+    "name": "IconBoatOutline",
+    "title": "Boat Outline",
+    "tag": "Boat Outline"
+  },
+  {
+    "name": "IconBathtubFill",
+    "title": "Bathtub Fill",
+    "tag": "Bathtub Fill"
+  },
+  {
+    "name": "IconBathtubOutline",
+    "title": "Bathtub Outline",
+    "tag": "Bathtub Outline"
+  },
+  {
+    "name": "IconUnarchiveFillFalse",
+    "title": "Unarchive Fill False",
+    "tag": "Unarchive Fill False"
+  },
+  {
+    "name": "IconArchiveFill",
+    "title": "Archive Fill",
+    "tag": "Archive Fill"
+  },
+  {
+    "name": "IconUnarchiveFillTrue",
+    "title": "Unarchive Fill True",
+    "tag": "Unarchive Fill True"
+  },
+  {
+    "name": "IconBarChartAddFill",
+    "title": "Bar Chart Add Fill",
+    "tag": "Bar Chart Add Fill"
+  },
+  {
+    "name": "IconBarChartRemoveFill",
+    "title": "Bar Chart Remove Fill",
+    "tag": "Bar Chart Remove Fill"
+  },
+  {
+    "name": "IconBarChartRemoveOutline",
+    "title": "Bar Chart Remove Outline",
+    "tag": "Bar Chart Remove Outline"
+  },
+  {
+    "name": "IconBriefcaseFill",
+    "title": "Briefcase Fill",
+    "tag": "Work"
+  },
+  {
+    "name": "IconBriefcaseOutline",
+    "title": "Briefcase Outline",
+    "tag": "Work"
+  },
+  {
+    "name": "IconBankCheckOutline",
+    "title": "Bank Check Outline",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankMinusFill",
+    "title": "Bank Minus Fill",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankRemoveFill",
+    "title": "Bank Remove Fill",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankTransitOutline",
+    "title": "Bank Transit Outline",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankTransitFill",
+    "title": "Bank Transit Fill",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankPlusFill",
+    "title": "Bank Plus Fill",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBandedFill",
+    "title": "Banded Fill",
+    "tag": "Banded Fill"
+  },
+  {
+    "name": "IconCopyOutline",
+    "title": "Copy Outline",
+    "tag": "Copy Outline"
+  },
+  {
+    "name": "IconCategoryFillCategoryOutline",
+    "title": "Category Fill Category Outline",
+    "tag": "Category Fill Category Outline"
+  },
+  {
+    "name": "IconCartFill",
+    "title": "Cart Fill",
+    "tag": "Cart Fill"
+  },
+  {
+    "name": "IconCartOutline",
+    "title": "Cart Outline",
+    "tag": "Cart Outline"
+  },
+  {
+    "name": "IconCheckCircleStyleOutline",
+    "title": "Check Circle Style Outline",
+    "tag": "Check Circle Style Outline"
+  },
+  {
+    "name": "IconCheckCircleStyleFill",
+    "title": "Check Circle Style Fill",
+    "tag": "Check Circle Style Fill"
+  },
+  {
+    "name": "IconCloseStyleOutline",
+    "title": "Close Style Outline",
+    "tag": "Close Style Outline"
+  },
+  {
+    "name": "IconCloseStyleFill",
+    "title": "Close Style Fill",
+    "tag": "Close Style Fill"
+  },
+  {
+    "name": "IconCategoryFillCategoryFilled",
+    "title": "Category Fill Category Filled",
+    "tag": "Category Fill Category Filled"
+  },
+  {
+    "name": "IconCategoryAddFillCategoryAddOutline",
+    "title": "Category Add Fill Category Add Outline",
+    "tag": "Category Add Fill Category Add Outline"
+  },
+  {
+    "name": "IconCategoryAddFillCategoryAddFilled",
+    "title": "Category Add Fill Category Add Filled",
+    "tag": "Category Add Fill Category Add Filled"
+  },
+  {
+    "name": "IconCopyFill",
+    "title": "Copy Fill",
+    "tag": "Copy Fill"
+  },
+  {
+    "name": "IconCheckCircleStyleBulk",
+    "title": "Check Circle Style Bulk",
+    "tag": "Check Circle Style Bulk"
+  },
+  {
+    "name": "IconCloseStyleBulk",
+    "title": "Close Style Bulk",
+    "tag": "Close Style Bulk"
+  },
+  {
+    "name": "IconClose",
+    "title": "Close",
+    "tag": "Close"
+  },
+  {
+    "name": "IconCheck",
+    "title": "Check",
+    "tag": "Check"
+  },
+  {
+    "name": "IconCheckCircleBroken",
+    "title": "Check Circle Broken",
+    "tag": "Check Circle Broken"
+  },
+  {
+    "name": "IconCheckCircleBrokenOff",
+    "title": "Check Circle Broken Off",
+    "tag": "Check Circle Broken Off"
+  },
+  {
+    "name": "IconCurrencyYen",
+    "title": "Currency Yen",
+    "tag": "Currency Yen"
+  },
+  {
+    "name": "IconCurrencyRupee",
+    "title": "Currency Rupee",
+    "tag": "Currency Rupee"
+  },
+  {
+    "name": "IconCurrencyEuro",
+    "title": "Currency Euro",
+    "tag": "Currency Euro"
+  },
+  {
+    "name": "IconCurrencyDollar",
+    "title": "Currency Dollar",
+    "tag": "Currency Dollar"
+  },
+  {
+    "name": "IconCurrencyPound",
+    "title": "Currency Pound",
+    "tag": "Currency Pound"
+  },
+  {
+    "name": "IconCheckAllTypeAvailable",
+    "title": "Check All Type Available",
+    "tag": "Check All Type Available"
+  },
+  {
+    "name": "IconCheckAllTypeNotAvailable",
+    "title": "Check All Type Not Available",
+    "tag": "Check All Type Not Available"
+  },
+  {
+    "name": "IconClockAddOutline",
+    "title": "Clock Add Outline",
+    "tag": "Clock Add Outline"
+  },
+  {
+    "name": "IconClockOutline",
+    "title": "Clock Outline",
+    "tag": "Clock Outline"
+  },
+  {
+    "name": "IconClockFill",
+    "title": "Clock Fill",
+    "tag": "Clock Fill"
+  },
+  {
+    "name": "IconCalculatorOutline",
+    "title": "Calculator Outline",
+    "tag": "Calculator Outline"
+  },
+  {
+    "name": "IconCalculatorFill",
+    "title": "Calculator Fill",
+    "tag": "Calculator Fill"
+  },
+  {
+    "name": "IconClockAddFill",
+    "title": "Clock Add Fill",
+    "tag": "Clock Add Fill"
+  },
+  {
+    "name": "IconCameraPlusOutline",
+    "title": "Camera Plus Outline",
+    "tag": "Camera Plus Outline"
+  },
+  {
+    "name": "IconCameraPlusFill",
+    "title": "Camera Plus Fill",
+    "tag": "Camera Plus Fill"
+  },
+  {
+    "name": "IconCameraOffFill",
+    "title": "Camera Off Fill",
+    "tag": "Camera Off Fill"
+  },
+  {
+    "name": "IconCameraOffOutline",
+    "title": "Camera Off Outline",
+    "tag": "Camera Off Outline"
+  },
+  {
+    "name": "IconCameraOutline",
+    "title": "Camera Outline",
+    "tag": "Camera Outline"
+  },
+  {
+    "name": "IconCameraFill",
+    "title": "Camera Fill",
+    "tag": "Camera Fill"
+  },
+  {
+    "name": "IconCurrencyGlobalOutline",
+    "title": "Currency Global Outline",
+    "tag": "Currency Global Outline"
+  },
+  {
+    "name": "IconCurrencyGlobalFill",
+    "title": "Currency Global Fill",
+    "tag": "Currency Global Fill"
+  },
+  {
+    "name": "IconCameraSwape",
+    "title": "Camera Swape",
+    "tag": "Camera Swape"
+  },
+  {
+    "name": "IconCreditCardCheckOutline",
+    "title": "Credit Card Check Outline",
+    "tag": "Credit Card Check Outline"
+  },
+  {
+    "name": "IconCreditCardOutline",
+    "title": "Credit Card Outline",
+    "tag": "Credit Card Outline"
+  },
+  {
+    "name": "IconRefundOutline",
+    "title": "Refund Outline",
+    "tag": "Refund Outline"
+  },
+  {
+    "name": "IconColumnsOutline",
+    "title": "Columns Outline",
+    "tag": "Columns Outline"
+  },
+  {
+    "name": "IconColumnsFill",
+    "title": "Columns Fill",
+    "tag": "Columns Fill"
+  },
+  {
+    "name": "IconCreditCardSubscriptionFill",
+    "title": "Credit Card Subscription Fill",
+    "tag": "subscription"
+  },
+  {
+    "name": "IconCreditCardFill",
+    "title": "Credit Card Fill",
+    "tag": "Credit Card Fill"
+  },
+  {
+    "name": "IconCreditCardCheckFill",
+    "title": "Credit Card Check Fill",
+    "tag": "Credit Card Check Fill"
+  },
+  {
+    "name": "IconCreditCardSubscriptionOutline",
+    "title": "Credit Card Subscription Outline",
+    "tag": "subscription"
+  },
+  {
+    "name": "IconCreditCardAddOutline",
+    "title": "Credit Card Add Outline",
+    "tag": "Credit Card Add Outline"
+  },
+  {
+    "name": "IconCreditCardAddFill",
+    "title": "Credit Card Add Fill",
+    "tag": "Credit Card Add Fill"
+  },
+  {
+    "name": "IconCreditCardCloseFill",
+    "title": "Credit Card Close Fill",
+    "tag": "Credit Card Close Fill"
+  },
+  {
+    "name": "IconCreditCardCloseOutline",
+    "title": "Credit Card Close Outline",
+    "tag": "Credit Card Close Outline"
+  },
+  {
+    "name": "IconCreditCardRemoveOutline",
+    "title": "Credit Card Remove Outline",
+    "tag": "Credit Card Remove Outline"
+  },
+  {
+    "name": "IconCreditCardRemoveFill",
+    "title": "Credit Card Remove Fill",
+    "tag": "Credit Card Remove Fill"
+  },
+  {
+    "name": "IconCreditCardEditFill",
+    "title": "Credit Card Edit Fill",
+    "tag": "Credit Card Edit Fill"
+  },
+  {
+    "name": "IconCreditCardEditOutline",
+    "title": "Credit Card Edit Outline",
+    "tag": "Credit Card Edit Outline"
+  },
+  {
+    "name": "IconCreditCardOffOutline",
+    "title": "Credit Card Off Outline",
+    "tag": "Credit Card Off Outline"
+  },
+  {
+    "name": "IconCreditCardOffFill",
+    "title": "Credit Card Off Fill",
+    "tag": "Credit Card Off Fill"
+  },
+  {
+    "name": "IconCreditCardLockOutline",
+    "title": "Credit Card Lock Outline",
+    "tag": "Credit Card Lock Outline"
+  },
+  {
+    "name": "IconCreditCardLockFill",
+    "title": "Credit Card Lock Fill",
+    "tag": "Credit Card Lock Fill"
+  },
+  {
+    "name": "IconCreditCardClockOutline",
+    "title": "Credit Card Clock Outline",
+    "tag": "Credit Card Clock Outline"
+  },
+  {
+    "name": "IconCreditCardClockFill",
+    "title": "Credit Card Clock Fill",
+    "tag": "Credit Card Clock Fill"
+  },
+  {
+    "name": "IconCircleOutline",
+    "title": "Circle Outline",
+    "tag": "Circle Outline"
+  },
+  {
+    "name": "IconCircleFill",
+    "title": "Circle Fill",
+    "tag": "Circle Fill"
+  },
+  {
+    "name": "IconRefundFill",
+    "title": "Refund Fill",
+    "tag": "Refund Fill"
+  },
+  {
+    "name": "IconCloudOutline",
+    "title": "Cloud Outline",
+    "tag": "Cloud Outline"
+  },
+  {
+    "name": "IconCloudFill",
+    "title": "Cloud Fill",
+    "tag": "Cloud Fill"
+  },
+  {
+    "name": "IconCloudCheckOutline",
+    "title": "Cloud Check Outline",
+    "tag": "Cloud Check Outline"
+  },
+  {
+    "name": "IconCloudCheckFill",
+    "title": "Cloud Check Fill",
+    "tag": "Cloud Check Fill"
+  },
+  {
+    "name": "IconCreditCardSettingsOutline",
+    "title": "Credit Card Settings Outline",
+    "tag": "Credit Card Settings Outline"
+  },
+  {
+    "name": "IconCreditCardSettingsFill",
+    "title": "Credit Card Settings Fill",
+    "tag": "Credit Card Settings Fill"
+  },
+  {
+    "name": "IconCalendarMonthFill",
+    "title": "Calendar Month Fill",
+    "tag": "Calendar Month Fill"
+  },
+  {
+    "name": "IconCalendarBlankFill",
+    "title": "Calendar Blank Fill",
+    "tag": "Calendar Blank Fill"
+  },
+  {
+    "name": "IconCalendarEventRepeatOutline",
+    "title": "Calendar Event Repeat Outline",
+    "tag": "Calendar Event Repeat Outline"
+  },
+  {
+    "name": "IconCalendarBlankOutline",
+    "title": "Calendar Blank Outline",
+    "tag": "Calendar Blank Outline"
+  },
+  {
+    "name": "IconCalendarMultiselectOutline",
+    "title": "Calendar Multiselect Outline",
+    "tag": "Calendar Multiselect Outline"
+  },
+  {
+    "name": "IconCalendarTodayOutline",
+    "title": "Calendar Today Outline",
+    "tag": "Calendar Today Outline"
+  },
+  {
+    "name": "IconCalendarTodayFill",
+    "title": "Calendar Today Fill",
+    "tag": "Calendar Today Fill"
+  },
+  {
+    "name": "IconCalendarClockOutline",
+    "title": "Calendar Clock Outline",
+    "tag": "Installment | Instalment"
+  },
+  {
+    "name": "IconCalendarCheckOutline",
+    "title": "Calendar Check Outline",
+    "tag": "booking | events"
+  },
+  {
+    "name": "IconCalendarMultiselectFill",
+    "title": "Calendar Multiselect Fill",
+    "tag": "Calendar Multiselect Fill"
+  },
+  {
+    "name": "IconCalendarCheckFill",
+    "title": "Calendar Check Fill",
+    "tag": "Calendar Check Fill"
+  },
+  {
+    "name": "IconCalendarMonthOutline",
+    "title": "Calendar Month Outline",
+    "tag": "Calendar Month Outline"
+  },
+  {
+    "name": "IconCalendarEventRepeatFill",
+    "title": "Calendar Event Repeat Fill",
+    "tag": "Calendar Event Repeat Fill"
+  },
+  {
+    "name": "IconCalendarClockFill",
+    "title": "Calendar Clock Fill",
+    "tag": "Installment | Instalment"
+  },
+  {
+    "name": "IconCalendarClosedFill",
+    "title": "Calendar Closed Fill",
+    "tag": "Calendar Closed Fill"
+  },
+  {
+    "name": "IconCalendarClosedOutline",
+    "title": "Calendar Closed Outline",
+    "tag": "Calendar Closed Outline"
+  },
+  {
+    "name": "IconCloudOffOutline",
+    "title": "Cloud Off Outline",
+    "tag": "Cloud Off Outline"
+  },
+  {
+    "name": "IconCloudOffFill",
+    "title": "Cloud Off Fill",
+    "tag": "Cloud Off Fill"
+  },
+  {
+    "name": "IconCloudSyncOutline",
+    "title": "Cloud Sync Outline",
+    "tag": "Cloud Sync Outline"
+  },
+  {
+    "name": "IconCloudSyncFill",
+    "title": "Cloud Sync Fill",
+    "tag": "Cloud Sync Fill"
+  },
+  {
+    "name": "IconCashSyncFill",
+    "title": "Cash Sync Fill",
+    "tag": "Cash Sync Fill"
+  },
+  {
+    "name": "IconCashSyncOutline",
+    "title": "Cash Sync Outline",
+    "tag": "Cash Sync Outline"
+  },
+  {
+    "name": "IconCashClockFill",
+    "title": "Cash Clock Fill",
+    "tag": "Cash Clock Fill"
+  },
+  {
+    "name": "IconCashClockOutline",
+    "title": "Cash Clock Outline",
+    "tag": "Cash Clock Outline"
+  },
+  {
+    "name": "IconCashCloseFill",
+    "title": "Cash Close Fill",
+    "tag": "Cash Close Fill"
+  },
+  {
+    "name": "IconCashCloseOutline",
+    "title": "Cash Close Outline",
+    "tag": "Cash Close Outline"
+  },
+  {
+    "name": "IconCashAddFill",
+    "title": "Cash Add Fill",
+    "tag": "Cash Add Fill"
+  },
+  {
+    "name": "IconCashAddOutline",
+    "title": "Cash Add Outline",
+    "tag": "Cash Add Outline"
+  },
+  {
+    "name": "IconCashMultipleFill",
+    "title": "Cash Multiple Fill",
+    "tag": "Cash Multiple Fill"
+  },
+  {
+    "name": "IconCashMultipleOutline",
+    "title": "Cash Multiple Outline",
+    "tag": "Cash Multiple Outline"
+  },
+  {
+    "name": "IconCashFill",
+    "title": "Cash Fill",
+    "tag": "Cash Fill"
+  },
+  {
+    "name": "IconCashOutline",
+    "title": "Cash Outline",
+    "tag": "Cash Outline"
+  },
+  {
+    "name": "IconCalendarSavedFill",
+    "title": "Calendar Saved Fill",
+    "tag": "Calendar Saved Fill"
+  },
+  {
+    "name": "IconCalendarSavedOutline",
+    "title": "Calendar Saved Outline",
+    "tag": "Calendar Saved Outline"
+  },
+  {
+    "name": "IconCalendarSavedVariantOutline",
+    "title": "Calendar Saved Variant Outline",
+    "tag": "Calendar Saved Variant Outline"
+  },
+  {
+    "name": "IconCalendarSavedVariantFill",
+    "title": "Calendar Saved Variant Fill",
+    "tag": "Calendar Saved Variant Fill"
+  },
+  {
+    "name": "IconCalendarSettingsFill",
+    "title": "Calendar Settings Fill",
+    "tag": "Calendar Settings Fill"
+  },
+  {
+    "name": "IconCalendarSettingsOutline",
+    "title": "Calendar Settings Outline",
+    "tag": "Calendar Settings Outline"
+  },
+  {
+    "name": "IconConversationOutline",
+    "title": "Conversation Outline",
+    "tag": "message | chat | conversations"
+  },
+  {
+    "name": "IconConversationFill",
+    "title": "Conversation Fill",
+    "tag": "message | chat | conversations"
+  },
+  {
+    "name": "IconCalendarEditOutline",
+    "title": "Calendar Edit Outline",
+    "tag": "Installment | Instalment"
+  },
+  {
+    "name": "IconCalendarEditFill",
+    "title": "Calendar Edit Fill",
+    "tag": "Installment | Instalment"
+  },
+  {
+    "name": "IconCursorDefaultClick",
+    "title": "Cursor Default Click",
+    "tag": "Cursor Default Click"
+  },
+  {
+    "name": "IconCrop",
+    "title": "Crop",
+    "tag": "image | crop"
+  },
+  {
+    "name": "IconCode",
+    "title": "Code",
+    "tag": "code | embed | embedded | development | iframe"
+  },
+  {
+    "name": "IconCircleHalfFull",
+    "title": "Circle Half Full",
+    "tag": "Mode | Appearance | Look | Theme"
+  },
+  {
+    "name": "IconChevronDirectionDown",
+    "title": "Chevron Direction Down",
+    "tag": "Chevron Direction Down"
+  },
+  {
+    "name": "IconChevronAdjustingDirectionExpand",
+    "title": "Chevron Adjusting Direction Expand",
+    "tag": "Chevron Adjusting Direction Expand"
+  },
+  {
+    "name": "IconChevronAdjustingDirectionExpandHorizontal",
+    "title": "Chevron Adjusting Direction Expand Horizontal",
+    "tag": "Chevron Adjusting Direction Expand Horizontal"
+  },
+  {
+    "name": "IconChevronDoubleDirectionRight",
+    "title": "Chevron Double Direction Right",
+    "tag": "Chevron Double Direction Right"
+  },
+  {
+    "name": "IconChevronDirectionRight",
+    "title": "Chevron Direction Right",
+    "tag": "Chevron Direction Right"
+  },
+  {
+    "name": "IconChevronDoubleDirectionLeft",
+    "title": "Chevron Double Direction Left",
+    "tag": "Chevron Double Direction Left"
+  },
+  {
+    "name": "IconChevronDirectionUp",
+    "title": "Chevron Direction Up",
+    "tag": "Chevron Direction Up"
+  },
+  {
+    "name": "IconChevronDoubleDirectionUp",
+    "title": "Chevron Double Direction Up",
+    "tag": "show less"
+  },
+  {
+    "name": "IconChevronDirectionLeft",
+    "title": "Chevron Direction Left",
+    "tag": "Chevron Direction Left"
+  },
+  {
+    "name": "IconChevronDoubleDirectionDown",
+    "title": "Chevron Double Direction Down",
+    "tag": "show more"
+  },
+  {
+    "name": "IconColorsOutline",
+    "title": "Colors Outline",
+    "tag": "Colors Outline"
+  },
+  {
+    "name": "IconChevronAdjustingDirectionCollapse",
+    "title": "Chevron Adjusting Direction Collapse",
+    "tag": "Chevron Adjusting Direction Collapse"
+  },
+  {
+    "name": "IconCommentAddOutline",
+    "title": "Comment Add Outline",
+    "tag": "Comment Add Outline"
+  },
+  {
+    "name": "IconCommentAddFill",
+    "title": "Comment Add Fill",
+    "tag": "Comment Add Fill"
+  },
+  {
+    "name": "IconCommentFill",
+    "title": "Comment Fill",
+    "tag": "Comment Fill"
+  },
+  {
+    "name": "IconCommentOutline",
+    "title": "Comment Outline",
+    "tag": "Comment Outline"
+  },
+  {
+    "name": "IconClubFill",
+    "title": "Club Fill",
+    "tag": "Club Fill"
+  },
+  {
+    "name": "IconCakeFilledFill",
+    "title": "Cake Filled Fill",
+    "tag": "Cake Filled Fill"
+  },
+  {
+    "name": "IconCakeAddFill",
+    "title": "Cake Add Fill",
+    "tag": "Cake Add Fill"
+  },
+  {
+    "name": "IconCakeAddOutline",
+    "title": "Cake Add Outline",
+    "tag": "Cake Add Outline"
+  },
+  {
+    "name": "IconCakeFilledOutline",
+    "title": "Cake Filled Outline",
+    "tag": "Cake Filled Outline"
+  },
+  {
+    "name": "IconCrownOutline",
+    "title": "Crown Outline",
+    "tag": "Premium"
+  },
+  {
+    "name": "IconCrownFill",
+    "title": "Crown Fill",
+    "tag": "Premium"
+  },
+  {
+    "name": "IconCrownCircleFill",
+    "title": "Crown Circle Fill",
+    "tag": "Premium"
+  },
+  {
+    "name": "IconCrownCircleOutline",
+    "title": "Crown Circle Outline",
+    "tag": "Premium"
+  },
+  {
+    "name": "IconCredentialClockFill",
+    "title": "Credential Clock Fill",
+    "tag": "Credential Clock Fill"
+  },
+  {
+    "name": "IconCredentialCalendrerCloseFill",
+    "title": "Credential Calendrer Close Fill",
+    "tag": "Credential Calendrer Close Fill"
+  },
+  {
+    "name": "IconCredentialWarningFillTrue",
+    "title": "Credential Warning Fill True",
+    "tag": "Credential Warning Fill True"
+  },
+  {
+    "name": "IconCredentialCloseFill",
+    "title": "Credential Close Fill",
+    "tag": "Credential Close Fill"
+  },
+  {
+    "name": "IconCredentialEditOutline",
+    "title": "Credential Edit Outline",
+    "tag": "Credential Edit Outline"
+  },
+  {
+    "name": "IconCredentialAddFill",
+    "title": "Credential Add Fill",
+    "tag": "Credential Add Fill"
+  },
+  {
+    "name": "IconCredentialFill",
+    "title": "Credential Fill",
+    "tag": "Credential Fill"
+  },
+  {
+    "name": "IconCredentialClockOutline",
+    "title": "Credential Clock Outline",
+    "tag": "Credential Clock Outline"
+  },
+  {
+    "name": "IconCredentialCheckFill",
+    "title": "Credential Check Fill",
+    "tag": "Credential Check Fill"
+  },
+  {
+    "name": "IconCredentialWarningFillFalse",
+    "title": "Credential Warning Fill False",
+    "tag": "Credential Warning Fill False"
+  },
+  {
+    "name": "IconCredentialCloseOutline",
+    "title": "Credential Close Outline",
+    "tag": "Credential Close Outline"
+  },
+  {
+    "name": "IconCredentialCheckOutline",
+    "title": "Credential Check Outline",
+    "tag": "Credential Check Outline"
+  },
+  {
+    "name": "IconCredentialAddOutline",
+    "title": "Credential Add Outline",
+    "tag": "Credential Add Outline"
+  },
+  {
+    "name": "IconCredentialEditFill",
+    "title": "Credential Edit Fill",
+    "tag": "Credential Edit Fill"
+  },
+  {
+    "name": "IconCredentialCalendrerCloseOutline",
+    "title": "Credential Calendrer Close Outline",
+    "tag": "Credential Calendrer Close Outline"
+  },
+  {
+    "name": "IconCredentialOutline",
+    "title": "Credential Outline",
+    "tag": "Credential Outline"
+  },
+  {
+    "name": "IconClassFill",
+    "title": "Class Fill",
+    "tag": "Class Fill"
+  },
+  {
+    "name": "IconClassOutline",
+    "title": "Class Outline",
+    "tag": "Class Outline"
+  },
+  {
+    "name": "IconCampFill",
+    "title": "Camp Fill",
+    "tag": "Camp Fill"
+  },
+  {
+    "name": "IconCampOutline",
+    "title": "Camp Outline",
+    "tag": "Camp Outline"
+  },
+  {
+    "name": "IconColorsFill",
+    "title": "Colors Fill",
+    "tag": "Colors Fill"
+  },
+  {
+    "name": "IconClubOutline",
+    "title": "Club Outline",
+    "tag": "Club Outline"
+  },
+  {
+    "name": "IconClubAddOutline",
+    "title": "Club Add Outline",
+    "tag": "Club Add Outline"
+  },
+  {
+    "name": "IconClubAddFill",
+    "title": "Club Add Fill",
+    "tag": "Club Add Fill"
+  },
+  {
+    "name": "IconClubRemoveFillFalse",
+    "title": "Club Remove Fill False",
+    "tag": "Club Remove Fill False"
+  },
+  {
+    "name": "IconClubRemoveFillTrue",
+    "title": "Club Remove Fill True",
+    "tag": "Club Remove Fill True"
+  },
+  {
+    "name": "IconChecklistOutline",
+    "title": "Checklist Outline",
+    "tag": "Checklist Outline"
+  },
+  {
+    "name": "IconChecklistFill",
+    "title": "Checklist Fill",
+    "tag": "Checklist Fill"
+  },
+  {
+    "name": "IconCheckListClipboardEditFill",
+    "title": "Check List Clipboard Edit Fill",
+    "tag": "Check List Clipboard Edit Fill"
+  },
+  {
+    "name": "IconCheckListClipboardEditOutline",
+    "title": "Check List Clipboard Edit Outline",
+    "tag": "Check List Clipboard Edit Outline"
+  },
+  {
+    "name": "IconCheckListClipboardFill",
+    "title": "Check List Clipboard Fill",
+    "tag": "Check List Clipboard Fill"
+  },
+  {
+    "name": "IconCheckListClipboardOutline",
+    "title": "Check List Clipboard Outline",
+    "tag": "Check List Clipboard Outline"
+  },
+  {
+    "name": "IconCredentialSettingsFill",
+    "title": "Credential Settings Fill",
+    "tag": "Credential Settings Fill"
+  },
+  {
+    "name": "IconCredentialSettingsOutline",
+    "title": "Credential Settings Outline",
+    "tag": "Credential Settings Outline"
+  },
+  {
+    "name": "IconClubProfileFill",
+    "title": "Club Profile Fill",
+    "tag": "Club Profile Fill"
+  },
+  {
+    "name": "IconClubProfileOutline",
+    "title": "Club Profile Outline",
+    "tag": "Club Profile Outline"
+  },
+  {
+    "name": "IconChevronCircleRightOutline",
+    "title": "Chevron Circle Right Outline",
+    "tag": "Chevron Circle Right Outline"
+  },
+  {
+    "name": "IconChevronCircleLeftOutline",
+    "title": "Chevron Circle Left Outline",
+    "tag": "Chevron Circle Left Outline"
+  },
+  {
+    "name": "IconChevronCircleRightFill",
+    "title": "Chevron Circle Right Fill",
+    "tag": "Chevron Circle Right Fill"
+  },
+  {
+    "name": "IconChevronCircleLeftFill",
+    "title": "Chevron Circle Left Fill",
+    "tag": "Chevron Circle Left Fill"
+  },
+  {
+    "name": "IconDownloadTypeAvailable",
+    "title": "Download Type Available",
+    "tag": "Download Type Available"
+  },
+  {
+    "name": "IconDotsTypeVertical",
+    "title": "Dots Type Vertical",
+    "tag": "Dots Type Vertical"
+  },
+  {
+    "name": "IconDotsTypeHorizontal",
+    "title": "Dots Type Horizontal",
+    "tag": "Dots Type Horizontal"
+  },
+  {
+    "name": "IconDocumentTextBoxSearchOutline",
+    "title": "Document Text Box Search Outline",
+    "tag": "Document Text Box Search Outline"
+  },
+  {
+    "name": "IconDocumentTextBoxSearchFill",
+    "title": "Document Text Box Search Fill",
+    "tag": "Document Text Box Search Fill"
+  },
+  {
+    "name": "IconDocumentTextBoxRemoveOutline",
+    "title": "Document Text Box Remove Outline",
+    "tag": "Document Text Box Remove Outline"
+  },
+  {
+    "name": "IconDocumentTextBoxRemoveFill",
+    "title": "Document Text Box Remove Fill",
+    "tag": "Document Text Box Remove Fill"
+  },
+  {
+    "name": "IconDocumentTextBoxPlusOutline",
+    "title": "Document Text Box Plus Outline",
+    "tag": "Document Text Box Plus Outline"
+  },
+  {
+    "name": "IconDocumentTextBoxPlusFill",
+    "title": "Document Text Box Plus Fill",
+    "tag": "Document Text Box Plus Fill"
+  },
+  {
+    "name": "IconDocumentTextBoxMinusOutline",
+    "title": "Document Text Box Minus Outline",
+    "tag": "Document Text Box Minus Outline"
+  },
+  {
+    "name": "IconDocumentTextBoxMinusFill",
+    "title": "Document Text Box Minus Fill",
+    "tag": "Document Text Box Minus Fill"
+  },
+  {
+    "name": "IconDocumentTextBoxFill",
+    "title": "Document Text Box Fill",
+    "tag": "Document Text Box Fill"
+  },
+  {
+    "name": "IconDocumentTextBoxCheckOutline",
+    "title": "Document Text Box Check Outline",
+    "tag": "Document Text Box Check Outline"
+  },
+  {
+    "name": "IconDatabaseSyncOutline",
+    "title": "Database Sync Outline",
+    "tag": "Database Sync Outline"
+  },
+  {
+    "name": "IconDatabaseSyncFill",
+    "title": "Database Sync Fill",
+    "tag": "Database Sync Fill"
+  },
+  {
+    "name": "IconDatabasePlusOutline",
+    "title": "Database Plus Outline",
+    "tag": "Database Plus Outline"
+  },
+  {
+    "name": "IconDatabaseOutline",
+    "title": "Database Outline",
+    "tag": "Database Outline"
+  },
+  {
+    "name": "IconDatabaseOffOutline",
+    "title": "Database Off Outline",
+    "tag": "Database Off Outline"
+  },
+  {
+    "name": "IconDatabaseOffFill",
+    "title": "Database Off Fill",
+    "tag": "Database Off Fill"
+  },
+  {
+    "name": "IconDatabaseMinusOutline",
+    "title": "Database Minus Outline",
+    "tag": "Database Minus Outline"
+  },
+  {
+    "name": "IconDatabaseMinusFill",
+    "title": "Database Minus Fill",
+    "tag": "Database Minus Fill"
+  },
+  {
+    "name": "IconDatabaseImportOutline",
+    "title": "Database Import Outline",
+    "tag": "Database Import Outline"
+  },
+  {
+    "name": "IconDatabaseImportFill",
+    "title": "Database Import Fill",
+    "tag": "Database Import Fill"
+  },
+  {
+    "name": "IconDatabaseExportOutline",
+    "title": "Database Export Outline",
+    "tag": "Database Export Outline"
+  },
+  {
+    "name": "IconDatabaseExportFill",
+    "title": "Database Export Fill",
+    "tag": "Database Export Fill"
+  },
+  {
+    "name": "IconDatabaseEditOutline",
+    "title": "Database Edit Outline",
+    "tag": "Database Edit Outline"
+  },
+  {
+    "name": "IconDatabaseSettingsOutline",
+    "title": "Database Settings Outline",
+    "tag": "Database Settings Outline"
+  },
+  {
+    "name": "IconDatabaseSettingsFill",
+    "title": "Database Settings Fill",
+    "tag": "Database Settings Fill"
+  },
+  {
+    "name": "IconDatabaseCheckOutline",
+    "title": "Database Check Outline",
+    "tag": "Database Check Outline"
+  },
+  {
+    "name": "IconDatabaseRemoveFill",
+    "title": "Database Remove Fill",
+    "tag": "Database Remove Fill"
+  },
+  {
+    "name": "IconDatabaseEyeOffOutline",
+    "title": "Database Eye Off Outline",
+    "tag": "Database Eye Off Outline"
+  },
+  {
+    "name": "IconDatabasePlusFill",
+    "title": "Database Plus Fill",
+    "tag": "Database Plus Fill"
+  },
+  {
+    "name": "IconDatabaseEyeOffFill",
+    "title": "Database Eye Off Fill",
+    "tag": "Database Eye Off Fill"
+  },
+  {
+    "name": "IconDatabaseEyeFill",
+    "title": "Database Eye Fill",
+    "tag": "Database Eye Fill"
+  },
+  {
+    "name": "IconDatabaseCheckFill",
+    "title": "Database Check Fill",
+    "tag": "Database Check Fill"
+  },
+  {
+    "name": "IconDatabaseFill",
+    "title": "Database Fill",
+    "tag": "Database Fill"
+  },
+  {
+    "name": "IconDatabaseEditFill",
+    "title": "Database Edit Fill",
+    "tag": "Database Edit Fill"
+  },
+  {
+    "name": "IconDocumentClockFill",
+    "title": "Document Clock Fill",
+    "tag": "Document Clock Fill"
+  },
+  {
+    "name": "IconDocumentClockOutline",
+    "title": "Document Clock Outline",
+    "tag": "Document Clock Outline"
+  },
+  {
+    "name": "IconDocumentTextBoxOutline",
+    "title": "Document Text Box Outline",
+    "tag": "Document Text Box Outline"
+  },
+  {
+    "name": "IconDocumentTextBoxClockOutline",
+    "title": "Document Text Box Clock Outline",
+    "tag": "Document Text Box Clock Outline"
+  },
+  {
+    "name": "IconDocumentTextBoxClockFill",
+    "title": "Document Text Box Clock Fill",
+    "tag": "Document Text Box Clock Fill"
+  },
+  {
+    "name": "IconDownloadTypeNotAvailable",
+    "title": "Download Type Not Available",
+    "tag": "Download Type Not Available"
+  },
+  {
+    "name": "IconDatabaseEyeOutline",
+    "title": "Database Eye Outline",
+    "tag": "Database Eye Outline"
+  },
+  {
+    "name": "IconDocumentTextBoxCheckFill",
+    "title": "Document Text Box Check Fill",
+    "tag": "Document Text Box Check Fill"
+  },
+  {
+    "name": "IconDocumentTextBoxArrowOutline",
+    "title": "Document Text Box Arrow Outline",
+    "tag": "document send"
+  },
+  {
+    "name": "IconDocumentTextBoxArrowFill",
+    "title": "Document Text Box Arrow Fill",
+    "tag": "document send"
+  },
+  {
+    "name": "IconDatabaseRemoveOutline",
+    "title": "Database Remove Outline",
+    "tag": "Database Remove Outline"
+  },
+  {
+    "name": "IconDotsGrid",
+    "title": "Dots Grid",
+    "tag": "Dots Grid"
+  },
+  {
+    "name": "IconDeleteOutline",
+    "title": "Delete Outline",
+    "tag": "Delete Outline"
+  },
+  {
+    "name": "IconDeleteFill",
+    "title": "Delete Fill",
+    "tag": "Delete Fill"
+  },
+  {
+    "name": "IconDeleteAutoOutline",
+    "title": "Delete Auto Outline",
+    "tag": "Delete Auto Outline"
+  },
+  {
+    "name": "IconDeleteAutoFill",
+    "title": "Delete Auto Fill",
+    "tag": "Delete Auto Fill"
+  },
+  {
+    "name": "IconDuplicateOutline",
+    "title": "Duplicate Outline",
+    "tag": "Duplicate Outline"
+  },
+  {
+    "name": "IconDuplicateFill",
+    "title": "Duplicate Fill",
+    "tag": "Duplicate Fill"
+  },
+  {
+    "name": "IconDigitalWalletConfigOutline",
+    "title": "Digital Wallet Config Outline",
+    "tag": "digital | card | wallet"
+  },
+  {
+    "name": "IconDigitalWalletConfigFill",
+    "title": "Digital Wallet Config Fill",
+    "tag": "digital | card | wallet"
+  },
+  {
+    "name": "IconDigitalWalletOutline",
+    "title": "Digital Wallet Outline",
+    "tag": "digital | card | wallet"
+  },
+  {
+    "name": "IconDigitalWalletFill",
+    "title": "Digital Wallet Fill",
+    "tag": "digital | card | wallet"
+  },
+  {
+    "name": "IconDirectionsArrowRightOutline",
+    "title": "Directions Arrow Right Outline",
+    "tag": "Directions Arrow Right Outline"
+  },
+  {
+    "name": "IconDirectionsArrowRightFill",
+    "title": "Directions Arrow Right Fill",
+    "tag": "Directions Arrow Right Fill"
+  },
+  {
+    "name": "IconDirectionsArrowLeftOutline",
+    "title": "Directions Arrow Left Outline",
+    "tag": "Directions Arrow Left Outline"
+  },
+  {
+    "name": "IconDirectionsArrowLeftFill",
+    "title": "Directions Arrow Left Fill",
+    "tag": "Directions Arrow Left Fill"
+  },
+  {
+    "name": "IconDockToLeft",
+    "title": "Dock To Left",
+    "tag": "dock open"
+  },
+  {
+    "name": "IconDockToRight",
+    "title": "Dock To Right",
+    "tag": "dock close"
+  },
+  {
+    "name": "IconDashboard",
+    "title": "Dashboard",
+    "tag": "Dashboard"
+  },
+  {
+    "name": "IconDesktopMonitor",
+    "title": "Desktop Monitor",
+    "tag": "Desktop Monitor"
+  },
+  {
+    "name": "IconDashboardAdd",
+    "title": "Dashboard Add",
+    "tag": "Dashboard Add"
+  },
+  {
+    "name": "IconDragHorizontalVariant",
+    "title": "Drag Horizontal Variant",
+    "tag": "Drag Horizontal Variant"
+  },
+  {
+    "name": "IconDragIndicator",
+    "title": "Drag Indicator",
+    "tag": "Drag Indicator"
+  },
+  {
+    "name": "IconEditOutline",
+    "title": "Edit Outline",
+    "tag": "Edit Outline"
+  },
+  {
+    "name": "IconEditOffOutline",
+    "title": "Edit Off Outline",
+    "tag": "Edit Off Outline"
+  },
+  {
+    "name": "IconEducationFill",
+    "title": "Education Fill",
+    "tag": "Education Fill"
+  },
+  {
+    "name": "IconEducationOutline",
+    "title": "Education Outline",
+    "tag": "Education Outline"
+  },
+  {
+    "name": "IconEmojiOutline",
+    "title": "Emoji Outline",
+    "tag": "Emoji Outline"
+  },
+  {
+    "name": "IconEmojiFill",
+    "title": "Emoji Fill",
+    "tag": "Emoji Fill"
+  },
+  {
+    "name": "IconEyeOnOutline",
+    "title": "Eye On Outline",
+    "tag": "Eye On Outline"
+  },
+  {
+    "name": "IconEyeOffOutline",
+    "title": "Eye Off Outline",
+    "tag": "Eye Off Outline"
+  },
+  {
+    "name": "IconEyeOnFill",
+    "title": "Eye On Fill",
+    "tag": "Eye On Fill"
+  },
+  {
+    "name": "IconEyeOffFill",
+    "title": "Eye Off Fill",
+    "tag": "Eye Off Fill"
+  },
+  {
+    "name": "IconErrorDangerousStyleOutline",
+    "title": "Error Dangerous Style Outline",
+    "tag": "Error Dangerous Style Outline"
+  },
+  {
+    "name": "IconErrorDangerousStyleFill",
+    "title": "Error Dangerous Style Fill",
+    "tag": "Error Dangerous Style Fill"
+  },
+  {
+    "name": "IconErrorHexagonalFill",
+    "title": "Error Hexagonal Fill",
+    "tag": "Error Hexagonal Fill"
+  },
+  {
+    "name": "IconErrorFill",
+    "title": "Error Fill",
+    "tag": "Error Fill"
+  },
+  {
+    "name": "IconErrorOutline",
+    "title": "Error Outline",
+    "tag": "Error Outline"
+  },
+  {
+    "name": "IconErrorHexagonalOutline",
+    "title": "Error Hexagonal Outline",
+    "tag": "Error Hexagonal Outline"
+  },
+  {
+    "name": "IconEmailRemoveOutline",
+    "title": "Email Remove Outline",
+    "tag": "Email Remove Outline"
+  },
+  {
+    "name": "IconEmailRemoveFill",
+    "title": "Email Remove Fill",
+    "tag": "Email Remove Fill"
+  },
+  {
+    "name": "IconEmailOpenOutline",
+    "title": "Email Open Outline",
+    "tag": "Email Open Outline"
+  },
+  {
+    "name": "IconEmailOpenFill",
+    "title": "Email Open Fill",
+    "tag": "Email Open Fill"
+  },
+  {
+    "name": "IconEmailMinusOutline",
+    "title": "Email Minus Outline",
+    "tag": "Email Minus Outline"
+  },
+  {
+    "name": "IconEmailViewFill",
+    "title": "Email View Fill",
+    "tag": "Email View Fill"
+  },
+  {
+    "name": "IconEmailEditOutline",
+    "title": "Email Edit Outline",
+    "tag": "Email Edit Outline"
+  },
+  {
+    "name": "IconEmailAlertOutline",
+    "title": "Email Alert Outline",
+    "tag": "Email Alert Outline"
+  },
+  {
+    "name": "IconEmailPlusOutline",
+    "title": "Email Plus Outline",
+    "tag": "Email Plus Outline"
+  },
+  {
+    "name": "IconEmailPlusFill",
+    "title": "Email Plus Fill",
+    "tag": "Email Plus Fill"
+  },
+  {
+    "name": "IconEmailCheckOutline",
+    "title": "Email Check Outline",
+    "tag": "Email Check Outline"
+  },
+  {
+    "name": "IconEmailCheckFill",
+    "title": "Email Check Fill",
+    "tag": "Email Check Fill"
+  },
+  {
+    "name": "IconEmailArrowRightOutline",
+    "title": "Email Arrow Right Outline",
+    "tag": "Email Arrow Right Outline"
+  },
+  {
+    "name": "IconEmailArrowRightFill",
+    "title": "Email Arrow Right Fill",
+    "tag": "Email Arrow Right Fill"
+  },
+  {
+    "name": "IconEmailAlertFill",
+    "title": "Email Alert Fill",
+    "tag": "Email Alert Fill"
+  },
+  {
+    "name": "IconEmailEditFill",
+    "title": "Email Edit Fill",
+    "tag": "Email Edit Fill"
+  },
+  {
+    "name": "IconEmailFastOutline",
+    "title": "Email Fast Outline",
+    "tag": "Email Fast Outline"
+  },
+  {
+    "name": "IconEmailMinusFill",
+    "title": "Email Minus Fill",
+    "tag": "Email Minus Fill"
+  },
+  {
+    "name": "IconEmailFastFill",
+    "title": "Email Fast Fill",
+    "tag": "Email Fast Fill"
+  },
+  {
+    "name": "IconEmailOutline",
+    "title": "Email Outline",
+    "tag": "Email Outline"
+  },
+  {
+    "name": "IconEmailViewOutline",
+    "title": "Email View Outline",
+    "tag": "Email View Outline"
+  },
+  {
+    "name": "IconExportFileFill",
+    "title": "Export File Fill",
+    "tag": "Export File Fill"
+  },
+  {
+    "name": "IconExportFileOutline",
+    "title": "Export File Outline",
+    "tag": "Export File Outline"
+  },
+  {
+    "name": "IconEmailSendLaterOutline",
+    "title": "Email Send Later Outline",
+    "tag": "Email Send Later Outline"
+  },
+  {
+    "name": "IconExportFileCloseOutline",
+    "title": "Export File Close Outline",
+    "tag": "Export File Close Outline"
+  },
+  {
+    "name": "IconExportFileCloseFill",
+    "title": "Export File Close Fill",
+    "tag": "Export File Close Fill"
+  },
+  {
+    "name": "IconExportFileCheckOutline",
+    "title": "Export File Check Outline",
+    "tag": "Export File Check Outline"
+  },
+  {
+    "name": "IconExportFileCheckFill",
+    "title": "Export File Check Fill",
+    "tag": "Export File Check Fill"
+  },
+  {
+    "name": "IconEmailSendingOutline",
+    "title": "Email Sending Outline",
+    "tag": "Email Sending Outline"
+  },
+  {
+    "name": "IconEmailSendingFill",
+    "title": "Email Sending Fill",
+    "tag": "Email Sending Fill"
+  },
+  {
+    "name": "IconEditFill",
+    "title": "Edit Fill",
+    "tag": "Edit Fill"
+  },
+  {
+    "name": "IconEditOffFill",
+    "title": "Edit Off Fill",
+    "tag": "Edit Off Fill"
+  },
+  {
+    "name": "IconEmailManagementOutline",
+    "title": "Email Management Outline",
+    "tag": "Email Management Outline"
+  },
+  {
+    "name": "IconEmailManagementFill",
+    "title": "Email Management Fill",
+    "tag": "Email Management Fill"
+  },
+  {
+    "name": "IconExportOutline",
+    "title": "Export Outline",
+    "tag": "Export Outline"
+  },
+  {
+    "name": "IconExportFill",
+    "title": "Export Fill",
+    "tag": "Export Fill"
+  },
+  {
+    "name": "IconEmailSendLaterFill",
+    "title": "Email Send Later Fill",
+    "tag": "Email Send Later Fill"
+  },
+  {
+    "name": "IconErrorDangerousStyleBulk",
+    "title": "Error Dangerous Style Bulk",
+    "tag": "Error Dangerous Style Bulk"
+  },
+  {
+    "name": "IconEmergencyContactFill",
+    "title": "Emergency Contact Fill",
+    "tag": "Emergency Contact Fill"
+  },
+  {
+    "name": "IconEmergencyContactOutline",
+    "title": "Emergency Contact Outline",
+    "tag": "Emergency Contact Outline"
+  },
+  {
+    "name": "IconEmailFill",
+    "title": "Email Fill",
+    "tag": "Email Fill"
+  },
+  {
+    "name": "IconFlagOutline",
+    "title": "Flag Outline",
+    "tag": "Flag Outline"
+  },
+  {
+    "name": "IconFilterRemoveOutline",
+    "title": "Filter Remove Outline",
+    "tag": "Filter Remove Outline"
+  },
+  {
+    "name": "IconFilterRemoveFill",
+    "title": "Filter Remove Fill",
+    "tag": "Filter Remove Fill"
+  },
+  {
+    "name": "IconFilterPlusOutline",
+    "title": "Filter Plus Outline",
+    "tag": "Filter Plus Outline"
+  },
+  {
+    "name": "IconFilterPlusFill",
+    "title": "Filter Plus Fill",
+    "tag": "Filter Plus Fill"
+  },
+  {
+    "name": "IconFilterOutline",
+    "title": "Filter Outline",
+    "tag": "Filter Outline"
+  },
+  {
+    "name": "IconFilterOffOutline",
+    "title": "Filter Off Outline",
+    "tag": "Filter Off Outline"
+  },
+  {
+    "name": "IconFilterOffFill",
+    "title": "Filter Off Fill",
+    "tag": "Filter Off Fill"
+  },
+  {
+    "name": "IconFilterMinusOutline",
+    "title": "Filter Minus Outline",
+    "tag": "Filter Minus Outline"
+  },
+  {
+    "name": "IconFilterMinusFill",
+    "title": "Filter Minus Fill",
+    "tag": "Filter Minus Fill"
+  },
+  {
+    "name": "IconFilterCheckFill",
+    "title": "Filter Check Fill",
+    "tag": "Filter Check Fill"
+  },
+  {
+    "name": "IconFilterMenuOutline",
+    "title": "Filter Menu Outline",
+    "tag": "Filter Menu Outline"
+  },
+  {
+    "name": "IconFilterSettingsOutline",
+    "title": "Filter Settings Outline",
+    "tag": "Filter Settings Outline"
+  },
+  {
+    "name": "IconFilterMenuFill",
+    "title": "Filter Menu Fill",
+    "tag": "Filter Menu Fill"
+  },
+  {
+    "name": "IconFilterSettingsFill",
+    "title": "Filter Settings Fill",
+    "tag": "Filter Settings Fill"
+  },
+  {
+    "name": "IconFilterCheckOutline",
+    "title": "Filter Check Outline",
+    "tag": "Filter Check Outline"
+  },
+  {
+    "name": "IconFilterFill",
+    "title": "Filter Fill",
+    "tag": "Filter Fill"
+  },
+  {
+    "name": "IconFolderOutline",
+    "title": "Folder Outline",
+    "tag": "Folder Outline"
+  },
+  {
+    "name": "IconFolderCogOutline",
+    "title": "Folder Cog Outline",
+    "tag": "Folder Cog Outline"
+  },
+  {
+    "name": "IconFolderCogFill",
+    "title": "Folder Cog Fill",
+    "tag": "Folder Cog Fill"
+  },
+  {
+    "name": "IconFolderArrowUpOutline",
+    "title": "Folder Arrow Up Outline",
+    "tag": "Folder Arrow Up Outline"
+  },
+  {
+    "name": "IconFolderArrowUpDownFill",
+    "title": "Folder Arrow Up Down Fill",
+    "tag": "Folder Arrow Up Down Fill"
+  },
+  {
+    "name": "IconFolderArrowUpFill",
+    "title": "Folder Arrow Up Fill",
+    "tag": "Folder Arrow Up Fill"
+  },
+  {
+    "name": "IconFolderArrowDownOutline",
+    "title": "Folder Arrow Down Outline",
+    "tag": "Folder Arrow Down Outline"
+  },
+  {
+    "name": "IconFolderArrowDownFill",
+    "title": "Folder Arrow Down Fill",
+    "tag": "Folder Arrow Down Fill"
+  },
+  {
+    "name": "IconFolderArrowUpDownOutline",
+    "title": "Folder Arrow Up Down Outline",
+    "tag": "Folder Arrow Up Down Outline"
+  },
+  {
+    "name": "IconFolderStarOutline",
+    "title": "Folder Star Outline",
+    "tag": "Folder Star Outline"
+  },
+  {
+    "name": "IconFolderAlertOutline",
+    "title": "Folder Alert Outline",
+    "tag": "Folder Alert Outline"
+  },
+  {
+    "name": "IconFolderStarFill",
+    "title": "Folder Star Fill",
+    "tag": "Folder Star Fill"
+  },
+  {
+    "name": "IconFolderAlertFill",
+    "title": "Folder Alert Fill",
+    "tag": "Folder Alert Fill"
+  },
+  {
+    "name": "IconFolderAccountOutline",
+    "title": "Folder Account Outline",
+    "tag": "Folder Account Outline"
+  },
+  {
+    "name": "IconFolderPlusOutline",
+    "title": "Folder Plus Outline",
+    "tag": "Folder Plus Outline"
+  },
+  {
+    "name": "IconFolderPlayOutline",
+    "title": "Folder Play Outline",
+    "tag": "Folder Play Outline"
+  },
+  {
+    "name": "IconFolderPlusFill",
+    "title": "Folder Plus Fill",
+    "tag": "Folder Plus Fill"
+  },
+  {
+    "name": "IconFolderAccountFill",
+    "title": "Folder Account Fill",
+    "tag": "Folder Account Fill"
+  },
+  {
+    "name": "IconFolderPlayFill",
+    "title": "Folder Play Fill",
+    "tag": "Folder Play Fill"
+  },
+  {
+    "name": "IconFolderFill",
+    "title": "Folder Fill",
+    "tag": "Folder Fill"
+  },
+  {
+    "name": "IconFlagFill",
+    "title": "Flag Fill",
+    "tag": "Flag Fill"
+  },
+  {
+    "name": "IconFilterArrowFill",
+    "title": "Filter Arrow Fill",
+    "tag": "Filter Arrow Fill"
+  },
+  {
+    "name": "IconFilterArrowOutline",
+    "title": "Filter Arrow Outline",
+    "tag": "Filter Arrow Outline"
+  },
+  {
+    "name": "IconFilterMenuSidebarFill",
+    "title": "Filter Menu Sidebar Fill",
+    "tag": "Filter Menu Sidebar Fill"
+  },
+  {
+    "name": "IconFilterMenuSidebarOutline",
+    "title": "Filter Menu Sidebar Outline",
+    "tag": "Filter Menu Sidebar Outline"
+  },
+  {
+    "name": "IconFolderClockOutline",
+    "title": "Folder Clock Outline",
+    "tag": "Folder Clock Outline"
+  },
+  {
+    "name": "IconFolderClockFill",
+    "title": "Folder Clock Fill",
+    "tag": "Folder Clock Fill"
+  },
+  {
+    "name": "IconFolderCheckOutline",
+    "title": "Folder Check Outline",
+    "tag": "Folder Check Outline"
+  },
+  {
+    "name": "IconFolderCheckFill",
+    "title": "Folder Check Fill",
+    "tag": "Folder Check Fill"
+  },
+  {
+    "name": "IconFolderCancelOutline",
+    "title": "Folder Cancel Outline",
+    "tag": "Folder Cancel Outline"
+  },
+  {
+    "name": "IconFolderCancelFill",
+    "title": "Folder Cancel Fill",
+    "tag": "Folder Cancel Fill"
+  },
+  {
+    "name": "IconFolderArrowRightOutline",
+    "title": "Folder Arrow Right Outline",
+    "tag": "Folder Arrow Right Outline"
+  },
+  {
+    "name": "IconFolderArrowRightFill",
+    "title": "Folder Arrow Right Fill",
+    "tag": "Folder Arrow Right Fill"
+  },
+  {
+    "name": "IconFolderArrowLeftRightOutline",
+    "title": "Folder Arrow Left Right Outline",
+    "tag": "Folder Arrow Left Right Outline"
+  },
+  {
+    "name": "IconFolderArrowLeftRightFill",
+    "title": "Folder Arrow Left Right Fill",
+    "tag": "Folder Arrow Left Right Fill"
+  },
+  {
+    "name": "IconFolderArrowLeftOutline",
+    "title": "Folder Arrow Left Outline",
+    "tag": "Folder Arrow Left Outline"
+  },
+  {
+    "name": "IconFolderArrowLeftFill",
+    "title": "Folder Arrow Left Fill",
+    "tag": "Folder Arrow Left Fill"
+  },
+  {
+    "name": "IconFolderZipFill",
+    "title": "Folder Zip Fill",
+    "tag": "Folder Zip Fill"
+  },
+  {
+    "name": "IconFolderWrenchOutline",
+    "title": "Folder Wrench Outline",
+    "tag": "Folder Wrench Outline"
+  },
+  {
+    "name": "IconFolderWrenchFill",
+    "title": "Folder Wrench Fill",
+    "tag": "Folder Wrench Fill"
+  },
+  {
+    "name": "IconFolderSwapOutline",
+    "title": "Folder Swap Outline",
+    "tag": "Folder Swap Outline"
+  },
+  {
+    "name": "IconFolderSwapFill",
+    "title": "Folder Swap Fill",
+    "tag": "Folder Swap Fill"
+  },
+  {
+    "name": "IconFolderStarMultipleFill",
+    "title": "Folder Star Multiple Fill",
+    "tag": "Folder Star Multiple Fill"
+  },
+  {
+    "name": "IconFolderStarMultipleOutline",
+    "title": "Folder Star Multiple Outline",
+    "tag": "Folder Star Multiple Outline"
+  },
+  {
+    "name": "IconFolderQuestionOutline",
+    "title": "Folder Question Outline",
+    "tag": "Folder Question Outline"
+  },
+  {
+    "name": "IconFolderQuestionFill",
+    "title": "Folder Question Fill",
+    "tag": "Folder Question Fill"
+  },
+  {
+    "name": "IconFolderPoundOutline",
+    "title": "Folder Pound Outline",
+    "tag": "Folder Pound Outline"
+  },
+  {
+    "name": "IconFolderPoundFill",
+    "title": "Folder Pound Fill",
+    "tag": "Folder Pound Fill"
+  },
+  {
+    "name": "IconFolderMultipleOutline",
+    "title": "Folder Multiple Outline",
+    "tag": "Folder Multiple Outline"
+  },
+  {
+    "name": "IconFolderMultipleFill",
+    "title": "Folder Multiple Fill",
+    "tag": "Folder Multiple Fill"
+  },
+  {
+    "name": "IconFolderMarkerOutline",
+    "title": "Folder Marker Outline",
+    "tag": "Folder Marker Outline"
+  },
+  {
+    "name": "IconFolderMarkerFill",
+    "title": "Folder Marker Fill",
+    "tag": "Folder Marker Fill"
+  },
+  {
+    "name": "IconFolderHomeOutline",
+    "title": "Folder Home Outline",
+    "tag": "Folder Home Outline"
+  },
+  {
+    "name": "IconFolderHomeFill",
+    "title": "Folder Home Fill",
+    "tag": "Folder Home Fill"
+  },
+  {
+    "name": "IconFolderZipOutline",
+    "title": "Folder Zip Outline",
+    "tag": "Folder Zip Outline"
+  },
+  {
+    "name": "IconFolderUploadOutline",
+    "title": "Folder Upload Outline",
+    "tag": "Folder Upload Outline"
+  },
+  {
+    "name": "IconFolderUploadFill",
+    "title": "Folder Upload Fill",
+    "tag": "Folder Upload Fill"
+  },
+  {
+    "name": "IconFolderTextOutline",
+    "title": "Folder Text Outline",
+    "tag": "Folder Text Outline"
+  },
+  {
+    "name": "IconFolderTextFill",
+    "title": "Folder Text Fill",
+    "tag": "Folder Text Fill"
+  },
+  {
+    "name": "IconFolderTableOutline",
+    "title": "Folder Table Outline",
+    "tag": "Folder Table Outline"
+  },
+  {
+    "name": "IconFolderTableFill",
+    "title": "Folder Table Fill",
+    "tag": "Folder Table Fill"
+  },
+  {
+    "name": "IconFolderSyncOutline",
+    "title": "Folder Sync Outline",
+    "tag": "Folder Sync Outline"
+  },
+  {
+    "name": "IconFolderSettingsFill",
+    "title": "Folder Settings Fill",
+    "tag": "Folder Settings Fill"
+  },
+  {
+    "name": "IconFolderSearchOutline",
+    "title": "Folder Search Outline",
+    "tag": "Folder Search Outline"
+  },
+  {
+    "name": "IconFolderSearchFill",
+    "title": "Folder Search Fill",
+    "tag": "Folder Search Fill"
+  },
+  {
+    "name": "IconFolderRemoveOutline",
+    "title": "Folder Remove Outline",
+    "tag": "Folder Remove Outline"
+  },
+  {
+    "name": "IconFolderRemoveFill",
+    "title": "Folder Remove Fill",
+    "tag": "Folder Remove Fill"
+  },
+  {
+    "name": "IconFolderRefreshOutline",
+    "title": "Folder Refresh Outline",
+    "tag": "Folder Refresh Outline"
+  },
+  {
+    "name": "IconFolderRefreshFill",
+    "title": "Folder Refresh Fill",
+    "tag": "Folder Refresh Fill"
+  },
+  {
+    "name": "IconFolderOpenOutline",
+    "title": "Folder Open Outline",
+    "tag": "Folder Open Outline"
+  },
+  {
+    "name": "IconFolderOpenFill",
+    "title": "Folder Open Fill",
+    "tag": "Folder Open Fill"
+  },
+  {
+    "name": "IconFolderOffOutline",
+    "title": "Folder Off Outline",
+    "tag": "Folder Off Outline"
+  },
+  {
+    "name": "IconFolderOffFill",
+    "title": "Folder Off Fill",
+    "tag": "Folder Off Fill"
+  },
+  {
+    "name": "IconFolderNetworkOutline",
+    "title": "Folder Network Outline",
+    "tag": "Folder Network Outline"
+  },
+  {
+    "name": "IconFolderNetworkFill",
+    "title": "Folder Network Fill",
+    "tag": "Folder Network Fill"
+  },
+  {
+    "name": "IconFolderMusicOutline",
+    "title": "Folder Music Outline",
+    "tag": "Folder Music Outline"
+  },
+  {
+    "name": "IconFolderMusicFill",
+    "title": "Folder Music Fill",
+    "tag": "Folder Music Fill"
+  },
+  {
+    "name": "IconFolderMultiplePlusOutline",
+    "title": "Folder Multiple Plus Outline",
+    "tag": "Folder Multiple Plus Outline"
+  },
+  {
+    "name": "IconFolderMultiplePlusFill",
+    "title": "Folder Multiple Plus Fill",
+    "tag": "Folder Multiple Plus Fill"
+  },
+  {
+    "name": "IconFolderMoveOutline",
+    "title": "Folder Move Outline",
+    "tag": "Folder Move Outline"
+  },
+  {
+    "name": "IconFolderMoveFill",
+    "title": "Folder Move Fill",
+    "tag": "Folder Move Fill"
+  },
+  {
+    "name": "IconFolderMinusOutline",
+    "title": "Folder Minus Outline",
+    "tag": "Folder Minus Outline"
+  },
+  {
+    "name": "IconFolderMinusFill",
+    "title": "Folder Minus Fill",
+    "tag": "Folder Minus Fill"
+  },
+  {
+    "name": "IconFolderLockOutline",
+    "title": "Folder Lock Outline",
+    "tag": "Folder Lock Outline"
+  },
+  {
+    "name": "IconFolderLockOpenOutline",
+    "title": "Folder Lock Open Outline",
+    "tag": "Folder Lock Open Outline"
+  },
+  {
+    "name": "IconFolderLockOpenFill",
+    "title": "Folder Lock Open Fill",
+    "tag": "Folder Lock Open Fill"
+  },
+  {
+    "name": "IconFolderLockFill",
+    "title": "Folder Lock Fill",
+    "tag": "Folder Lock Fill"
+  },
+  {
+    "name": "IconFolderKeyOutline",
+    "title": "Folder Key Outline",
+    "tag": "Folder Key Outline"
+  },
+  {
+    "name": "IconFolderKeyNetworkOutline",
+    "title": "Folder Key Network Outline",
+    "tag": "Folder Key Network Outline"
+  },
+  {
+    "name": "IconFolderKeyNetworkFill",
+    "title": "Folder Key Network Fill",
+    "tag": "Folder Key Network Fill"
+  },
+  {
+    "name": "IconFolderKeyFill",
+    "title": "Folder Key Fill",
+    "tag": "Folder Key Fill"
+  },
+  {
+    "name": "IconFolderInformationOutline",
+    "title": "Folder Information Outline",
+    "tag": "Folder Information Outline"
+  },
+  {
+    "name": "IconFolderInformationFill",
+    "title": "Folder Information Fill",
+    "tag": "Folder Information Fill"
+  },
+  {
+    "name": "IconFolderHeartOutline",
+    "title": "Folder Heart Outline",
+    "tag": "Folder Heart Outline"
+  },
+  {
+    "name": "IconFolderHeartFill",
+    "title": "Folder Heart Fill",
+    "tag": "Folder Heart Fill"
+  },
+  {
+    "name": "IconFolderFileOutline",
+    "title": "Folder File Outline",
+    "tag": "Folder File Outline"
+  },
+  {
+    "name": "IconFolderFileFill",
+    "title": "Folder File Fill",
+    "tag": "Folder File Fill"
+  },
+  {
+    "name": "IconFolderEyeOutline",
+    "title": "Folder Eye Outline",
+    "tag": "Folder Eye Outline"
+  },
+  {
+    "name": "IconFolderEyeFill",
+    "title": "Folder Eye Fill",
+    "tag": "Folder Eye Fill"
+  },
+  {
+    "name": "IconFolderEditOutline",
+    "title": "Folder Edit Outline",
+    "tag": "Folder Edit Outline"
+  },
+  {
+    "name": "IconFolderEditFill",
+    "title": "Folder Edit Fill",
+    "tag": "Folder Edit Fill"
+  },
+  {
+    "name": "IconFolderDownloadOutline",
+    "title": "Folder Download Outline",
+    "tag": "Folder Download Outline"
+  },
+  {
+    "name": "IconFolderDownloadFill",
+    "title": "Folder Download Fill",
+    "tag": "Folder Download Fill"
+  },
+  {
+    "name": "IconFolderSyncFill",
+    "title": "Folder Sync Fill",
+    "tag": "Folder Sync Fill"
+  },
+  {
+    "name": "IconFolderSettingsOutline",
+    "title": "Folder Settings Outline",
+    "tag": "Folder Settings Outline"
+  },
+  {
+    "name": "IconFolderAdd",
+    "title": "Folder Add",
+    "tag": "Folder Add"
+  },
+  {
+    "name": "IconFolder",
+    "title": "Folder",
+    "tag": "Folder"
+  },
+  {
+    "name": "IconFolderUpload",
+    "title": "Folder Upload",
+    "tag": "Folder Upload"
+  },
+  {
+    "name": "IconFolderOpen",
+    "title": "Folder Open",
+    "tag": "Folder Open"
+  },
+  {
+    "name": "IconFileCloud",
+    "title": "File Cloud",
+    "tag": "File Cloud"
+  },
+  {
+    "name": "IconFileSearch",
+    "title": "File Search",
+    "tag": "File Search"
+  },
+  {
+    "name": "IconFileImageMarker",
+    "title": "File Image Marker",
+    "tag": "File Image Marker"
+  },
+  {
+    "name": "IconFileImagePlus",
+    "title": "File Image Plus",
+    "tag": "File Image Plus"
+  },
+  {
+    "name": "IconFileImage",
+    "title": "File Image",
+    "tag": "File Image"
+  },
+  {
+    "name": "IconFileImageMinus",
+    "title": "File Image Minus",
+    "tag": "File Image Minus"
+  },
+  {
+    "name": "IconFileImageRemove",
+    "title": "File Image Remove",
+    "tag": "File Image Remove"
+  },
+  {
+    "name": "IconFileTypeImage",
+    "title": "File Type Image",
+    "tag": "File Type Image"
+  },
+  {
+    "name": "IconFileTypeLog",
+    "title": "File Type Log",
+    "tag": "File Type Log"
+  },
+  {
+    "name": "IconFileTypeVideoFile",
+    "title": "File Type Video File",
+    "tag": "File Type Video File"
+  },
+  {
+    "name": "IconFileTypePng",
+    "title": "File Type Png",
+    "tag": "File Type Png"
+  },
+  {
+    "name": "IconFileTypeGifFile",
+    "title": "File Type Gif File",
+    "tag": "File Type Gif File"
+  },
+  {
+    "name": "IconFileTypeJpg",
+    "title": "File Type Jpg",
+    "tag": "File Type Jpg"
+  },
+  {
+    "name": "IconFileTypeDoc",
+    "title": "File Type Doc",
+    "tag": "File Type Doc"
+  },
+  {
+    "name": "IconFileTypeTxt",
+    "title": "File Type Txt",
+    "tag": "File Type Txt"
+  },
+  {
+    "name": "IconFileTypePdf",
+    "title": "File Type Pdf",
+    "tag": "File Type Pdf"
+  },
+  {
+    "name": "IconFileTypePpt",
+    "title": "File Type Ppt",
+    "tag": "File Type Ppt"
+  },
+  {
+    "name": "IconFileTypeZip",
+    "title": "File Type Zip",
+    "tag": "File Type Zip"
+  },
+  {
+    "name": "IconFileTypeAi",
+    "title": "File Type Ai",
+    "tag": "File Type Ai"
+  },
+  {
+    "name": "IconFileTypeCsv",
+    "title": "File Type Csv",
+    "tag": "File Type Csv"
+  },
+  {
+    "name": "IconFileTypeSvg",
+    "title": "File Type Svg",
+    "tag": "File Type Svg"
+  },
+  {
+    "name": "IconFileTypeXls",
+    "title": "File Type Xls",
+    "tag": "File Type Xls"
+  },
+  {
+    "name": "IconFileTypeDocument",
+    "title": "File Type Document",
+    "tag": "File Type Document"
+  },
+  {
+    "name": "IconFileReport",
+    "title": "File Report",
+    "tag": "File Report"
+  },
+  {
+    "name": "IconFileReportEdit",
+    "title": "File Report Edit",
+    "tag": "File Report Edit"
+  },
+  {
+    "name": "IconFileReportAdd",
+    "title": "File Report Add",
+    "tag": "File Report Add"
+  },
+  {
+    "name": "IconFileReportDownload",
+    "title": "File Report Download",
+    "tag": "File Report Download"
+  },
+  {
+    "name": "IconFullScreen",
+    "title": "Full Screen",
+    "tag": "Full Screen"
+  },
+  {
+    "name": "IconFolderAddOutline",
+    "title": "Folder Add Outline",
+    "tag": "Folder Add Outline"
+  },
+  {
+    "name": "IconFolderAddFill",
+    "title": "Folder Add Fill",
+    "tag": "Folder Add Fill"
+  },
+  {
+    "name": "IconFileCloudFill",
+    "title": "File Cloud Fill",
+    "tag": "File Cloud Fill"
+  },
+  {
+    "name": "IconFileCloudOutline",
+    "title": "File Cloud Outline",
+    "tag": "File Cloud Outline"
+  },
+  {
+    "name": "IconFileImageRemoveOutline",
+    "title": "File Image Remove Outline",
+    "tag": "File Image Remove Outline"
+  },
+  {
+    "name": "IconFileImageRemoveFill",
+    "title": "File Image Remove Fill",
+    "tag": "File Image Remove Fill"
+  },
+  {
+    "name": "IconFileImageOutline",
+    "title": "File Image Outline",
+    "tag": "File Image Outline"
+  },
+  {
+    "name": "IconFileImageMinusOutline",
+    "title": "File Image Minus Outline",
+    "tag": "File Image Minus Outline"
+  },
+  {
+    "name": "IconFileImageMinusFill",
+    "title": "File Image Minus Fill",
+    "tag": "File Image Minus Fill"
+  },
+  {
+    "name": "IconFileImageFill",
+    "title": "File Image Fill",
+    "tag": "File Image Fill"
+  },
+  {
+    "name": "IconFileImagePlusOutline",
+    "title": "File Image Plus Outline",
+    "tag": "File Image Plus Outline"
+  },
+  {
+    "name": "IconFileImagePlusFill",
+    "title": "File Image Plus Fill",
+    "tag": "File Image Plus Fill"
+  },
+  {
+    "name": "IconFileImageMarkerOutline",
+    "title": "File Image Marker Outline",
+    "tag": "File Image Marker Outline"
+  },
+  {
+    "name": "IconFileImageMarkerFill",
+    "title": "File Image Marker Fill",
+    "tag": "File Image Marker Fill"
+  },
+  {
+    "name": "IconFileSearchFill",
+    "title": "File Search Fill",
+    "tag": "File Search Fill"
+  },
+  {
+    "name": "IconFileSearchOutline",
+    "title": "File Search Outline",
+    "tag": "File Search Outline"
+  },
+  {
+    "name": "IconFileTypeVideoFileOutline",
+    "title": "File Type Video File Outline",
+    "tag": "File Type Video File Outline"
+  },
+  {
+    "name": "IconFileTypePdfOutline",
+    "title": "File Type Pdf Outline",
+    "tag": "File Type Pdf Outline"
+  },
+  {
+    "name": "IconFileTypeTxtOutline",
+    "title": "File Type Txt Outline",
+    "tag": "File Type Txt Outline"
+  },
+  {
+    "name": "IconFileTypeDocOutline",
+    "title": "File Type Doc Outline",
+    "tag": "File Type Doc Outline"
+  },
+  {
+    "name": "IconFileTypeJpgOutline",
+    "title": "File Type Jpg Outline",
+    "tag": "File Type Jpg Outline"
+  },
+  {
+    "name": "IconFileTypePngOutline",
+    "title": "File Type Png Outline",
+    "tag": "File Type Png Outline"
+  },
+  {
+    "name": "IconFileTypeLogOutline",
+    "title": "File Type Log Outline",
+    "tag": "File Type Log Outline"
+  },
+  {
+    "name": "IconFileTypeZipOutline",
+    "title": "File Type Zip Outline",
+    "tag": "File Type Zip Outline"
+  },
+  {
+    "name": "IconFileTypeGifFileOutline",
+    "title": "File Type Gif File Outline",
+    "tag": "File Type Gif File Outline"
+  },
+  {
+    "name": "IconFileTypePptOutline",
+    "title": "File Type Ppt Outline",
+    "tag": "File Type Ppt Outline"
+  },
+  {
+    "name": "IconFileTypeDocumentOutline",
+    "title": "File Type Document Outline",
+    "tag": "File Type Document Outline"
+  },
+  {
+    "name": "IconFileTypeImageOutline",
+    "title": "File Type Image Outline",
+    "tag": "File Type Image Outline"
+  },
+  {
+    "name": "IconFileTypePptFill",
+    "title": "File Type Ppt Fill",
+    "tag": "File Type Ppt Fill"
+  },
+  {
+    "name": "IconFileTypeDocumentFill",
+    "title": "File Type Document Fill",
+    "tag": "File Type Document Fill"
+  },
+  {
+    "name": "IconFileTypeGifFileFill",
+    "title": "File Type Gif File Fill",
+    "tag": "File Type Gif File Fill"
+  },
+  {
+    "name": "IconFileTypePdfFill",
+    "title": "File Type Pdf Fill",
+    "tag": "File Type Pdf Fill"
+  },
+  {
+    "name": "IconFileTypeTxtFill",
+    "title": "File Type Txt Fill",
+    "tag": "File Type Txt Fill"
+  },
+  {
+    "name": "IconFileTypeJpgFill",
+    "title": "File Type Jpg Fill",
+    "tag": "File Type Jpg Fill"
+  },
+  {
+    "name": "IconFileTypeVideoFileFill",
+    "title": "File Type Video File Fill",
+    "tag": "File Type Video File Fill"
+  },
+  {
+    "name": "IconFileTypeZipFill",
+    "title": "File Type Zip Fill",
+    "tag": "File Type Zip Fill"
+  },
+  {
+    "name": "IconFileTypeImageFill",
+    "title": "File Type Image Fill",
+    "tag": "File Type Image Fill"
+  },
+  {
+    "name": "IconFileTypeLogFill",
+    "title": "File Type Log Fill",
+    "tag": "File Type Log Fill"
+  },
+  {
+    "name": "IconFileTypeDocFill",
+    "title": "File Type Doc Fill",
+    "tag": "File Type Doc Fill"
+  },
+  {
+    "name": "IconFileTypePngFill",
+    "title": "File Type Png Fill",
+    "tag": "File Type Png Fill"
+  },
+  {
+    "name": "IconFileTypeAiOutline",
+    "title": "File Type Ai Outline",
+    "tag": "File Type Ai Outline"
+  },
+  {
+    "name": "IconFileTypeAiFill",
+    "title": "File Type Ai Fill",
+    "tag": "File Type Ai Fill"
+  },
+  {
+    "name": "IconFileReportOutline",
+    "title": "File Report Outline",
+    "tag": "File Report Outline"
+  },
+  {
+    "name": "IconFileReportFill",
+    "title": "File Report Fill",
+    "tag": "File Report Fill"
+  },
+  {
+    "name": "IconFileReportAddFill",
+    "title": "File Report Add Fill",
+    "tag": "File Report Add Fill"
+  },
+  {
+    "name": "IconFileReportAddOutline",
+    "title": "File Report Add Outline",
+    "tag": "File Report Add Outline"
+  },
+  {
+    "name": "IconFileTypeCsvOutline",
+    "title": "File Type Csv Outline",
+    "tag": "File Type Csv Outline"
+  },
+  {
+    "name": "IconFileTypeSvgFill",
+    "title": "File Type Svg Fill",
+    "tag": "File Type Svg Fill"
+  },
+  {
+    "name": "IconFileTypeCsvFill",
+    "title": "File Type Csv Fill",
+    "tag": "File Type Csv Fill"
+  },
+  {
+    "name": "IconFileTypeXlsFill",
+    "title": "File Type Xls Fill",
+    "tag": "File Type Xls Fill"
+  },
+  {
+    "name": "IconFileTypeSvgOutline",
+    "title": "File Type Svg Outline",
+    "tag": "File Type Svg Outline"
+  },
+  {
+    "name": "IconFileTypeXlsOutline",
+    "title": "File Type Xls Outline",
+    "tag": "File Type Xls Outline"
+  },
+  {
+    "name": "IconFileReportEditOutline",
+    "title": "File Report Edit Outline",
+    "tag": "File Report Edit Outline"
+  },
+  {
+    "name": "IconFileReportEditFill",
+    "title": "File Report Edit Fill",
+    "tag": "File Report Edit Fill"
+  },
+  {
+    "name": "IconFullScreenTypeMinimise",
+    "title": "Full Screen Type Minimise",
+    "tag": "Full Screen Type Minimise"
+  },
+  {
+    "name": "IconFullScreenTypeMaximise",
+    "title": "Full Screen Type Maximise",
+    "tag": "Full Screen Type Maximise"
+  },
+  {
+    "name": "IconFileReportDownloadOutline",
+    "title": "File Report Download Outline",
+    "tag": "File Report Download Outline"
+  },
+  {
+    "name": "IconFileReportDownloadFill",
+    "title": "File Report Download Fill",
+    "tag": "File Report Download Fill"
+  },
+  {
+    "name": "IconFitnessDumbleFill",
+    "title": "Fitness Dumble Fill",
+    "tag": "Fitness Dumble Fill"
+  },
+  {
+    "name": "IconFitnessDumbleOutline",
+    "title": "Fitness Dumble Outline",
+    "tag": "Fitness Dumble Outline"
+  },
+  {
+    "name": "IconFitnessHeartBitFill",
+    "title": "Fitness Heart Bit Fill",
+    "tag": "Fitness Heart Bit Fill"
+  },
+  {
+    "name": "IconFitnessHeartBitOutline",
+    "title": "Fitness Heart Bit Outline",
+    "tag": "Fitness Heart Bit Outline"
+  },
+  {
+    "name": "IconFoodOutline",
+    "title": "Food Outline",
+    "tag": "Food Outline"
+  },
+  {
+    "name": "IconFoodFill",
+    "title": "Food Fill",
+    "tag": "Food Fill"
+  },
+  {
+    "name": "IconFoodOffOutline",
+    "title": "Food Off Outline",
+    "tag": "Food Off Outline"
+  },
+  {
+    "name": "IconFoodOffFill",
+    "title": "Food Off Fill",
+    "tag": "Food Off Fill"
+  },
+  {
+    "name": "IconFoodLunchRamenFill",
+    "title": "Food Lunch Ramen Fill",
+    "tag": "Food Lunch Ramen Fill"
+  },
+  {
+    "name": "IconFoodLunchFill",
+    "title": "Food Lunch Fill",
+    "tag": "Food Lunch Fill"
+  },
+  {
+    "name": "IconFoodRestaurantFill",
+    "title": "Food Restaurant Fill",
+    "tag": "Food Restaurant Fill"
+  },
+  {
+    "name": "IconFoodDinnerFill",
+    "title": "Food Dinner Fill",
+    "tag": "Food Dinner Fill"
+  },
+  {
+    "name": "IconFoodBreakfastFill",
+    "title": "Food Breakfast Fill",
+    "tag": "Food Breakfast Fill"
+  },
+  {
+    "name": "IconFoodLunchOutline",
+    "title": "Food Lunch Outline",
+    "tag": "Food Lunch Outline"
+  },
+  {
+    "name": "IconFoodDinnerOutline",
+    "title": "Food Dinner Outline",
+    "tag": "Food Dinner Outline"
+  },
+  {
+    "name": "IconFoodRestaurantOutline",
+    "title": "Food Restaurant Outline",
+    "tag": "Food Restaurant Outline"
+  },
+  {
+    "name": "IconFoodLunchRamenOutline",
+    "title": "Food Lunch Ramen Outline",
+    "tag": "Food Lunch Ramen Outline"
+  },
+  {
+    "name": "IconFoodBreakfastOutline",
+    "title": "Food Breakfast Outline",
+    "tag": "Food Breakfast Outline"
+  },
+  {
+    "name": "IconFamilyOutline",
+    "title": "Family Outline",
+    "tag": "Family Outline"
+  },
+  {
+    "name": "IconFieldManagementFill",
+    "title": "Field Management Fill",
+    "tag": "Field Management Fill"
+  },
+  {
+    "name": "IconFieldManagementOutline",
+    "title": "Field Management Outline",
+    "tag": "Field Management Outline"
+  },
+  {
+    "name": "IconFamilyFill",
+    "title": "Family Fill",
+    "tag": "Family Fill"
+  },
+  {
+    "name": "IconFamilyHeartOutline",
+    "title": "Family Heart Outline",
+    "tag": "Family Heart Outline"
+  },
+  {
+    "name": "IconFamilyHeartFill",
+    "title": "Family Heart Fill",
+    "tag": "Family Heart Fill"
+  },
+  {
+    "name": "IconFamilyAddFill",
+    "title": "Family Add Fill",
+    "tag": "Family Add Fill"
+  },
+  {
+    "name": "IconFamilyAddOutline",
+    "title": "Family Add Outline",
+    "tag": "Family Add Outline"
+  },
+  {
+    "name": "IconFamilyRemoveOutline",
+    "title": "Family Remove Outline",
+    "tag": "Family Remove Outline"
+  },
+  {
+    "name": "IconFamilyRemoveFill",
+    "title": "Family Remove Fill",
+    "tag": "Family Remove Fill"
+  },
+  {
+    "name": "IconFieldManagementViewFill",
+    "title": "Field Management View Fill",
+    "tag": "Field Management View Fill"
+  },
+  {
+    "name": "IconFieldManagementViewOutline",
+    "title": "Field Management View Outline",
+    "tag": "Field Management View Outline"
+  },
+  {
+    "name": "IconFlipOutline",
+    "title": "Flip Outline",
+    "tag": "image | flip"
+  },
+  {
+    "name": "IconFlashOffFill",
+    "title": "Flash Off Fill",
+    "tag": "Flash Off Fill"
+  },
+  {
+    "name": "IconFlashOffOutline",
+    "title": "Flash Off Outline",
+    "tag": "Flash Off Outline"
+  },
+  {
+    "name": "IconFlashOnFill",
+    "title": "Flash On Fill",
+    "tag": "Flash On Fill"
+  },
+  {
+    "name": "IconFlashOnOutline",
+    "title": "Flash On Outline",
+    "tag": "Flash On Outline"
+  },
+  {
+    "name": "IconFireFill",
+    "title": "Fire Fill",
+    "tag": "Fire Fill"
+  },
+  {
+    "name": "IconFireOutline",
+    "title": "Fire Outline",
+    "tag": "Fire Outline"
+  },
+  {
+    "name": "IconGridViewOutline",
+    "title": "Grid View Outline",
+    "tag": "Grid View Outline"
+  },
+  {
+    "name": "IconGroupOutline",
+    "title": "Group Outline",
+    "tag": "Group Outline"
+  },
+  {
+    "name": "IconGroupFill",
+    "title": "Group Fill",
+    "tag": "Group Fill"
+  },
+  {
+    "name": "IconGroupSettingsOutline",
+    "title": "Group Settings Outline",
+    "tag": "Group Settings Outline"
+  },
+  {
+    "name": "IconGroupSettingsFill",
+    "title": "Group Settings Fill",
+    "tag": "Group Settings Fill"
+  },
+  {
+    "name": "IconGenderTypeMaleFemale",
+    "title": "Gender Type Male Female",
+    "tag": "Gender Type Male Female"
+  },
+  {
+    "name": "IconGenderTypeMale",
+    "title": "Gender Type Male",
+    "tag": "Gender Type Male"
+  },
+  {
+    "name": "IconGenderTypeTransgender",
+    "title": "Gender Type Transgender",
+    "tag": "Gender Type Transgender"
+  },
+  {
+    "name": "IconGenderTypeFemale",
+    "title": "Gender Type Female",
+    "tag": "Gender Type Female"
+  },
+  {
+    "name": "IconGridFill",
+    "title": "Grid Fill",
+    "tag": "Grid Fill"
+  },
+  {
+    "name": "IconGridOutline",
+    "title": "Grid Outline",
+    "tag": "Grid Outline"
+  },
+  {
+    "name": "IconGalleryThumbnailFill",
+    "title": "Gallery Thumbnail Fill",
+    "tag": "Gallery Thumbnail Fill"
+  },
+  {
+    "name": "IconGalleryThumbnailOutline",
+    "title": "Gallery Thumbnail Outline",
+    "tag": "Gallery Thumbnail Outline"
+  },
+  {
+    "name": "IconGridViewFill",
+    "title": "Grid View Fill",
+    "tag": "Grid View Fill"
+  },
+  {
+    "name": "IconGiftOutline",
+    "title": "Gift Outline",
+    "tag": "Gift Outline"
+  },
+  {
+    "name": "IconGiftFill",
+    "title": "Gift Fill",
+    "tag": "Gift Fill"
+  },
+  {
+    "name": "IconGiftOpenOutline",
+    "title": "Gift Open Outline",
+    "tag": "Gift Open Outline"
+  },
+  {
+    "name": "IconGiftOpenFill",
+    "title": "Gift Open Fill",
+    "tag": "Gift Open Fill"
+  },
+  {
+    "name": "IconGlobeFill",
+    "title": "Globe Fill",
+    "tag": "Globe Fill"
+  },
+  {
+    "name": "IconGlobeOutline",
+    "title": "Globe Outline",
+    "tag": "Globe Outline"
+  },
+  {
+    "name": "IconGroupsWatingListFill",
+    "title": "Groups Wating List Fill",
+    "tag": "Groups Wating List Fill"
+  },
+  {
+    "name": "IconGroupsWatingListOutline",
+    "title": "Groups Wating List Outline",
+    "tag": "Groups Wating List Outline"
+  },
+  {
+    "name": "IconHistoryTypeHistory",
+    "title": "History Type History",
+    "tag": "History Type History"
+  },
+  {
+    "name": "IconHistoryTypeSettings",
+    "title": "History Type Settings",
+    "tag": "History Type Settings"
+  },
+  {
+    "name": "IconHomeOutline",
+    "title": "Home Outline",
+    "tag": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\">\n\n\n  <path d=\"M12 6.19L17 10.69V18.5H15V12.5H9V18.5H7V10.69L12 6.19M12 3.5L2 12.5H5V20.5H11V14.5H13V20.5H19V12.5H22L12 3.5Z\" fill=\"#455A64\"/>\n\n\n</svg>"
+  },
+  {
+    "name": "IconHomeFill",
+    "title": "Home Fill",
+    "tag": "Home Fill"
+  },
+  {
+    "name": "IconHelpFill",
+    "title": "Help Fill",
+    "tag": "Help Fill"
+  },
+  {
+    "name": "IconHelpOutline",
+    "title": "Help Outline",
+    "tag": "Help Outline"
+  },
+  {
+    "name": "IconHeadphoneOutline",
+    "title": "Headphone Outline",
+    "tag": "Headphone Outline"
+  },
+  {
+    "name": "IconHeadphoneMicOutline",
+    "title": "Headphone Mic Outline",
+    "tag": "Headphone Mic Outline"
+  },
+  {
+    "name": "IconHeadphoneFill",
+    "title": "Headphone Fill",
+    "tag": "Headphone Fill"
+  },
+  {
+    "name": "IconHeadphoneMicFill",
+    "title": "Headphone Mic Fill",
+    "tag": "Headphone Mic Fill"
+  },
+  {
+    "name": "IconHeadphoneOffOutline",
+    "title": "Headphone Off Outline",
+    "tag": "Headphone Off Outline"
+  },
+  {
+    "name": "IconHeadphoneOffFill",
+    "title": "Headphone Off Fill",
+    "tag": "Headphone Off Fill"
+  },
+  {
+    "name": "IconHeartStyleOutline",
+    "title": "Heart Style Outline",
+    "tag": "Heart Style Outline"
+  },
+  {
+    "name": "IconHashTag",
+    "title": "Hash Tag",
+    "tag": "Hash Tag"
+  },
+  {
+    "name": "IconHeartStyleFill",
+    "title": "Heart Style Fill",
+    "tag": "Heart Style Fill"
+  },
+  {
+    "name": "IconHeading",
+    "title": "Heading",
+    "tag": "h | H | section |"
+  },
+  {
+    "name": "IconHourglassFill",
+    "title": "Hourglass Fill",
+    "tag": "Timmer\nClock"
+  },
+  {
+    "name": "IconHourglassOutline",
+    "title": "Hourglass Outline",
+    "tag": "Timmer\nClock"
+  },
+  {
+    "name": "IconHourglassDisabledOutline",
+    "title": "Hourglass Disabled Outline",
+    "tag": "Timmer\nClock"
+  },
+  {
+    "name": "IconHourglassDisabledFill",
+    "title": "Hourglass Disabled Fill",
+    "tag": "Timmer\nClock"
+  },
+  {
+    "name": "IconHeartStyleDuotoneOutline",
+    "title": "Heart Style Duotone Outline",
+    "tag": "Heart Style Duotone Outline"
+  },
+  {
+    "name": "IconHeartStyleDuotoneFill",
+    "title": "Heart Style Duotone Fill",
+    "tag": "Heart Style Duotone Fill"
+  },
+  {
+    "name": "IconHourglassVariantFill",
+    "title": "Hourglass Variant Fill",
+    "tag": "Hourglass Variant Fill"
+  },
+  {
+    "name": "IconHourglassVariantOutline",
+    "title": "Hourglass Variant Outline",
+    "tag": "Hourglass Variant Outline"
+  },
+  {
+    "name": "IconHorse",
+    "title": "Horse",
+    "tag": "Horse"
+  },
+  {
+    "name": "IconItalic01",
+    "title": "Italic01",
+    "tag": "Italic01"
+  },
+  {
+    "name": "IconItalic",
+    "title": "Italic",
+    "tag": "Italic"
+  },
+  {
+    "name": "IconInfoStyleOutline",
+    "title": "Info Style Outline",
+    "tag": "Info Style Outline"
+  },
+  {
+    "name": "IconInfoStyleFilled",
+    "title": "Info Style Filled",
+    "tag": "Info Style Filled"
+  },
+  {
+    "name": "IconInboxFullOutline",
+    "title": "Inbox Full Outline",
+    "tag": "Inbox Full Outline"
+  },
+  {
+    "name": "IconInboxFullFill",
+    "title": "Inbox Full Fill",
+    "tag": "Inbox Full Fill"
+  },
+  {
+    "name": "IconInboxFill",
+    "title": "Inbox Fill",
+    "tag": "Inbox Fill"
+  },
+  {
+    "name": "IconImageRemoveOutline",
+    "title": "Image Remove Outline",
+    "tag": "Image Remove Outline"
+  },
+  {
+    "name": "IconImageRemoveFill",
+    "title": "Image Remove Fill",
+    "tag": "Image Remove Fill"
+  },
+  {
+    "name": "IconImageRefreshOutline",
+    "title": "Image Refresh Outline",
+    "tag": "Image Refresh Outline"
+  },
+  {
+    "name": "IconImageOutline",
+    "title": "Image Outline",
+    "tag": "Image Outline"
+  },
+  {
+    "name": "IconImageOffOutline",
+    "title": "Image Off Outline",
+    "tag": "Image Off Outline"
+  },
+  {
+    "name": "IconImageOffFill",
+    "title": "Image Off Fill",
+    "tag": "Image Off Fill"
+  },
+  {
+    "name": "IconImageMinusOutline",
+    "title": "Image Minus Outline",
+    "tag": "Image Minus Outline"
+  },
+  {
+    "name": "IconImageMinusFill",
+    "title": "Image Minus Fill",
+    "tag": "Image Minus Fill"
+  },
+  {
+    "name": "IconImageCheckOutline",
+    "title": "Image Check Outline",
+    "tag": "Image Check Outline"
+  },
+  {
+    "name": "IconImageCheckFill",
+    "title": "Image Check Fill",
+    "tag": "Image Check Fill"
+  },
+  {
+    "name": "IconImagePlusOutline",
+    "title": "Image Plus Outline",
+    "tag": "Image Plus Outline"
+  },
+  {
+    "name": "IconImagePlusFill",
+    "title": "Image Plus Fill",
+    "tag": "Image Plus Fill"
+  },
+  {
+    "name": "IconImageEditOutline",
+    "title": "Image Edit Outline",
+    "tag": "Image Edit Outline"
+  },
+  {
+    "name": "IconImageEditFill",
+    "title": "Image Edit Fill",
+    "tag": "Image Edit Fill"
+  },
+  {
+    "name": "IconImageRefreshFill",
+    "title": "Image Refresh Fill",
+    "tag": "Image Refresh Fill"
+  },
+  {
+    "name": "IconImageFill",
+    "title": "Image Fill",
+    "tag": "Image Fill"
+  },
+  {
+    "name": "IconInvoiceTextRemoveFill",
+    "title": "Invoice Text Remove Fill",
+    "tag": "Invoice Text Remove Fill"
+  },
+  {
+    "name": "IconInvoiceTextMinusFill",
+    "title": "Invoice Text Minus Fill",
+    "tag": "Invoice Text Minus Fill"
+  },
+  {
+    "name": "IconInvoiceTextOutline",
+    "title": "Invoice Text Outline",
+    "tag": "Invoice Text Outline"
+  },
+  {
+    "name": "IconInvoiceTextRemoveOutline",
+    "title": "Invoice Text Remove Outline",
+    "tag": "Invoice Text Remove Outline"
+  },
+  {
+    "name": "IconInvoiceTextCheckOutline",
+    "title": "Invoice Text Check Outline",
+    "tag": "Invoice Text Check Outline"
+  },
+  {
+    "name": "IconInvoiceTextPlusFill",
+    "title": "Invoice Text Plus Fill",
+    "tag": "Invoice Text Plus Fill"
+  },
+  {
+    "name": "IconInvoiceTextCheckFill",
+    "title": "Invoice Text Check Fill",
+    "tag": "Invoice Text Check Fill"
+  },
+  {
+    "name": "IconInvoiceTextPlusOutline",
+    "title": "Invoice Text Plus Outline",
+    "tag": "Invoice Text Plus Outline"
+  },
+  {
+    "name": "IconInvoiceTextMinusOutline",
+    "title": "Invoice Text Minus Outline",
+    "tag": "Invoice Text Minus Outline"
+  },
+  {
+    "name": "IconInvoiceTextFill",
+    "title": "Invoice Text Fill",
+    "tag": "Invoice Text Fill"
+  },
+  {
+    "name": "IconImportFileOutline",
+    "title": "Import File Outline",
+    "tag": "Upload file\nAdd file\nBring in file\nInsert file\nLoad file\nRetrieve file\nIncorporate file\nImport data\nTransfer file\nIntegrate file"
+  },
+  {
+    "name": "IconImportFileFill",
+    "title": "Import File Fill",
+    "tag": "Upload file\nAdd file\nBring in file\nInsert file\nLoad file\nRetrieve file\nIncorporate file\nImport data\nTransfer file\nIntegrate file"
+  },
+  {
+    "name": "IconImportOutline",
+    "title": "Import Outline",
+    "tag": "Import Outline"
+  },
+  {
+    "name": "IconImportFill",
+    "title": "Import Fill",
+    "tag": "Import Fill"
+  },
+  {
+    "name": "IconListEditOutline",
+    "title": "List Edit Outline",
+    "tag": "form | view | edit"
+  },
+  {
+    "name": "IconListEditFill",
+    "title": "List Edit Fill",
+    "tag": "form | view | edit"
+  },
+  {
+    "name": "IconInfoStyleBulk",
+    "title": "Info Style Bulk",
+    "tag": "Info Style Bulk"
+  },
+  {
+    "name": "IconInboxOutline",
+    "title": "Inbox Outline",
+    "tag": "Inbox Outline"
+  },
+  {
+    "name": "IconInboxSettingsOutline",
+    "title": "Inbox Settings Outline",
+    "tag": "Inbox Settings Outline"
+  },
+  {
+    "name": "IconInboxSettingsFill",
+    "title": "Inbox Settings Fill",
+    "tag": "Inbox Settings Fill"
+  },
+  {
+    "name": "IconKeyboardEnter",
+    "title": "Keyboard Enter",
+    "tag": "Return | Shortcut"
+  },
+  {
+    "name": "IconKeyboardEsc",
+    "title": "Keyboard Esc",
+    "tag": "close | shortcut"
+  },
+  {
+    "name": "IconKeyboardSlash",
+    "title": "Keyboard Slash",
+    "tag": "Division Key |\nOblique Key |\nForward Slash Key |\nSolidus Key |"
+  },
+  {
+    "name": "IconLinkTypeLink",
+    "title": "Link Type Link",
+    "tag": "Link Type Link"
+  },
+  {
+    "name": "IconLinkTypeAdd",
+    "title": "Link Type Add",
+    "tag": "Link Type Add"
+  },
+  {
+    "name": "IconLinkTypeOff",
+    "title": "Link Type Off",
+    "tag": "Link Type Off"
+  },
+  {
+    "name": "IconAddLocationOutline",
+    "title": "Add Location Outline",
+    "tag": "Add Location Outline"
+  },
+  {
+    "name": "IconLocationFill",
+    "title": "Location Fill",
+    "tag": "Location Fill"
+  },
+  {
+    "name": "IconLocationOutline",
+    "title": "Location Outline",
+    "tag": "Location Outline"
+  },
+  {
+    "name": "IconAddLocationFill",
+    "title": "Add Location Fill",
+    "tag": "Add Location Fill"
+  },
+  {
+    "name": "IconLocationOffOutline",
+    "title": "Location Off Outline",
+    "tag": "Location Off Outline"
+  },
+  {
+    "name": "IconLocationOffFill",
+    "title": "Location Off Fill",
+    "tag": "Location Off Fill"
+  },
+  {
+    "name": "IconLocationErrorOutline",
+    "title": "Location Error Outline",
+    "tag": "Location Error Outline"
+  },
+  {
+    "name": "IconLocationErrorFill",
+    "title": "Location Error Fill",
+    "tag": "Location Error Fill"
+  },
+  {
+    "name": "IconLocationNotFoundOutline",
+    "title": "Location Not Found Outline",
+    "tag": "Location Not Found Outline"
+  },
+  {
+    "name": "IconLocationNotFoundFill",
+    "title": "Location Not Found Fill",
+    "tag": "Location Not Found Fill"
+  },
+  {
+    "name": "IconListViewOutline",
+    "title": "List View Outline",
+    "tag": "List View Outline"
+  },
+  {
+    "name": "IconLogin",
+    "title": "Login",
+    "tag": "Login"
+  },
+  {
+    "name": "IconLogout",
+    "title": "Logout",
+    "tag": "Logout"
+  },
+  {
+    "name": "IconLaptopOutline",
+    "title": "Laptop Outline",
+    "tag": "Laptop Outline"
+  },
+  {
+    "name": "IconLayoutGrid",
+    "title": "Layout Grid",
+    "tag": "filter | grid | layout"
+  },
+  {
+    "name": "IconLayersThreeOutline",
+    "title": "Layers Three Outline",
+    "tag": "Bulk Renew |"
+  },
+  {
+    "name": "IconListRounded",
+    "title": "List Rounded",
+    "tag": "List Rounded"
+  },
+  {
+    "name": "IconLightningBoltFill",
+    "title": "Lightning Bolt Fill",
+    "tag": "Lightning Bolt Fill"
+  },
+  {
+    "name": "IconLightningBoltOutline",
+    "title": "Lightning Bolt Outline",
+    "tag": "Lightning Bolt Outline"
+  },
+  {
+    "name": "IconLms",
+    "title": "Lms",
+    "tag": "Lms"
+  },
+  {
+    "name": "IconListDoubleLineSquare",
+    "title": "List Double Line Square",
+    "tag": "List Double Line Square"
+  },
+  {
+    "name": "IconListViewFill",
+    "title": "List View Fill",
+    "tag": "List View Fill"
+  },
+  {
+    "name": "IconLayersThreeFill",
+    "title": "Layers Three Fill",
+    "tag": "Bulk Renew |"
+  },
+  {
+    "name": "IconListDoubleLineRounded",
+    "title": "List Double Line Rounded",
+    "tag": "List Double Line Rounded"
+  },
+  {
+    "name": "IconListSquare",
+    "title": "List Square",
+    "tag": "List Square"
+  },
+  {
+    "name": "IconLinkTypeRemove",
+    "title": "Link Type Remove",
+    "tag": "Link Type Remove"
+  },
+  {
+    "name": "IconLinkVariantOutline",
+    "title": "Link Variant Outline",
+    "tag": "Link Variant Outline"
+  },
+  {
+    "name": "IconLinkVariantFill",
+    "title": "Link Variant Fill",
+    "tag": "Link Variant Fill"
+  },
+  {
+    "name": "IconLive",
+    "title": "Live",
+    "tag": "Live"
+  },
+  {
+    "name": "IconLookupSearch",
+    "title": "Lookup Search",
+    "tag": "Lookup Search"
+  },
+  {
+    "name": "IconLinkVariant2",
+    "title": "Link Variant2",
+    "tag": "Link Variant2"
+  },
+  {
+    "name": "IconLightBulbFill",
+    "title": "Light Bulb Fill",
+    "tag": "Light Bulb Fill"
+  },
+  {
+    "name": "IconLightBulbOutline",
+    "title": "Light Bulb Outline",
+    "tag": "Light Bulb Outline"
+  },
+  {
+    "name": "IconLaptopFill",
+    "title": "Laptop Fill",
+    "tag": "Laptop Fill"
+  },
+  {
+    "name": "IconLightningBoltOffFill",
+    "title": "Lightning Bolt Off Fill",
+    "tag": "Lightning Bolt Off Fill"
+  },
+  {
+    "name": "IconLightningBoltOffOutline",
+    "title": "Lightning Bolt Off Outline",
+    "tag": "Lightning Bolt Off Outline"
+  },
+  {
+    "name": "IconLightBulbOffOutline",
+    "title": "Light Bulb Off Outline",
+    "tag": "Light Bulb Off Outline"
+  },
+  {
+    "name": "IconLightBulbOffFill",
+    "title": "Light Bulb Off Fill",
+    "tag": "Light Bulb Off Fill"
+  },
+  {
+    "name": "IconMapOutline",
+    "title": "Map Outline",
+    "tag": "Map Outline"
+  },
+  {
+    "name": "IconMapFill",
+    "title": "Map Fill",
+    "tag": "Map Fill"
+  },
+  {
+    "name": "IconMobileOutline",
+    "title": "Mobile Outline",
+    "tag": "Mobile Outline"
+  },
+  {
+    "name": "IconMenu",
+    "title": "Menu",
+    "tag": "Menu"
+  },
+  {
+    "name": "IconMenuPositionRight",
+    "title": "Menu Position Right",
+    "tag": "expand | more | arrow right | arrow | down | caret right"
+  },
+  {
+    "name": "IconMenuPositionUp",
+    "title": "Menu Position Up",
+    "tag": "expand | more | arrow up | arrow | down | caret top"
+  },
+  {
+    "name": "IconMenuPositionLeft",
+    "title": "Menu Position Left",
+    "tag": "expand | more | arrow left | arrow | down | caret left"
+  },
+  {
+    "name": "IconMenuPositionDown",
+    "title": "Menu Position Down",
+    "tag": "expand | more | arrow down | arrow | down | caret down"
+  },
+  {
+    "name": "IconMinusCircleOutline",
+    "title": "Minus Circle Outline",
+    "tag": "Minus Circle Outline"
+  },
+  {
+    "name": "IconMinusCircleFill",
+    "title": "Minus Circle Fill",
+    "tag": "Minus Circle Fill"
+  },
+  {
+    "name": "IconMan",
+    "title": "Man",
+    "tag": "Man"
+  },
+  {
+    "name": "IconMusic",
+    "title": "Music",
+    "tag": "Music"
+  },
+  {
+    "name": "IconMusicOff",
+    "title": "Music Off",
+    "tag": "Music Off"
+  },
+  {
+    "name": "IconMountainHutFill",
+    "title": "Mountain Hut Fill",
+    "tag": "Mountain Hut Fill"
+  },
+  {
+    "name": "IconMountainHutOutline",
+    "title": "Mountain Hut Outline",
+    "tag": "Mountain Hut Outline"
+  },
+  {
+    "name": "IconMeetingRoomFill",
+    "title": "Meeting Room Fill",
+    "tag": "Room | Meeting | office"
+  },
+  {
+    "name": "IconMeetingRoomOutline",
+    "title": "Meeting Room Outline",
+    "tag": "Room | Meeting | office"
+  },
+  {
+    "name": "IconMoonFill",
+    "title": "Moon Fill",
+    "tag": "dark mode"
+  },
+  {
+    "name": "IconMoonOutline",
+    "title": "Moon Outline",
+    "tag": "dark mode"
+  },
+  {
+    "name": "IconMinimize",
+    "title": "Minimize",
+    "tag": "Minimize"
+  },
+  {
+    "name": "IconMedicalServiceFill",
+    "title": "Medical Service Fill",
+    "tag": "emergency\nmedical"
+  },
+  {
+    "name": "IconMedicalServiceOutline",
+    "title": "Medical Service Outline",
+    "tag": "emergency\nmedical"
+  },
+  {
+    "name": "IconMovingDirectionDecrease",
+    "title": "Moving Direction Decrease",
+    "tag": "Moving Direction Decrease"
+  },
+  {
+    "name": "IconMovingDirectionIncrease",
+    "title": "Moving Direction Increase",
+    "tag": "Moving Direction Increase"
+  },
+  {
+    "name": "IconMobileFill",
+    "title": "Mobile Fill",
+    "tag": "Mobile Fill"
+  },
+  {
+    "name": "IconNoteFilledOutline",
+    "title": "Note Filled Outline",
+    "tag": "Note Filled Outline"
+  },
+  {
+    "name": "IconNoteMulipleFill",
+    "title": "Note Muliple Fill",
+    "tag": "Note Muliple Fill"
+  },
+  {
+    "name": "IconNoteMinusOutline",
+    "title": "Note Minus Outline",
+    "tag": "Note Minus Outline"
+  },
+  {
+    "name": "IconNoteMinusFill",
+    "title": "Note Minus Fill",
+    "tag": "Note Minus Fill"
+  },
+  {
+    "name": "IconNoteFilledFill",
+    "title": "Note Filled Fill",
+    "tag": "Note Filled Fill"
+  },
+  {
+    "name": "IconNotePlusFill",
+    "title": "Note Plus Fill",
+    "tag": "Note Plus Fill"
+  },
+  {
+    "name": "IconNoteCheckOutline",
+    "title": "Note Check Outline",
+    "tag": "Note Check Outline"
+  },
+  {
+    "name": "IconNoteMulipleOutline",
+    "title": "Note Muliple Outline",
+    "tag": "Note Muliple Outline"
+  },
+  {
+    "name": "IconNoteCheckFill",
+    "title": "Note Check Fill",
+    "tag": "Note Check Fill"
+  },
+  {
+    "name": "IconNoteArrowRightOutline",
+    "title": "Note Arrow Right Outline",
+    "tag": "Note Arrow Right Outline"
+  },
+  {
+    "name": "IconNoteArrowRightFill",
+    "title": "Note Arrow Right Fill",
+    "tag": "Note Arrow Right Fill"
+  },
+  {
+    "name": "IconNoteAlartFill",
+    "title": "Note Alart Fill",
+    "tag": "Note Alart Fill"
+  },
+  {
+    "name": "IconNoteAlartOutline",
+    "title": "Note Alart Outline",
+    "tag": "Note Alart Outline"
+  },
+  {
+    "name": "IconNotebookRemoveOutline",
+    "title": "Notebook Remove Outline",
+    "tag": "Notebook Remove Outline"
+  },
+  {
+    "name": "IconNotebookRemoveFill",
+    "title": "Notebook Remove Fill",
+    "tag": "Notebook Remove Fill"
+  },
+  {
+    "name": "IconNotebookPlusOutline",
+    "title": "Notebook Plus Outline",
+    "tag": "Notebook Plus Outline"
+  },
+  {
+    "name": "IconNotebookPlusFill",
+    "title": "Notebook Plus Fill",
+    "tag": "Notebook Plus Fill"
+  },
+  {
+    "name": "IconNotebookMinusFill",
+    "title": "Notebook Minus Fill",
+    "tag": "Notebook Minus Fill"
+  },
+  {
+    "name": "IconNotebookFilledOutline",
+    "title": "Notebook Filled Outline",
+    "tag": "Notebook Filled Outline"
+  },
+  {
+    "name": "IconNotebookEditFill",
+    "title": "Notebook Edit Fill",
+    "tag": "Notebook Edit Fill"
+  },
+  {
+    "name": "IconNotebookMinusOutline",
+    "title": "Notebook Minus Outline",
+    "tag": "Notebook Minus Outline"
+  },
+  {
+    "name": "IconNotebookCheckFill",
+    "title": "Notebook Check Fill",
+    "tag": "Notebook Check Fill"
+  },
+  {
+    "name": "IconNotebookEditOutline",
+    "title": "Notebook Edit Outline",
+    "tag": "Notebook Edit Outline"
+  },
+  {
+    "name": "IconNotebookFilledFill",
+    "title": "Notebook Filled Fill",
+    "tag": "Notebook Filled Fill"
+  },
+  {
+    "name": "IconNotebookCheckOutline",
+    "title": "Notebook Check Outline",
+    "tag": "Notebook Check Outline"
+  },
+  {
+    "name": "IconNumeric5BoxFill",
+    "title": "Numeric5 Box Fill",
+    "tag": "Numeric5 Box Fill"
+  },
+  {
+    "name": "IconNumeric6BoxFill",
+    "title": "Numeric6 Box Fill",
+    "tag": "Numeric6 Box Fill"
+  },
+  {
+    "name": "IconNumeric6BoxOutline",
+    "title": "Numeric6 Box Outline",
+    "tag": "Numeric6 Box Outline"
+  },
+  {
+    "name": "IconNumeric7BoxFill",
+    "title": "Numeric7 Box Fill",
+    "tag": "Numeric7 Box Fill"
+  },
+  {
+    "name": "IconNumeric8BoxOutline",
+    "title": "Numeric8 Box Outline",
+    "tag": "Numeric8 Box Outline"
+  },
+  {
+    "name": "IconNumeric5BoxOutline",
+    "title": "Numeric5 Box Outline",
+    "tag": "Numeric5 Box Outline"
+  },
+  {
+    "name": "IconNumeric4BoxOutline",
+    "title": "Numeric4 Box Outline",
+    "tag": "Numeric4 Box Outline"
+  },
+  {
+    "name": "IconNumeric8BoxFill",
+    "title": "Numeric8 Box Fill",
+    "tag": "Numeric8 Box Fill"
+  },
+  {
+    "name": "IconNumeric2BoxOutline",
+    "title": "Numeric2 Box Outline",
+    "tag": "Numeric2 Box Outline"
+  },
+  {
+    "name": "IconNumeric3BoxFill",
+    "title": "Numeric3 Box Fill",
+    "tag": "Numeric3 Box Fill"
+  },
+  {
+    "name": "IconNumeric1BoxFill",
+    "title": "Numeric1 Box Fill",
+    "tag": "Numeric1 Box Fill"
+  },
+  {
+    "name": "IconNumeric4BoxFill",
+    "title": "Numeric4 Box Fill",
+    "tag": "Numeric4 Box Fill"
+  },
+  {
+    "name": "IconNumeric0BoxOutline",
+    "title": "Numeric0 Box Outline",
+    "tag": "Numeric0 Box Outline"
+  },
+  {
+    "name": "IconNumeric3BoxOutline",
+    "title": "Numeric3 Box Outline",
+    "tag": "Numeric3 Box Outline"
+  },
+  {
+    "name": "IconNumeric0BoxFill",
+    "title": "Numeric0 Box Fill",
+    "tag": "Numeric0 Box Fill"
+  },
+  {
+    "name": "IconNumeric2BoxFill",
+    "title": "Numeric2 Box Fill",
+    "tag": "Numeric2 Box Fill"
+  },
+  {
+    "name": "IconNumeric7BoxOutline",
+    "title": "Numeric7 Box Outline",
+    "tag": "Numeric7 Box Outline"
+  },
+  {
+    "name": "IconNumeric1BoxOutline",
+    "title": "Numeric1 Box Outline",
+    "tag": "Numeric1 Box Outline"
+  },
+  {
+    "name": "IconNotificationOutline",
+    "title": "Notification Outline",
+    "tag": "Notification Outline"
+  },
+  {
+    "name": "IconNotificationFill",
+    "title": "Notification Fill",
+    "tag": "Notification Fill"
+  },
+  {
+    "name": "IconNotificationOffOutline",
+    "title": "Notification Off Outline",
+    "tag": "Notification Off Outline"
+  },
+  {
+    "name": "IconNotificationOffFill",
+    "title": "Notification Off Fill",
+    "tag": "Notification Off Fill"
+  },
+  {
+    "name": "IconNotificationAddOutline",
+    "title": "Notification Add Outline",
+    "tag": "Notification Add Outline"
+  },
+  {
+    "name": "IconNotificationAddFill",
+    "title": "Notification Add Fill",
+    "tag": "Notification Add Fill"
+  },
+  {
+    "name": "IconNotificationOnOutline",
+    "title": "Notification On Outline",
+    "tag": "Notification On Outline"
+  },
+  {
+    "name": "IconNotificationOnFill",
+    "title": "Notification On Fill",
+    "tag": "Notification On Fill"
+  },
+  {
+    "name": "IconNotificationSettingsOutline",
+    "title": "Notification Settings Outline",
+    "tag": "Notification Settings Outline"
+  },
+  {
+    "name": "IconNotificationSettingsFill",
+    "title": "Notification Settings Fill",
+    "tag": "Notification Settings Fill"
+  },
+  {
+    "name": "IconNotePlusOutline",
+    "title": "Note Plus Outline",
+    "tag": "Note Plus Outline"
+  },
+  {
+    "name": "IconNumeric9BoxOutline",
+    "title": "Numeric9 Box Outline",
+    "tag": "Numeric9 Box Outline"
+  },
+  {
+    "name": "IconNumeric9BoxFill",
+    "title": "Numeric9 Box Fill",
+    "tag": "Numeric9 Box Fill"
+  },
+  {
+    "name": "IconOverviewOutline",
+    "title": "Overview Outline",
+    "tag": "Overview Outline"
+  },
+  {
+    "name": "IconOverviewEditOutline",
+    "title": "Overview Edit Outline",
+    "tag": "Overview Edit Outline"
+  },
+  {
+    "name": "IconOverviewEditFill",
+    "title": "Overview Edit Fill",
+    "tag": "Overview Edit Fill"
+  },
+  {
+    "name": "IconOverviewFill",
+    "title": "Overview Fill",
+    "tag": "Overview Fill"
+  },
+  {
+    "name": "IconOpenInNew",
+    "title": "Open In New",
+    "tag": "redirect | hyperlink"
+  },
+  {
+    "name": "IconPieChartFill",
+    "title": "Pie Chart Fill",
+    "tag": "Pie Chart Fill"
+  },
+  {
+    "name": "IconPieChartOutline",
+    "title": "Pie Chart Outline",
+    "tag": "Pie Chart Outline"
+  },
+  {
+    "name": "IconPrinterOutlineFill",
+    "title": "Printer Outline Fill",
+    "tag": "Printer Outline Fill"
+  },
+  {
+    "name": "IconPrinterOutlineOutline",
+    "title": "Printer Outline Outline",
+    "tag": "Printer Outline Outline"
+  },
+  {
+    "name": "IconPercent",
+    "title": "Percent",
+    "tag": "Percent"
+  },
+  {
+    "name": "IconPillOff",
+    "title": "Pill Off",
+    "tag": "Pill Off"
+  },
+  {
+    "name": "IconPill",
+    "title": "Pill",
+    "tag": "Pill"
+  },
+  {
+    "name": "IconPillMultiple",
+    "title": "Pill Multiple",
+    "tag": "Pill Multiple"
+  },
+  {
+    "name": "IconPauseCircleFill",
+    "title": "Pause Circle Fill",
+    "tag": "Pause Circle Fill"
+  },
+  {
+    "name": "IconPause",
+    "title": "Pause",
+    "tag": "Pause"
+  },
+  {
+    "name": "IconPlayOutline",
+    "title": "Play Outline",
+    "tag": "Play Outline"
+  },
+  {
+    "name": "IconPlayCircleOutline",
+    "title": "Play Circle Outline",
+    "tag": "Play Circle Outline"
+  },
+  {
+    "name": "IconPlayCircleFill",
+    "title": "Play Circle Fill",
+    "tag": "Play Circle Fill"
+  },
+  {
+    "name": "IconPauseCircleOutline",
+    "title": "Pause Circle Outline",
+    "tag": "Pause Circle Outline"
+  },
+  {
+    "name": "IconPlayFill",
+    "title": "Play Fill",
+    "tag": "Play Fill"
+  },
+  {
+    "name": "IconPlusMinusVariant",
+    "title": "Plus Minus Variant",
+    "tag": "Plus Minus Variant"
+  },
+  {
+    "name": "IconPlusMinusFill",
+    "title": "Plus Minus Fill",
+    "tag": "Plus Minus Fill"
+  },
+  {
+    "name": "IconPlusMinusOutline",
+    "title": "Plus Minus Outline",
+    "tag": "Plus Minus Outline"
+  },
+  {
+    "name": "IconPlusCircleMultipleOutline",
+    "title": "Plus Circle Multiple Outline",
+    "tag": "Plus Circle Multiple Outline"
+  },
+  {
+    "name": "IconPhoneOutline",
+    "title": "Phone Outline",
+    "tag": "Phone Outline"
+  },
+  {
+    "name": "IconPhoneFill",
+    "title": "Phone Fill",
+    "tag": "Phone Fill"
+  },
+  {
+    "name": "IconPreviewListOutline",
+    "title": "Preview List Outline",
+    "tag": "form | view"
+  },
+  {
+    "name": "IconProgramOutline",
+    "title": "Program Outline",
+    "tag": "Program Outline"
+  },
+  {
+    "name": "IconProgramFill",
+    "title": "Program Fill",
+    "tag": "Program Fill"
+  },
+  {
+    "name": "IconPetsOutline",
+    "title": "Pets Outline",
+    "tag": "Pets Outline"
+  },
+  {
+    "name": "IconPetsFill",
+    "title": "Pets Fill",
+    "tag": "Pets Fill"
+  },
+  {
+    "name": "IconParaglidingFill",
+    "title": "Paragliding Fill",
+    "tag": "Paragliding Fill"
+  },
+  {
+    "name": "IconParaglidingOutline",
+    "title": "Paragliding Outline",
+    "tag": "Paragliding Outline"
+  },
+  {
+    "name": "IconParking",
+    "title": "Parking",
+    "tag": "Parking"
+  },
+  {
+    "name": "IconPreviewListFill",
+    "title": "Preview List Fill",
+    "tag": "form | view"
+  },
+  {
+    "name": "IconPreviewListEditOutline",
+    "title": "Preview List Edit Outline",
+    "tag": "form | view | edit"
+  },
+  {
+    "name": "IconPreviewListEditFill",
+    "title": "Preview List Edit Fill",
+    "tag": "form | view | edit"
+  },
+  {
+    "name": "IconPersonalInjuryOutline",
+    "title": "Personal Injury Outline",
+    "tag": "Personal Injury Outline"
+  },
+  {
+    "name": "IconPersonalInjuryFill",
+    "title": "Personal Injury Fill",
+    "tag": "Personal Injury Fill"
+  },
+  {
+    "name": "IconPinRemoveFill",
+    "title": "Pin Remove Fill",
+    "tag": "Pin Remove Fill"
+  },
+  {
+    "name": "IconPinRemoveOutline",
+    "title": "Pin Remove Outline",
+    "tag": "Pin Remove Outline"
+  },
+  {
+    "name": "IconProductBoxOutline",
+    "title": "Product Box Outline",
+    "tag": "Product Box Outline"
+  },
+  {
+    "name": "IconProductBoxAddOutline",
+    "title": "Product Box Add Outline",
+    "tag": "Product Box Add Outline"
+  },
+  {
+    "name": "IconProductBoxEditOutline",
+    "title": "Product Box Edit Outline",
+    "tag": "Product Box Edit Outline"
+  },
+  {
+    "name": "IconProductBoxEditFill",
+    "title": "Product Box Edit Fill",
+    "tag": "Product Box Edit Fill"
+  },
+  {
+    "name": "IconProductBoxAddFill",
+    "title": "Product Box Add Fill",
+    "tag": "Product Box Add Fill"
+  },
+  {
+    "name": "IconProductBoxFill",
+    "title": "Product Box Fill",
+    "tag": "Product Box Fill"
+  },
+  {
+    "name": "IconPasteOff",
+    "title": "Paste Off",
+    "tag": "Paste Off"
+  },
+  {
+    "name": "IconPaste",
+    "title": "Paste",
+    "tag": "Paste"
+  },
+  {
+    "name": "IconPaymentMethodAmericanExpressStyleFill",
+    "title": "Payment Method American Express Style Fill",
+    "tag": "Payment Method American Express Style Fill"
+  },
+  {
+    "name": "IconPaymentMethodAmericanExpressStyleColor",
+    "title": "Payment Method American Express Style Color",
+    "tag": "Payment Method American Express Style Color"
+  },
+  {
+    "name": "IconPaymentMethodUnionpayStyleFill",
+    "title": "Payment Method Unionpay Style Fill",
+    "tag": "Payment Method Unionpay Style Fill"
+  },
+  {
+    "name": "IconPaymentMethodVisaStyleColor",
+    "title": "Payment Method Visa Style Color",
+    "tag": "Payment Method Visa Style Color"
+  },
+  {
+    "name": "IconPaymentMethodPaypalStyleColor",
+    "title": "Payment Method Paypal Style Color",
+    "tag": "Payment Method Paypal Style Color"
+  },
+  {
+    "name": "IconPaymentMethodUnionpayStyleColor",
+    "title": "Payment Method Unionpay Style Color",
+    "tag": "Payment Method Unionpay Style Color"
+  },
+  {
+    "name": "IconPaymentMethodPaypalStyleFill",
+    "title": "Payment Method Paypal Style Fill",
+    "tag": "Payment Method Paypal Style Fill"
+  },
+  {
+    "name": "IconPaymentMethodMastercardStyleFill",
+    "title": "Payment Method Mastercard Style Fill",
+    "tag": "Payment Method Mastercard Style Fill"
+  },
+  {
+    "name": "IconPaymentMethodVisaStyleFill",
+    "title": "Payment Method Visa Style Fill",
+    "tag": "Payment Method Visa Style Fill"
+  },
+  {
+    "name": "IconPaymentMethodMastercardStyleColor",
+    "title": "Payment Method Mastercard Style Color",
+    "tag": "Payment Method Mastercard Style Color"
+  },
+  {
+    "name": "IconPlusCircleMultipleFill",
+    "title": "Plus Circle Multiple Fill",
+    "tag": "Plus Circle Multiple Fill"
+  },
+  {
+    "name": "IconPowerbiStyleFill",
+    "title": "Powerbi Style Fill",
+    "tag": "Powerbi Style Fill"
+  },
+  {
+    "name": "IconPowerbiStyleOutline",
+    "title": "Powerbi Style Outline",
+    "tag": "Powerbi Style Outline"
+  },
+  {
+    "name": "IconPowerbiStyleColor",
+    "title": "Powerbi Style Color",
+    "tag": "Powerbi Style Color"
+  },
+  {
+    "name": "IconPingPongFill",
+    "title": "Ping Pong Fill",
+    "tag": "Ping Pong Fill"
+  },
+  {
+    "name": "IconPingPongOutline",
+    "title": "Ping Pong Outline",
+    "tag": "Ping Pong Outline"
+  },
+  {
+    "name": "IconPublic",
+    "title": "Public",
+    "tag": "Public"
+  },
+  {
+    "name": "IconPinOutline",
+    "title": "Pin Outline",
+    "tag": "Pin Outline"
+  },
+  {
+    "name": "IconPinFill",
+    "title": "Pin Fill",
+    "tag": "Pin Fill"
+  },
+  {
+    "name": "IconPendingFiilFalse",
+    "title": "Pending Fiil False",
+    "tag": "Pending Fiil False"
+  },
+  {
+    "name": "IconPendingFiilTrue",
+    "title": "Pending Fiil True",
+    "tag": "Pending Fiil True"
+  },
+  {
+    "name": "IconPaymentGoogleWallet",
+    "title": "Payment Google Wallet",
+    "tag": "Payment Google Wallet"
+  },
+  {
+    "name": "IconPaymentAppleWallet",
+    "title": "Payment Apple Wallet",
+    "tag": "Payment Apple Wallet"
+  },
+  {
+    "name": "IconQrCodeScan",
+    "title": "Qr Code Scan",
+    "tag": "Qr Code Scan"
+  },
+  {
+    "name": "IconQrCodePlus",
+    "title": "Qr Code Plus",
+    "tag": "Qr Code Plus"
+  },
+  {
+    "name": "IconQrCodeMinus",
+    "title": "Qr Code Minus",
+    "tag": "Qr Code Minus"
+  },
+  {
+    "name": "IconQrCodeEdit",
+    "title": "Qr Code Edit",
+    "tag": "Qr Code Edit"
+  },
+  {
+    "name": "IconQrCode",
+    "title": "Qr Code",
+    "tag": "Qr Code"
+  },
+  {
+    "name": "IconQuoteOpenOutline",
+    "title": "Quote Open Outline",
+    "tag": "Quote Open Outline"
+  },
+  {
+    "name": "IconQuoteOpenFill",
+    "title": "Quote Open Fill",
+    "tag": "Quote Open Fill"
+  },
+  {
+    "name": "IconQuoteCloseOutline",
+    "title": "Quote Close Outline",
+    "tag": "Quote Close Outline"
+  },
+  {
+    "name": "IconQuoteCloseFill",
+    "title": "Quote Close Fill",
+    "tag": "Quote Close Fill"
+  },
+  {
+    "name": "IconQrCodeDownload",
+    "title": "Qr Code Download",
+    "tag": "Qr Code Download"
+  },
+  {
+    "name": "IconQrCodeOff",
+    "title": "Qr Code Off",
+    "tag": "Qr Code Off"
+  },
+  {
+    "name": "IconRemoveCircleOutline",
+    "title": "Remove Circle Outline",
+    "tag": "Remove Circle Outline"
+  },
+  {
+    "name": "IconRemoveCircleFill",
+    "title": "Remove Circle Fill",
+    "tag": "Remove Circle Fill"
+  },
+  {
+    "name": "IconRefresh02",
+    "title": "Refresh02",
+    "tag": "Refresh02"
+  },
+  {
+    "name": "IconRefresh01",
+    "title": "Refresh01",
+    "tag": "recent"
+  },
+  {
+    "name": "IconRemove",
+    "title": "Remove",
+    "tag": "minus"
+  },
+  {
+    "name": "IconReplyFill",
+    "title": "Reply Fill",
+    "tag": "Reply Fill"
+  },
+  {
+    "name": "IconReplyOutline",
+    "title": "Reply Outline",
+    "tag": "Reply Outline"
+  },
+  {
+    "name": "IconReplyAllFill",
+    "title": "Reply All Fill",
+    "tag": "Reply All Fill"
+  },
+  {
+    "name": "IconReplyAllOutline",
+    "title": "Reply All Outline",
+    "tag": "Reply All Outline"
+  },
+  {
+    "name": "IconReportCahrtBoxPlusOutline",
+    "title": "Report Cahrt Box Plus Outline",
+    "tag": "Report Cahrt Box Plus Outline"
+  },
+  {
+    "name": "IconReportChartBoxOutline",
+    "title": "Report Chart Box Outline",
+    "tag": "Report Chart Box Outline"
+  },
+  {
+    "name": "IconReportChartBoxFill",
+    "title": "Report Chart Box Fill",
+    "tag": "Report Chart Box Fill"
+  },
+  {
+    "name": "IconResizeBottomRight",
+    "title": "Resize Bottom Right",
+    "tag": "Resize Bottom Right"
+  },
+  {
+    "name": "IconReportCahrtBoxPlusFill",
+    "title": "Report Cahrt Box Plus Fill",
+    "tag": "Report Cahrt Box Plus Fill"
+  },
+  {
+    "name": "IconReportChartBoxDownloadOutline",
+    "title": "Report Chart Box Download Outline",
+    "tag": "Report Chart Box Download Outline"
+  },
+  {
+    "name": "IconReportChartBoxDownloadFill",
+    "title": "Report Chart Box Download Fill",
+    "tag": "Report Chart Box Download Fill"
+  },
+  {
+    "name": "IconRoomServiceOutline",
+    "title": "Room Service Outline",
+    "tag": "Room Service Outline"
+  },
+  {
+    "name": "IconRoomServiceFill",
+    "title": "Room Service Fill",
+    "tag": "Room Service Fill"
+  },
+  {
+    "name": "IconRefresh03",
+    "title": "Refresh03",
+    "tag": "switch"
+  },
+  {
+    "name": "IconReservedCheckedOutline",
+    "title": "Reserved Checked Outline",
+    "tag": "Reserved Checked Outline"
+  },
+  {
+    "name": "IconReservedCheckedFill",
+    "title": "Reserved Checked Fill",
+    "tag": "Reserved Checked Fill"
+  },
+  {
+    "name": "IconReservedCloseOutline",
+    "title": "Reserved Close Outline",
+    "tag": "Reserved Close Outline"
+  },
+  {
+    "name": "IconReservedCloseFill",
+    "title": "Reserved Close Fill",
+    "tag": "Reserved Close Fill"
+  },
+  {
+    "name": "IconReservedAddOutline",
+    "title": "Reserved Add Outline",
+    "tag": "Reserved Add Outline"
+  },
+  {
+    "name": "IconReservedAddFill",
+    "title": "Reserved Add Fill",
+    "tag": "Reserved Add Fill"
+  },
+  {
+    "name": "IconReservedRemoveOutline",
+    "title": "Reserved Remove Outline",
+    "tag": "Reserved Remove Outline"
+  },
+  {
+    "name": "IconReservedRemoveFill",
+    "title": "Reserved Remove Fill",
+    "tag": "Reserved Remove Fill"
+  },
+  {
+    "name": "IconRotate90DegreesLeftOutline",
+    "title": "Rotate90 Degrees Left Outline",
+    "tag": "image | rotate"
+  },
+  {
+    "name": "IconRoate90DegreesRightOutline",
+    "title": "Roate90 Degrees Right Outline",
+    "tag": "image | rotate"
+  },
+  {
+    "name": "IconRotate90DegreesLeftFill",
+    "title": "Rotate90 Degrees Left Fill",
+    "tag": "image | rotate"
+  },
+  {
+    "name": "IconRoate90DegreesRightFill",
+    "title": "Roate90 Degrees Right Fill",
+    "tag": "image | rotate"
+  },
+  {
+    "name": "IconRowOutline",
+    "title": "Row Outline",
+    "tag": "Row Outline"
+  },
+  {
+    "name": "IconRowFill",
+    "title": "Row Fill",
+    "tag": "Row Fill"
+  },
+  {
+    "name": "IconReset",
+    "title": "Reset",
+    "tag": "reset filter"
+  },
+  {
+    "name": "IconRewardedOutline",
+    "title": "Rewarded Outline",
+    "tag": "Rewarded Outline"
+  },
+  {
+    "name": "IconRewardedFill",
+    "title": "Rewarded Fill",
+    "tag": "Rewarded Fill"
+  },
+  {
+    "name": "IconRulerFill",
+    "title": "Ruler Fill",
+    "tag": "ruler | measurement | scale | length | straight edge | measuring tool"
+  },
+  {
+    "name": "IconRulerOutline",
+    "title": "Ruler Outline",
+    "tag": "ruler | measurement | scale | length | straight edge | measuring tool"
+  },
+  {
+    "name": "IconSetttingsOutline",
+    "title": "Setttings Outline",
+    "tag": "Opt-ins | setting"
+  },
+  {
+    "name": "IconSetttingsFill",
+    "title": "Setttings Fill",
+    "tag": "Setttings Fill"
+  },
+  {
+    "name": "IconSearch",
+    "title": "Search",
+    "tag": "Search"
+  },
+  {
+    "name": "IconSecurityAddOutline",
+    "title": "Security Add Outline",
+    "tag": "Security Add Outline"
+  },
+  {
+    "name": "IconSecurityOutline",
+    "title": "Security Outline",
+    "tag": "Security Outline"
+  },
+  {
+    "name": "IconSecurityScheduleOutline",
+    "title": "Security Schedule Outline",
+    "tag": "Security Schedule Outline"
+  },
+  {
+    "name": "IconShieldOutline",
+    "title": "Shield Outline",
+    "tag": "Shield Outline"
+  },
+  {
+    "name": "IconShieldCheckedOutline",
+    "title": "Shield Checked Outline",
+    "tag": "Shield Checked Outline"
+  },
+  {
+    "name": "IconSecurityProtected",
+    "title": "Security Protected",
+    "tag": "Security Protected"
+  },
+  {
+    "name": "IconSecurityIssueOutline",
+    "title": "Security Issue Outline",
+    "tag": "Security Issue Outline"
+  },
+  {
+    "name": "IconSecurityKeyOutline",
+    "title": "Security Key Outline",
+    "tag": "Security Key Outline"
+  },
+  {
+    "name": "IconSecurityKeyFill",
+    "title": "Security Key Fill",
+    "tag": "Security Key Fill"
+  },
+  {
+    "name": "IconSecurityPinOutline",
+    "title": "Security Pin Outline",
+    "tag": "Security Pin Outline"
+  },
+  {
+    "name": "IconSecurityAddFill",
+    "title": "Security Add Fill",
+    "tag": "Security Add Fill"
+  },
+  {
+    "name": "IconSecurityFill",
+    "title": "Security Fill",
+    "tag": "Security Fill"
+  },
+  {
+    "name": "IconSecurityScheduleFill",
+    "title": "Security Schedule Fill",
+    "tag": "Security Schedule Fill"
+  },
+  {
+    "name": "IconShieldFill",
+    "title": "Shield Fill",
+    "tag": "Shield Fill"
+  },
+  {
+    "name": "IconShieldCheckedFill",
+    "title": "Shield Checked Fill",
+    "tag": "Shield Checked Fill"
+  },
+  {
+    "name": "IconSecurityIssueFill",
+    "title": "Security Issue Fill",
+    "tag": "Security Issue Fill"
+  },
+  {
+    "name": "IconShieldAddOutline",
+    "title": "Shield Add Outline",
+    "tag": "Shield Add Outline"
+  },
+  {
+    "name": "IconShieldAddFill",
+    "title": "Shield Add Fill",
+    "tag": "Shield Add Fill"
+  },
+  {
+    "name": "IconSecurityKeyOffOutline",
+    "title": "Security Key Off Outline",
+    "tag": "Security Key Off Outline"
+  },
+  {
+    "name": "IconSecurityKeyOffFill",
+    "title": "Security Key Off Fill",
+    "tag": "Security Key Off Fill"
+  },
+  {
+    "name": "IconSecurityOpenOutline",
+    "title": "Security Open Outline",
+    "tag": "Security Open Outline"
+  },
+  {
+    "name": "IconSecurityOpenFill",
+    "title": "Security Open Fill",
+    "tag": "Security Open Fill"
+  },
+  {
+    "name": "IconSecurityOffOutline",
+    "title": "Security Off Outline",
+    "tag": "Security Off Outline"
+  },
+  {
+    "name": "IconSecurityOffFill",
+    "title": "Security Off Fill",
+    "tag": "Security Off Fill"
+  },
+  {
+    "name": "IconSendOutline",
+    "title": "Send Outline",
+    "tag": "Send Outline"
+  },
+  {
+    "name": "IconSendClockOutline",
+    "title": "Send Clock Outline",
+    "tag": "Send Clock Outline"
+  },
+  {
+    "name": "IconSendClockFill",
+    "title": "Send Clock Fill",
+    "tag": "Send Clock Fill"
+  },
+  {
+    "name": "IconSendFill",
+    "title": "Send Fill",
+    "tag": "Send Fill"
+  },
+  {
+    "name": "IconSortListTypeAscending",
+    "title": "Sort List Type Ascending",
+    "tag": "Sort List Type Ascending"
+  },
+  {
+    "name": "IconSortListTypeDescending",
+    "title": "Sort List Type Descending",
+    "tag": "Sort List Type Descending"
+  },
+  {
+    "name": "IconSecurityPinFill",
+    "title": "Security Pin Fill",
+    "tag": "Security Pin Fill"
+  },
+  {
+    "name": "IconShieldRemoveOutline",
+    "title": "Shield Remove Outline",
+    "tag": "Shield Remove Outline"
+  },
+  {
+    "name": "IconShieldRemoveFill",
+    "title": "Shield Remove Fill",
+    "tag": "Shield Remove Fill"
+  },
+  {
+    "name": "IconShieldLockOutline",
+    "title": "Shield Lock Outline",
+    "tag": "Shield Lock Outline"
+  },
+  {
+    "name": "IconShieldLockFill",
+    "title": "Shield Lock Fill",
+    "tag": "Shield Lock Fill"
+  },
+  {
+    "name": "IconSortVariantLock",
+    "title": "Sort Variant Lock",
+    "tag": "Sort Variant Lock"
+  },
+  {
+    "name": "IconSortVariantOff",
+    "title": "Sort Variant Off",
+    "tag": "Sort Variant Off"
+  },
+  {
+    "name": "IconSortVariantLockOpen",
+    "title": "Sort Variant Lock Open",
+    "tag": "Sort Variant Lock Open"
+  },
+  {
+    "name": "IconSortNumericDescendingVariant",
+    "title": "Sort Numeric Descending Variant",
+    "tag": "Sort Numeric Descending Variant"
+  },
+  {
+    "name": "IconSortNumericAscendingVariant",
+    "title": "Sort Numeric Ascending Variant",
+    "tag": "Sort Numeric Ascending Variant"
+  },
+  {
+    "name": "IconSortDescending",
+    "title": "Sort Descending",
+    "tag": "Sort Descending"
+  },
+  {
+    "name": "IconSortAlphabeticalDescending",
+    "title": "Sort Alphabetical Descending",
+    "tag": "Sort Alphabetical Descending"
+  },
+  {
+    "name": "IconSortNumericDescending",
+    "title": "Sort Numeric Descending",
+    "tag": "Sort Numeric Descending"
+  },
+  {
+    "name": "IconSortAlphabeticalAscendingVariant",
+    "title": "Sort Alphabetical Ascending Variant",
+    "tag": "Sort Alphabetical Ascending Variant"
+  },
+  {
+    "name": "IconSortBoolAscending",
+    "title": "Sort Bool Ascending",
+    "tag": "Sort Bool Ascending"
+  },
+  {
+    "name": "IconSortAlphabeticalAscending",
+    "title": "Sort Alphabetical Ascending",
+    "tag": "Sort Alphabetical Ascending"
+  },
+  {
+    "name": "IconSortNumericAscending",
+    "title": "Sort Numeric Ascending",
+    "tag": "Sort Numeric Ascending"
+  },
+  {
+    "name": "IconSortNumericVariant",
+    "title": "Sort Numeric Variant",
+    "tag": "Sort Numeric Variant"
+  },
+  {
+    "name": "IconSortBoolDescending",
+    "title": "Sort Bool Descending",
+    "tag": "Sort Bool Descending"
+  },
+  {
+    "name": "IconSortClockDescendingFill",
+    "title": "Sort Clock Descending Fill",
+    "tag": "Sort Clock Descending Fill"
+  },
+  {
+    "name": "IconSortAscending",
+    "title": "Sort Ascending",
+    "tag": "Sort Ascending"
+  },
+  {
+    "name": "IconSortClockAscendingFill",
+    "title": "Sort Clock Ascending Fill",
+    "tag": "Sort Clock Ascending Fill"
+  },
+  {
+    "name": "IconSortAlphabeticalDescendingVariant",
+    "title": "Sort Alphabetical Descending Variant",
+    "tag": "Sort Alphabetical Descending Variant"
+  },
+  {
+    "name": "IconSortClockDescendingOutline",
+    "title": "Sort Clock Descending Outline",
+    "tag": "Sort Clock Descending Outline"
+  },
+  {
+    "name": "IconSortAlphabeticalVariant",
+    "title": "Sort Alphabetical Variant",
+    "tag": "Sort Alphabetical Variant"
+  },
+  {
+    "name": "IconSortClockAscendingOutline",
+    "title": "Sort Clock Ascending Outline",
+    "tag": "Sort Clock Ascending Outline"
+  },
+  {
+    "name": "IconShopManagementOutline",
+    "title": "Shop Management Outline",
+    "tag": "Shop Settings"
+  },
+  {
+    "name": "IconShopManagementFill",
+    "title": "Shop Management Fill",
+    "tag": "Shop settings"
+  },
+  {
+    "name": "IconShieldAccountFill",
+    "title": "Shield Account Fill",
+    "tag": "Shield Account Fill"
+  },
+  {
+    "name": "IconShieldAccountOutline",
+    "title": "Shield Account Outline",
+    "tag": "Shield Account Outline"
+  },
+  {
+    "name": "IconShopPlusOutline",
+    "title": "Shop Plus Outline",
+    "tag": "Shop Plus Outline"
+  },
+  {
+    "name": "IconShopOffOutline",
+    "title": "Shop Off Outline",
+    "tag": "Shop Off Outline"
+  },
+  {
+    "name": "IconShopEditOutline",
+    "title": "Shop Edit Outline",
+    "tag": "Shop Edit Outline"
+  },
+  {
+    "name": "IconShopRemoveOutline",
+    "title": "Shop Remove Outline",
+    "tag": "Shop Remove Outline"
+  },
+  {
+    "name": "IconShopOffFill",
+    "title": "Shop Off Fill",
+    "tag": "Shop Off Fill"
+  },
+  {
+    "name": "IconShopRemoveFill",
+    "title": "Shop Remove Fill",
+    "tag": "Shop Remove Fill"
+  },
+  {
+    "name": "IconShopPlusFill",
+    "title": "Shop Plus Fill",
+    "tag": "Shop Plus Fill"
+  },
+  {
+    "name": "IconShopLocationOutline",
+    "title": "Shop Location Outline",
+    "tag": "Shop Location Outline"
+  },
+  {
+    "name": "IconShopMinusFill",
+    "title": "Shop Minus Fill",
+    "tag": "Shop Minus Fill"
+  },
+  {
+    "name": "IconShopLocationFill",
+    "title": "Shop Location Fill",
+    "tag": "Shop Location Fill"
+  },
+  {
+    "name": "IconShopAlartFill",
+    "title": "Shop Alart Fill",
+    "tag": "Shop Alart Fill"
+  },
+  {
+    "name": "IconShopEditFill",
+    "title": "Shop Edit Fill",
+    "tag": "Shop Edit Fill"
+  },
+  {
+    "name": "IconShopCheckFill",
+    "title": "Shop Check Fill",
+    "tag": "Shop Check Fill"
+  },
+  {
+    "name": "IconShopMinusOutline",
+    "title": "Shop Minus Outline",
+    "tag": "Shop Minus Outline"
+  },
+  {
+    "name": "IconShopCheckOutline",
+    "title": "Shop Check Outline",
+    "tag": "Shop Check Outline"
+  },
+  {
+    "name": "IconShopAlartOutline",
+    "title": "Shop Alart Outline",
+    "tag": "Shop Alart Outline"
+  },
+  {
+    "name": "IconShopSearchOutline",
+    "title": "Shop Search Outline",
+    "tag": "Shop Search Outline"
+  },
+  {
+    "name": "IconShopClockOutline",
+    "title": "Shop Clock Outline",
+    "tag": "Shop Clock Outline"
+  },
+  {
+    "name": "IconShopClockFill",
+    "title": "Shop Clock Fill",
+    "tag": "Shop Clock Fill"
+  },
+  {
+    "name": "IconShopOutline",
+    "title": "Shop Outline",
+    "tag": "Store Symbol | \nRetail Emblem | \nMarketplace Marker | \nTrade Insignia | \nBuy Badge | \nMerchandise Icon | \nShopping Symbol | \nCommerce Token | \nRetail Graphic | \nPurchase Mark | \nOutlet Sign | \nConsumer Logo | \nShop Identifier | \nMarket Emblem | \nRetailer Icon | \nShopping Cart Symbol | \nTrade Logo | \nStorefront Marker | \nBuy Button | \nRetail Token"
+  },
+  {
+    "name": "IconShopFill",
+    "title": "Shop Fill",
+    "tag": "Store Symbol | \nRetail Emblem | \nMarketplace Marker | \nTrade Insignia | \nBuy Badge | \nMerchandise Icon | \nShopping Symbol | \nCommerce Token | \nRetail Graphic | \nPurchase Mark | \nOutlet Sign | \nConsumer Logo | \nShop Identifier | \nMarket Emblem | \nRetailer Icon | \nShopping Cart Symbol | \nTrade Logo | \nStorefront Marker | \nBuy Button | \nRetail Token"
+  },
+  {
+    "name": "IconShopSearchFill",
+    "title": "Shop Search Fill",
+    "tag": "Shop Search Fill"
+  },
+  {
+    "name": "IconSetupFill",
+    "title": "Setup Fill",
+    "tag": "Setup Fill"
+  },
+  {
+    "name": "IconSetupOutline",
+    "title": "Setup Outline",
+    "tag": "Setup Outline"
+  },
+  {
+    "name": "IconSubstituteOutline",
+    "title": "Substitute Outline",
+    "tag": "Swap\nChange"
+  },
+  {
+    "name": "IconSubstituteFill",
+    "title": "Substitute Fill",
+    "tag": "Swap\nChange"
+  },
+  {
+    "name": "IconSkill",
+    "title": "Skill",
+    "tag": "Skill"
+  },
+  {
+    "name": "IconSprint",
+    "title": "Sprint",
+    "tag": "Sprint"
+  },
+  {
+    "name": "IconSquareFill",
+    "title": "Square Fill",
+    "tag": "Square Fill"
+  },
+  {
+    "name": "IconSquareOutline",
+    "title": "Square Outline",
+    "tag": "Square Outline"
+  },
+  {
+    "name": "IconSunFill",
+    "title": "Sun Fill",
+    "tag": "Light Mode"
+  },
+  {
+    "name": "IconSunOutline",
+    "title": "Sun Outline",
+    "tag": "Light Mode"
+  },
+  {
+    "name": "IconSeatOutline",
+    "title": "Seat Outline",
+    "tag": "Seat Outline"
+  },
+  {
+    "name": "IconSeatCheckFill",
+    "title": "Seat Check Fill",
+    "tag": "Seat Check Fill"
+  },
+  {
+    "name": "IconSeatErrorFill",
+    "title": "Seat Error Fill",
+    "tag": "Seat Error Fill"
+  },
+  {
+    "name": "IconSeatWarningFill",
+    "title": "Seat Warning Fill",
+    "tag": "Seat Warning Fill"
+  },
+  {
+    "name": "IconSeatFill",
+    "title": "Seat Fill",
+    "tag": "Seat Fill"
+  },
+  {
+    "name": "IconSeatErrorOutline",
+    "title": "Seat Error Outline",
+    "tag": "Seat Error Outline"
+  },
+  {
+    "name": "IconSeatWarningOutline",
+    "title": "Seat Warning Outline",
+    "tag": "Seat Warning Outline"
+  },
+  {
+    "name": "IconSeatCheckOutline",
+    "title": "Seat Check Outline",
+    "tag": "Seat Check Outline"
+  },
+  {
+    "name": "IconStarFill",
+    "title": "Star Fill",
+    "tag": "Star Fill"
+  },
+  {
+    "name": "IconStarOutline",
+    "title": "Star Outline",
+    "tag": "Star Outline"
+  },
+  {
+    "name": "IconSaveOutline",
+    "title": "Save Outline",
+    "tag": "Save Outline"
+  },
+  {
+    "name": "IconShare01",
+    "title": "Share01",
+    "tag": "quick links | shortcut |"
+  },
+  {
+    "name": "IconShare02Outline",
+    "title": "Share02 Outline",
+    "tag": "Share02 Outline"
+  },
+  {
+    "name": "IconStarCircleOutline",
+    "title": "Star Circle Outline",
+    "tag": "Star Circle Outline"
+  },
+  {
+    "name": "IconStarCircleFill",
+    "title": "Star Circle Fill",
+    "tag": "Star Circle Fill"
+  },
+  {
+    "name": "IconSaveFill",
+    "title": "Save Fill",
+    "tag": "Save Fill"
+  },
+  {
+    "name": "IconSavePlusFill",
+    "title": "Save Plus Fill",
+    "tag": "Save Plus Fill"
+  },
+  {
+    "name": "IconSavePlusOutline",
+    "title": "Save Plus Outline",
+    "tag": "Save Plus Outline"
+  },
+  {
+    "name": "IconSaveAlertOutline",
+    "title": "Save Alert Outline",
+    "tag": "Save Alert Outline"
+  },
+  {
+    "name": "IconSaveAlertFill",
+    "title": "Save Alert Fill",
+    "tag": "Save Alert Fill"
+  },
+  {
+    "name": "IconSaveCheckOutline",
+    "title": "Save Check Outline",
+    "tag": "Save Check Outline"
+  },
+  {
+    "name": "IconSaveCheckFill",
+    "title": "Save Check Fill",
+    "tag": "Save Check Fill"
+  },
+  {
+    "name": "IconSaveSettingsFill",
+    "title": "Save Settings Fill",
+    "tag": "Save Settings Fill"
+  },
+  {
+    "name": "IconSaveSettingsOutline",
+    "title": "Save Settings Outline",
+    "tag": "Save Settings Outline"
+  },
+  {
+    "name": "IconSaveEditFill",
+    "title": "Save Edit Fill",
+    "tag": "Save Edit Fill"
+  },
+  {
+    "name": "IconSaveEditOutline",
+    "title": "Save Edit Outline",
+    "tag": "Save Edit Outline"
+  },
+  {
+    "name": "IconSaveMinusFill",
+    "title": "Save Minus Fill",
+    "tag": "Save Minus Fill"
+  },
+  {
+    "name": "IconSaveMinusOutline",
+    "title": "Save Minus Outline",
+    "tag": "Save Minus Outline"
+  },
+  {
+    "name": "IconSaveMoveFill",
+    "title": "Save Move Fill",
+    "tag": "Save Move Fill"
+  },
+  {
+    "name": "IconSaveMoveOutline",
+    "title": "Save Move Outline",
+    "tag": "Save Move Outline"
+  },
+  {
+    "name": "IconSaveOffFill",
+    "title": "Save Off Fill",
+    "tag": "Save Off Fill"
+  },
+  {
+    "name": "IconSaveOffOutline",
+    "title": "Save Off Outline",
+    "tag": "Save Off Outline"
+  },
+  {
+    "name": "IconShare02Fill",
+    "title": "Share02 Fill",
+    "tag": "Share02 Fill"
+  },
+  {
+    "name": "IconSegment",
+    "title": "Segment",
+    "tag": "Segment"
+  },
+  {
+    "name": "IconSegmentEdit",
+    "title": "Segment Edit",
+    "tag": "Segment Edit"
+  },
+  {
+    "name": "IconSegmentAdd",
+    "title": "Segment Add",
+    "tag": "Segment Add"
+  },
+  {
+    "name": "IconSegmentPreview",
+    "title": "Segment Preview",
+    "tag": "Segment Preview"
+  },
+  {
+    "name": "IconSendTestFilled",
+    "title": "Send Test Filled",
+    "tag": "Send Test Filled"
+  },
+  {
+    "name": "IconSort",
+    "title": "Sort",
+    "tag": "Arrange | Order | Organize | Categorize | Filter | Classify | Align | Systemize | Group | Sequence | Catalog | Index | Array | Rank | File | Stack | Cluster | Coordinate | Tabulate | List | Prioritize | Cull | Screen | Separate | Regiment | Codify | Reorder | Systematize | Streamline | Tag | Taggle | Taxonomy | Pyramid | Pyramidize | Sift | Select | Slot | Cluster | Triage | Range | Slot | Grade | Gauge | Conform | Chart | Filing | Place | Systemize | Combine | Unify | Groupify."
+  },
+  {
+    "name": "IconSocialGoogleStyleColor",
+    "title": "Social Google Style Color",
+    "tag": "Social Google Style Color"
+  },
+  {
+    "name": "IconSocialGoogleStyleFill",
+    "title": "Social Google Style Fill",
+    "tag": "Social Google Style Fill"
+  },
+  {
+    "name": "IconSocialGoogleStyleOutlline",
+    "title": "Social Google Style Outlline",
+    "tag": "Social Google Style Outlline"
+  },
+  {
+    "name": "IconSocialInstaramStyleColor",
+    "title": "Social Instaram Style Color",
+    "tag": "Social Instaram Style Color"
+  },
+  {
+    "name": "IconSocialInstaramStyleFill",
+    "title": "Social Instaram Style Fill",
+    "tag": "Social Instaram Style Fill"
+  },
+  {
+    "name": "IconSocialInstaramStyleOutline",
+    "title": "Social Instaram Style Outline",
+    "tag": "Social Instaram Style Outline"
+  },
+  {
+    "name": "IconSocialFacebookStyleOutline",
+    "title": "Social Facebook Style Outline",
+    "tag": "Social Facebook Style Outline"
+  },
+  {
+    "name": "IconSocialFacebookStyleFill",
+    "title": "Social Facebook Style Fill",
+    "tag": "Social Facebook Style Fill"
+  },
+  {
+    "name": "IconSocialFacebookStyleColor",
+    "title": "Social Facebook Style Color",
+    "tag": "Social Facebook Style Color"
+  },
+  {
+    "name": "IconSocialLinkedinStyleOutline",
+    "title": "Social Linkedin Style Outline",
+    "tag": "Social Linkedin Style Outline"
+  },
+  {
+    "name": "IconSocialLinkedinStyleColor",
+    "title": "Social Linkedin Style Color",
+    "tag": "Social Linkedin Style Color"
+  },
+  {
+    "name": "IconSocialLinkedinStyleFill",
+    "title": "Social Linkedin Style Fill",
+    "tag": "Social Linkedin Style Fill"
+  },
+  {
+    "name": "IconSocialXTwitterStyleOutline",
+    "title": "Social X Twitter Style Outline",
+    "tag": "Social X Twitter Style Outline"
+  },
+  {
+    "name": "IconSocialXTwitterStyleFill",
+    "title": "Social X Twitter Style Fill",
+    "tag": "Social X Twitter Style Fill"
+  },
+  {
+    "name": "IconSidebarTypeOpen",
+    "title": "Sidebar Type Open",
+    "tag": "Sidebar Type Open"
+  },
+  {
+    "name": "IconSidebarTypeClose",
+    "title": "Sidebar Type Close",
+    "tag": "Sidebar Type Close"
+  },
+  {
+    "name": "IconSlideshowFill",
+    "title": "Slideshow Fill",
+    "tag": "Slideshow Fill"
+  },
+  {
+    "name": "IconSlideshowOutline",
+    "title": "Slideshow Outline",
+    "tag": "Slideshow Outline"
+  },
+  {
+    "name": "IconSocialWhatsappStyleFill",
+    "title": "Social Whatsapp Style Fill",
+    "tag": "Social Whatsapp Style Fill"
+  },
+  {
+    "name": "IconSocialWhatsappStyleColor",
+    "title": "Social Whatsapp Style Color",
+    "tag": "Social Whatsapp Style Color"
+  },
+  {
+    "name": "IconSocialWhatsappStyleOutline",
+    "title": "Social Whatsapp Style Outline",
+    "tag": "Social Whatsapp Style Outline"
+  },
+  {
+    "name": "IconSocialTiktokStyleColor",
+    "title": "Social Tiktok Style Color",
+    "tag": "Social Tiktok Style Color"
+  },
+  {
+    "name": "IconSocialTiktokStyleOutline",
+    "title": "Social Tiktok Style Outline",
+    "tag": "Social Tiktok Style Outline"
+  },
+  {
+    "name": "IconSocialTiktokStyleFill",
+    "title": "Social Tiktok Style Fill",
+    "tag": "Social Tiktok Style Fill"
+  },
+  {
+    "name": "IconSupportFill",
+    "title": "Support Fill",
+    "tag": "Support Fill"
+  },
+  {
+    "name": "IconSupportOutline",
+    "title": "Support Outline",
+    "tag": "Support Outline"
+  },
+  {
+    "name": "IconSupportHeadphoneOutline",
+    "title": "Support Headphone Outline",
+    "tag": "Support Headphone Outline"
+  },
+  {
+    "name": "IconSupportHeadphoneFill",
+    "title": "Support Headphone Fill",
+    "tag": "Support Headphone Fill"
+  },
+  {
+    "name": "IconSocialYoutubeStyleColor",
+    "title": "Social Youtube Style Color",
+    "tag": "youtube"
+  },
+  {
+    "name": "IconSocialYoutubeStyleFill",
+    "title": "Social Youtube Style Fill",
+    "tag": "youtube"
+  },
+  {
+    "name": "IconSocialYoutubeStyleOutline",
+    "title": "Social Youtube Style Outline",
+    "tag": "youtube"
+  },
+  {
+    "name": "IconSurfBoardFill",
+    "title": "Surf Board Fill",
+    "tag": "surfboards | surfboard repair | surfboard design | surfboard storage | surfing equipment | surfboard wax | surfboard quiver | custom surfboards | surfboard fin | shortboards | filled"
+  },
+  {
+    "name": "IconSurfBoardOutline",
+    "title": "Surf Board Outline",
+    "tag": "surfboards | surfboard repair | surfboard design | surfboard storage | surfing equipment | surfboard wax | surfboard quiver | custom surfboards | surfboard fin | shortboards | outline"
+  },
+  {
+    "name": "IconStepsFill",
+    "title": "Steps Fill",
+    "tag": "Steps Fill"
+  },
+  {
+    "name": "IconStepsOutline",
+    "title": "Steps Outline",
+    "tag": "Steps Outline"
+  },
+  {
+    "name": "IconSideBarMenuFilterFill",
+    "title": "Side Bar Menu Filter Fill",
+    "tag": "Side Bar Menu Filter Fill"
+  },
+  {
+    "name": "IconSideBarMenuFilterOutline",
+    "title": "Side Bar Menu Filter Outline",
+    "tag": "Side Bar Menu Filter Outline"
+  },
+  {
+    "name": "IconSocialAppleOutline",
+    "title": "Social Apple Outline",
+    "tag": "Social Apple Outline"
+  },
+  {
+    "name": "IconSocialAppleFill",
+    "title": "Social Apple Fill",
+    "tag": "Social Apple Fill"
+  },
+  {
+    "name": "IconSocialXTwitterStyleColor",
+    "title": "Social X Twitter Style Color",
+    "tag": "Social X Twitter Style Color"
+  },
+  {
+    "name": "IconSwordOutline",
+    "title": "Sword Outline",
+    "tag": "Sword Outline"
+  },
+  {
+    "name": "IconSwordFill",
+    "title": "Sword Fill",
+    "tag": "Sword Fill"
+  },
+  {
+    "name": "IconSickFill",
+    "title": "Sick Fill",
+    "tag": "Sick Fill"
+  },
+  {
+    "name": "IconSickOutline",
+    "title": "Sick Outline",
+    "tag": "Sick Outline"
+  },
+  {
+    "name": "IconTagOutline",
+    "title": "Tag Outline",
+    "tag": "Tag Outline"
+  },
+  {
+    "name": "IconTagFill",
+    "title": "Tag Fill",
+    "tag": "Tag Fill"
+  },
+  {
+    "name": "IconTextTitle",
+    "title": "Text Title",
+    "tag": "Text Title"
+  },
+  {
+    "name": "IconTicketPercentOutline",
+    "title": "Ticket Percent Outline",
+    "tag": "Ticket Percent Outline"
+  },
+  {
+    "name": "IconTicketPercentFill",
+    "title": "Ticket Percent Fill",
+    "tag": "Ticket Percent Fill"
+  },
+  {
+    "name": "IconTicketOutline",
+    "title": "Ticket Outline",
+    "tag": "Ticket Outline"
+  },
+  {
+    "name": "IconTicketConfirmationFill",
+    "title": "Ticket Confirmation Fill",
+    "tag": "Ticket Confirmation Fill"
+  },
+  {
+    "name": "IconTicketAccountFill",
+    "title": "Ticket Account Fill",
+    "tag": "Ticket Account Fill"
+  },
+  {
+    "name": "IconTicketConfirmationOutline",
+    "title": "Ticket Confirmation Outline",
+    "tag": "Ticket Confirmation Outline"
+  },
+  {
+    "name": "IconTicketStarFill",
+    "title": "Ticket Star Fill",
+    "tag": "Ticket Star Fill"
+  },
+  {
+    "name": "IconTicketStarOutline",
+    "title": "Ticket Star Outline",
+    "tag": "Ticket Star Outline"
+  },
+  {
+    "name": "IconTuneVerticalDirectionHorizontal",
+    "title": "Tune Vertical Direction Horizontal",
+    "tag": "Tune Vertical Direction Horizontal"
+  },
+  {
+    "name": "IconTuneHorizontalVariantDirectionVertical",
+    "title": "Tune Horizontal Variant Direction Vertical",
+    "tag": "Tune Horizontal Variant Direction Vertical"
+  },
+  {
+    "name": "IconTuneHorizontalVariantDirectionHorizontal",
+    "title": "Tune Horizontal Variant Direction Horizontal",
+    "tag": "Tune Horizontal Variant Direction Horizontal"
+  },
+  {
+    "name": "IconTuneVerticalDirectionVertical",
+    "title": "Tune Vertical Direction Vertical",
+    "tag": "Tune Vertical Direction Vertical"
+  },
+  {
+    "name": "IconThumbDownFill",
+    "title": "Thumb Down Fill",
+    "tag": "Thumb Down Fill"
+  },
+  {
+    "name": "IconThumbDownOutline",
+    "title": "Thumb Down Outline",
+    "tag": "Thumb Down Outline"
+  },
+  {
+    "name": "IconThumbUpFill",
+    "title": "Thumb Up Fill",
+    "tag": "Thumb Up Fill"
+  },
+  {
+    "name": "IconThumbUpOutline",
+    "title": "Thumb Up Outline",
+    "tag": "Thumb Up Outline"
+  },
+  {
+    "name": "IconTicketFill",
+    "title": "Ticket Fill",
+    "tag": "Ticket Fill"
+  },
+  {
+    "name": "IconTabletOutline",
+    "title": "Tablet Outline",
+    "tag": "Tablet Outline"
+  },
+  {
+    "name": "IconTicketAddFill",
+    "title": "Ticket Add Fill",
+    "tag": "Ticket Add Fill"
+  },
+  {
+    "name": "IconTicketAddOutline",
+    "title": "Ticket Add Outline",
+    "tag": "Ticket Add Outline"
+  },
+  {
+    "name": "IconTicketRemoveFill",
+    "title": "Ticket Remove Fill",
+    "tag": "Ticket Remove Fill"
+  },
+  {
+    "name": "IconTicketRemoveOutline",
+    "title": "Ticket Remove Outline",
+    "tag": "Ticket Remove Outline"
+  },
+  {
+    "name": "IconTemplateOutline",
+    "title": "Template Outline",
+    "tag": "Template Outline"
+  },
+  {
+    "name": "IconTemplateFill",
+    "title": "Template Fill",
+    "tag": "Template Fill"
+  },
+  {
+    "name": "IconTranslate",
+    "title": "Translate",
+    "tag": "Translate"
+  },
+  {
+    "name": "IconTagTrialCircleFill",
+    "title": "Tag Trial Circle Fill",
+    "tag": "Tag Trial Circle Fill"
+  },
+  {
+    "name": "IconTagTrialCircleOutline",
+    "title": "Tag Trial Circle Outline",
+    "tag": "Tag Trial Circle Outline"
+  },
+  {
+    "name": "IconTagTrialOutline",
+    "title": "Tag Trial Outline",
+    "tag": "Tag Trial Outline"
+  },
+  {
+    "name": "IconTagTrialFill",
+    "title": "Tag Trial Fill",
+    "tag": "Tag Trial Fill"
+  },
+  {
+    "name": "IconTargetArrow",
+    "title": "Target Arrow",
+    "tag": "Target Arrow"
+  },
+  {
+    "name": "IconTarget",
+    "title": "Target",
+    "tag": "Target"
+  },
+  {
+    "name": "IconTicketAccountOutline",
+    "title": "Ticket Account Outline",
+    "tag": "Ticket Account Outline"
+  },
+  {
+    "name": "IconTabletFill",
+    "title": "Tablet Fill",
+    "tag": "Tablet Fill"
+  },
+  {
+    "name": "IconVerifiedFill",
+    "title": "Verified Fill",
+    "tag": "Verified Fill"
+  },
+  {
+    "name": "IconVerifiedOutline",
+    "title": "Verified Outline",
+    "tag": "Verified Outline"
+  },
+  {
+    "name": "IconVolumeVariantOff",
+    "title": "Volume Variant Off",
+    "tag": "Volume Variant Off"
+  },
+  {
+    "name": "IconVolumeMedium",
+    "title": "Volume Medium",
+    "tag": "Volume Medium"
+  },
+  {
+    "name": "IconVolumeMute",
+    "title": "Volume Mute",
+    "tag": "Volume Mute"
+  },
+  {
+    "name": "IconVolumeFull",
+    "title": "Volume Full",
+    "tag": "Volume Full"
+  },
+  {
+    "name": "IconVolumeOff",
+    "title": "Volume Off",
+    "tag": "Volume Off"
+  },
+  {
+    "name": "IconVolumeMinus",
+    "title": "Volume Minus",
+    "tag": "Volume Minus"
+  },
+  {
+    "name": "IconVolumeLow",
+    "title": "Volume Low",
+    "tag": "Volume Low"
+  },
+  {
+    "name": "IconVolumeVibrate",
+    "title": "Volume Vibrate",
+    "tag": "Volume Vibrate"
+  },
+  {
+    "name": "IconVolumePlus",
+    "title": "Volume Plus",
+    "tag": "Volume Plus"
+  },
+  {
+    "name": "IconVideoAddOutline",
+    "title": "Video Add Outline",
+    "tag": "Video Add Outline"
+  },
+  {
+    "name": "IconMonitorAccount",
+    "title": "Monitor Account",
+    "tag": "Monitor Account"
+  },
+  {
+    "name": "IconLaptopAccount",
+    "title": "Laptop Account",
+    "tag": "Laptop Account"
+  },
+  {
+    "name": "IconVideoAddFill",
+    "title": "Video Add Fill",
+    "tag": "Video Add Fill"
+  },
+  {
+    "name": "IconVideoOutline",
+    "title": "Video Outline",
+    "tag": "Video Outline"
+  },
+  {
+    "name": "IconVideoFill",
+    "title": "Video Fill",
+    "tag": "Video Fill"
+  },
+  {
+    "name": "IconNotVerifiedOutline",
+    "title": "Not Verified Outline",
+    "tag": "Not Verified Outline"
+  },
+  {
+    "name": "IconNotVerifiedFill",
+    "title": "Not Verified Fill",
+    "tag": "Not Verified Fill"
+  },
+  {
+    "name": "IconUpload",
+    "title": "Upload",
+    "tag": "Upload"
+  },
+  {
+    "name": "IconUploadOff",
+    "title": "Upload Off",
+    "tag": "Upload Off"
+  },
+  {
+    "name": "IconUnderline",
+    "title": "Underline",
+    "tag": "Underline"
+  },
+  {
+    "name": "IconUploadCloud",
+    "title": "Upload Cloud",
+    "tag": "Upload Cloud"
+  },
+  {
+    "name": "IconWeatherWindyVariant",
+    "title": "Weather Windy Variant",
+    "tag": "Weather Windy Variant"
+  },
+  {
+    "name": "IconWeatherSunset",
+    "title": "Weather Sunset",
+    "tag": "Weather Sunset"
+  },
+  {
+    "name": "IconWeatherSunnyOff",
+    "title": "Weather Sunny Off",
+    "tag": "Weather Sunny Off"
+  },
+  {
+    "name": "IconWeatherSunnyAlert",
+    "title": "Weather Sunny Alert",
+    "tag": "Weather Sunny Alert"
+  },
+  {
+    "name": "IconWeatherSunny",
+    "title": "Weather Sunny",
+    "tag": "Weather Sunny"
+  },
+  {
+    "name": "IconWeatherPartlyRainy",
+    "title": "Weather Partly Rainy",
+    "tag": "Weather Partly Rainy"
+  },
+  {
+    "name": "IconWeatherPartlySnowy",
+    "title": "Weather Partly Snowy",
+    "tag": "Weather Partly Snowy"
+  },
+  {
+    "name": "IconWeatherPartlySnowyRainy",
+    "title": "Weather Partly Snowy Rainy",
+    "tag": "Weather Partly Snowy Rainy"
+  },
+  {
+    "name": "IconWeatherSnowy",
+    "title": "Weather Snowy",
+    "tag": "Weather Snowy"
+  },
+  {
+    "name": "IconWeatherDust",
+    "title": "Weather Dust",
+    "tag": "Weather Dust"
+  },
+  {
+    "name": "IconWeatherTornado",
+    "title": "Weather Tornado",
+    "tag": "Weather Tornado"
+  },
+  {
+    "name": "IconWeatherCloudyAlert",
+    "title": "Weather Cloudy Alert",
+    "tag": "Weather Cloudy Alert"
+  },
+  {
+    "name": "IconWeatherSnowyHeavy",
+    "title": "Weather Snowy Heavy",
+    "tag": "Weather Snowy Heavy"
+  },
+  {
+    "name": "IconWeatherSunsetUp",
+    "title": "Weather Sunset Up",
+    "tag": "Weather Sunset Up"
+  },
+  {
+    "name": "IconWeatherCloudyArrowRight",
+    "title": "Weather Cloudy Arrow Right",
+    "tag": "Weather Cloudy Arrow Right"
+  },
+  {
+    "name": "IconWeatherPartlyLightning",
+    "title": "Weather Partly Lightning",
+    "tag": "Weather Partly Lightning"
+  },
+  {
+    "name": "IconWeatherSunsetDown",
+    "title": "Weather Sunset Down",
+    "tag": "Weather Sunset Down"
+  },
+  {
+    "name": "IconSunWirelessOutline",
+    "title": "Sun Wireless Outline",
+    "tag": "Sun Wireless Outline"
+  },
+  {
+    "name": "IconWeatherNightPartlyCloudy",
+    "title": "Weather Night Partly Cloudy",
+    "tag": "Weather Night Partly Cloudy"
+  },
+  {
+    "name": "IconWeatherCloudy",
+    "title": "Weather Cloudy",
+    "tag": "Weather Cloudy"
+  },
+  {
+    "name": "IconWeatherSnowyRainy",
+    "title": "Weather Snowy Rainy",
+    "tag": "Weather Snowy Rainy"
+  },
+  {
+    "name": "IconWeatherHurricane",
+    "title": "Weather Hurricane",
+    "tag": "Weather Hurricane"
+  },
+  {
+    "name": "IconSunWireless",
+    "title": "Sun Wireless",
+    "tag": "Sun Wireless"
+  },
+  {
+    "name": "IconWeatherPartlyCloudy",
+    "title": "Weather Partly Cloudy",
+    "tag": "Weather Partly Cloudy"
+  },
+  {
+    "name": "IconWeatherHazy",
+    "title": "Weather Hazy",
+    "tag": "Weather Hazy"
+  },
+  {
+    "name": "IconWeatherWindy",
+    "title": "Weather Windy",
+    "tag": "Weather Windy"
+  },
+  {
+    "name": "IconWeatherFog",
+    "title": "Weather Fog",
+    "tag": "Weather Fog"
+  },
+  {
+    "name": "IconWeatherLightningRainy",
+    "title": "Weather Lightning Rainy",
+    "tag": "Weather Lightning Rainy"
+  },
+  {
+    "name": "IconWeatherLightning",
+    "title": "Weather Lightning",
+    "tag": "Weather Lightning"
+  },
+  {
+    "name": "IconWeatherHail",
+    "title": "Weather Hail",
+    "tag": "Weather Hail"
+  },
+  {
+    "name": "IconWeatherPouring",
+    "title": "Weather Pouring",
+    "tag": "Weather Pouring"
+  },
+  {
+    "name": "IconWeatherRainy",
+    "title": "Weather Rainy",
+    "tag": "Weather Rainy"
+  },
+  {
+    "name": "IconWeatherNight",
+    "title": "Weather Night",
+    "tag": "Weather Night"
+  },
+  {
+    "name": "IconWeatherCloudyClock",
+    "title": "Weather Cloudy Clock",
+    "tag": "Weather Cloudy Clock"
+  },
+  {
+    "name": "IconWomen",
+    "title": "Women",
+    "tag": "Women"
+  },
+  {
+    "name": "IconWidgetsOutline",
+    "title": "Widgets Outline",
+    "tag": "Widgets Outline"
+  },
+  {
+    "name": "IconWidgetsFill",
+    "title": "Widgets Fill",
+    "tag": "Widgets Fill"
+  },
+  {
+    "name": "IconWidgetsAddFill",
+    "title": "Widgets Add Fill",
+    "tag": "Widgets Add Fill"
+  },
+  {
+    "name": "IconWidgetsAddOutline",
+    "title": "Widgets Add Outline",
+    "tag": "Widgets Add Outline"
+  },
+  {
+    "name": "IconWidgetsRemoveOutline",
+    "title": "Widgets Remove Outline",
+    "tag": "Widgets Remove Outline"
+  },
+  {
+    "name": "IconWidgetsRemoveFill",
+    "title": "Widgets Remove Fill",
+    "tag": "Widgets Remove Fill"
+  },
+  {
+    "name": "IconWifi",
+    "title": "Wifi",
+    "tag": "Wifi"
+  },
+  {
+    "name": "IconWifiOff",
+    "title": "Wifi Off",
+    "tag": "Wifi Off"
+  },
+  {
+    "name": "IconWebsiteBuilder",
+    "title": "Website Builder",
+    "tag": "Website Builder"
+  },
+  {
+    "name": "IconWalletOutline",
+    "title": "Wallet Outline",
+    "tag": "balance"
+  },
+  {
+    "name": "IconWalletFill",
+    "title": "Wallet Fill",
+    "tag": "balance"
+  },
+  {
+    "name": "IconZoomIn",
+    "title": "Zoom In",
+    "tag": "Zoom In"
+  },
+  {
+    "name": "IconZoomOut",
+    "title": "Zoom Out",
+    "tag": "Zoom Out"
+  },
+  {
+    "name": "IconArrowDoubleFlowHorizontalDirectionOutgoing",
+    "title": "Arrow Double Flow Horizontal Direction Outgoing",
+    "tag": "Arrow Double Flow Horizontal Direction Outgoing"
+  },
+  {
+    "name": "IconArrowDoubleFlowHorizontalDirectionIncoming",
+    "title": "Arrow Double Flow Horizontal Direction Incoming",
+    "tag": "Arrow Double Flow Horizontal Direction Incoming"
+  },
+  {
+    "name": "IconArrowDoubleFlowVerticalDirectionDown",
+    "title": "Arrow Double Flow Vertical Direction Down",
+    "tag": "Arrow Double Flow Vertical Direction Down"
+  },
+  {
+    "name": "IconArrowDoubleFlowVerticalDirectionUp",
+    "title": "Arrow Double Flow Vertical Direction Up",
+    "tag": "Arrow Double Flow Vertical Direction Up"
+  },
+  {
+    "name": "IconAAAAPlaceholderDonTUse",
+    "title": "A A A A Placeholder Don T Use",
+    "tag": "This is a placeholder.\n[ ⚠️Do not use it for designing. ]"
+  },
+  {
+    "name": "IconAAAAPlaceholderIconDonTUseTypeRectangle",
+    "title": "A A A A Placeholder Icon Don T Use Type Rectangle",
+    "tag": "A A A A Placeholder Icon Don T Use Type Rectangle"
+  },
+  {
+    "name": "IconAAAAPlaceholderIconDonTUseTypeCircle",
+    "title": "A A A A Placeholder Icon Don T Use Type Circle",
+    "tag": "A A A A Placeholder Icon Don T Use Type Circle"
+  },
+  {
+    "name": "IconZoomTest",
+    "title": "Zoom Test",
+    "tag": "Zoom Test"
+  },
+  {
+    "name": "IconPendingOutline",
+    "title": "Pending Outline",
+    "tag": "Pending Outline"
+  },
+  {
+    "name": "IconPendingFill",
+    "title": "Pending Fill",
+    "tag": "Pending Fill"
+  },
+  {
+    "name": "IconSocialDribbleStyleOutline",
+    "title": "Social Dribble Style Outline",
+    "tag": "Social Dribble Style Outline"
+  },
+  {
+    "name": "IconSocialDribbleStyleColor",
+    "title": "Social Dribble Style Color",
+    "tag": "Social Dribble Style Color"
+  },
+  {
+    "name": "IconSocialVimeoStyleFilled",
+    "title": "Social Vimeo Style Filled",
+    "tag": "Social Vimeo Style Filled"
+  },
+  {
+    "name": "IconSocialVimeoStyleColor",
+    "title": "Social Vimeo Style Color",
+    "tag": "Social Vimeo Style Color"
+  },
+  {
+    "name": "IconSocialSlackStyleFilled",
+    "title": "Social Slack Style Filled",
+    "tag": "Social Slack Style Filled"
+  },
+  {
+    "name": "IconSocialSlackStyleColor",
+    "title": "Social Slack Style Color",
+    "tag": "Social Slack Style Color"
+  },
+  {
+    "name": "IconSocialWechatStyleFilled",
+    "title": "Social Wechat Style Filled",
+    "tag": "Social Wechat Style Filled"
+  },
+  {
+    "name": "IconSocialWechatStyleColor",
+    "title": "Social Wechat Style Color",
+    "tag": "Social Wechat Style Color"
+  },
+  {
+    "name": "IconSocialLineStyleFilled",
+    "title": "Social Line Style Filled",
+    "tag": "Social Line Style Filled"
+  },
+  {
+    "name": "IconSocialLineStyleColor",
+    "title": "Social Line Style Color",
+    "tag": "Social Line Style Color"
+  },
+  {
+    "name": "IconSocialBehanceStyleBulk",
+    "title": "Social Behance Style Bulk",
+    "tag": "Social Behance Style Bulk"
+  },
+  {
+    "name": "IconSocialBehanceStyleColor",
+    "title": "Social Behance Style Color",
+    "tag": "Social Behance Style Color"
+  },
+  {
+    "name": "IconSocialQuoraStyleOutline",
+    "title": "Social Quora Style Outline",
+    "tag": "Social Quora Style Outline"
+  },
+  {
+    "name": "IconSocialQuoraStyleColor",
+    "title": "Social Quora Style Color",
+    "tag": "Social Quora Style Color"
+  },
+  {
+    "name": "IconSocialMedium",
+    "title": "Social Medium",
+    "tag": "Social Medium"
+  },
+  {
+    "name": "IconSocialTwitchStyleOutline",
+    "title": "Social Twitch Style Outline",
+    "tag": "Social Twitch Style Outline"
+  },
+  {
+    "name": "IconSocialTwitchStyleColor",
+    "title": "Social Twitch Style Color",
+    "tag": "Social Twitch Style Color"
+  },
+  {
+    "name": "IconSocialPinterestStyleOutline",
+    "title": "Social Pinterest Style Outline",
+    "tag": "Social Pinterest Style Outline"
+  },
+  {
+    "name": "IconSocialPinterestStyleFilled",
+    "title": "Social Pinterest Style Filled",
+    "tag": "Social Pinterest Style Filled"
+  },
+  {
+    "name": "IconSocialPinterestStyleColor",
+    "title": "Social Pinterest Style Color",
+    "tag": "Social Pinterest Style Color"
+  },
+  {
+    "name": "IconSocialTumblrStyleOutline",
+    "title": "Social Tumblr Style Outline",
+    "tag": "Social Tumblr Style Outline"
+  },
+  {
+    "name": "IconSocialTumblrStyleFilled",
+    "title": "Social Tumblr Style Filled",
+    "tag": "Social Tumblr Style Filled"
+  },
+  {
+    "name": "IconSocialTumblrStyleColor",
+    "title": "Social Tumblr Style Color",
+    "tag": "Social Tumblr Style Color"
+  },
+  {
+    "name": "IconSocialSnapChatStyleFilled",
+    "title": "Social Snap Chat Style Filled",
+    "tag": "Social Snap Chat Style Filled"
+  },
+  {
+    "name": "IconSocialSnapChatStyleColor",
+    "title": "Social Snap Chat Style Color",
+    "tag": "Social Snap Chat Style Color"
+  },
+  {
+    "name": "IconSocialRedditStyleFilled",
+    "title": "Social Reddit Style Filled",
+    "tag": "Social Reddit Style Filled"
+  },
+  {
+    "name": "IconSocialRedditStyleColor",
+    "title": "Social Reddit Style Color",
+    "tag": "Social Reddit Style Color"
+  },
+  {
+    "name": "IconSocialDiscordStyleFilled",
+    "title": "Social Discord Style Filled",
+    "tag": "Social Discord Style Filled"
+  },
+  {
+    "name": "IconSocialDiscordStyleColor",
+    "title": "Social Discord Style Color",
+    "tag": "Social Discord Style Color"
+  },
+  {
+    "name": "IconSocialTelegramStyleOutline",
+    "title": "Social Telegram Style Outline",
+    "tag": "Social Telegram Style Outline"
+  },
+  {
+    "name": "IconSocialTelegramStyleBulk",
+    "title": "Social Telegram Style Bulk",
+    "tag": "Social Telegram Style Bulk"
+  },
+  {
+    "name": "IconSocialTelegramStyleColor",
+    "title": "Social Telegram Style Color",
+    "tag": "Social Telegram Style Color"
+  },
+  {
+    "name": "IconSocialInstagramStyleColor",
+    "title": "Social Instagram Style Color",
+    "tag": "Social Instagram Style Color"
+  },
+  {
+    "name": "IconSocialInstagramStyleFill",
+    "title": "Social Instagram Style Fill",
+    "tag": "Social Instagram Style Fill"
+  },
+  {
+    "name": "IconSocialInstagramStyleOutline",
+    "title": "Social Instagram Style Outline",
+    "tag": "Social Instagram Style Outline"
+  },
+  {
+    "name": "IconSettingsOutline",
+    "title": "Settings Outline",
+    "tag": "Opt-ins | setting"
+  },
+  {
+    "name": "IconSettingsFill",
+    "title": "Settings Fill",
+    "tag": "Settings Fill"
+  },
+  {
+    "name": "IconCredentialCalendarCloseFill",
+    "title": "Credential Calendar Close Fill",
+    "tag": "Credential Calendar Close Fill"
+  },
+  {
+    "name": "IconCredentialCalendarCloseOutline",
+    "title": "Credential Calendar Close Outline",
+    "tag": "Credential Calendar Close Outline"
+  },
+  {
+    "name": "IconFlip",
+    "title": "Flip",
+    "tag": "image | flip"
+  },
+  {
+    "name": "IconNoteAttachmentOutline",
+    "title": "Note Attachment Outline",
+    "tag": "Note Attachment Outline"
+  },
+  {
+    "name": "IconNoteAttachmentFill",
+    "title": "Note Attachment Fill",
+    "tag": "Note Attachment Fill"
+  },
+  {
+    "name": "IconRankingPodiumFill",
+    "title": "Ranking Podium Fill",
+    "tag": "Ranking Podium Fill"
+  },
+  {
+    "name": "IconRankingPodiumOutline",
+    "title": "Ranking Podium Outline",
+    "tag": "Ranking Podium Outline"
+  }
+]
