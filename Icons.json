@@ -12,7 +12,7 @@
   {
     "name": "IconAttachment",
     "title": "Attachment",
-    "tag": "Attachment"
+    "tag": "attachment"
   },
   {
     "name": "IconArrowDirectionRight",
@@ -1912,22 +1912,22 @@
   {
     "name": "IconDigitalWalletConfigOutline",
     "title": "Digital Wallet Config Outline",
-    "tag": "Digital Wallet Config Outline"
+    "tag": "digital | card | wallet"
   },
   {
     "name": "IconDigitalWalletConfigFill",
     "title": "Digital Wallet Config Fill",
-    "tag": "Digital Wallet Config Fill"
+    "tag": "digital | card | wallet"
   },
   {
     "name": "IconDigitalWalletOutline",
     "title": "Digital Wallet Outline",
-    "tag": "Digital Wallet Outline"
+    "tag": "digital | card | wallet"
   },
   {
     "name": "IconDigitalWalletFill",
     "title": "Digital Wallet Fill",
-    "tag": "Digital Wallet Fill"
+    "tag": "digital | card | wallet"
   },
   {
     "name": "IconDirectionsArrowRightOutline",
@@ -3637,12 +3637,12 @@
   {
     "name": "IconHomeOutline",
     "title": "Home Outline",
-    "tag": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\">\n\n\n  <path d=\"M12 6.19L17 10.69V18.5H15V12.5H9V18.5H7V10.69L12 6.19M12 3.5L2 12.5H5V20.5H11V14.5H13V20.5H19V12.5H22L12 3.5Z\" fill=\"#455A64\"/>\n\n\n</svg>"
+    "tag": "home"
   },
   {
     "name": "IconHomeFill",
     "title": "Home Fill",
-    "tag": "Home Fill"
+    "tag": "home"
   },
   {
     "name": "IconHelpFill",
@@ -6843,5 +6843,450 @@
     "name": "IconSocialInstagramStyleOutline",
     "title": "Social Instagram Style Outline",
     "tag": "Social Instagram Style Outline"
+  },
+  {
+    "name": "IconSettingsOutline",
+    "title": "Settings Outline",
+    "tag": "Opt-ins | setting"
+  },
+  {
+    "name": "IconSettingsFill",
+    "title": "Settings Fill",
+    "tag": "Settings Fill"
+  },
+  {
+    "name": "IconInfoStyleFill",
+    "title": "Info Style Fill",
+    "tag": "Info Style Fill"
+  },
+  {
+    "name": "IconChevronAdjustingDirectionHorizontal",
+    "title": "Chevron Adjusting Direction Horizontal",
+    "tag": "Chevron Adjusting Direction Horizontal"
+  },
+  {
+    "name": "IconNoteFillOutline",
+    "title": "Note Fill Outline",
+    "tag": "Note Fill Outline"
+  },
+  {
+    "name": "IconNoteMultipleFill",
+    "title": "Note Multiple Fill",
+    "tag": "Note Multiple Fill"
+  },
+  {
+    "name": "IconNoteFillFill",
+    "title": "Note Fill Fill",
+    "tag": "Note Fill Fill"
+  },
+  {
+    "name": "IconNoteMultipleOutline",
+    "title": "Note Multiple Outline",
+    "tag": "Note Multiple Outline"
+  },
+  {
+    "name": "IconNoteAlertFill",
+    "title": "Note Alert Fill",
+    "tag": "Note Alert Fill"
+  },
+  {
+    "name": "IconNoteAlertOutline",
+    "title": "Note Alert Outline",
+    "tag": "Note Alert Outline"
+  },
+  {
+    "name": "IconSendTestFill",
+    "title": "Send Test Fill",
+    "tag": "Send Test Fill"
+  },
+  {
+    "name": "IconNotebookFillOutline",
+    "title": "Notebook Fill Outline",
+    "tag": "Notebook Fill Outline"
+  },
+  {
+    "name": "IconNotebookFillFill",
+    "title": "Notebook Fill Fill",
+    "tag": "Notebook Fill Fill"
+  },
+  {
+    "name": "IconCakeFillFill",
+    "title": "Cake Fill Fill",
+    "tag": "Cake Fill Fill"
+  },
+  {
+    "name": "IconCakeFillOutline",
+    "title": "Cake Fill Outline",
+    "tag": "Cake Fill Outline"
+  },
+  {
+    "name": "IconSocialGoogleStyleOutline",
+    "title": "Social Google Style Outline",
+    "tag": "Social Google Style Outline"
+  },
+  {
+    "name": "IconCredentialCalendarCloseFill",
+    "title": "Credential Calendar Close Fill",
+    "tag": "Credential Calendar Close Fill"
+  },
+  {
+    "name": "IconCredentialCalendarCloseOutline",
+    "title": "Credential Calendar Close Outline",
+    "tag": "Credential Calendar Close Outline"
+  },
+  {
+    "name": "IconCategoryFillCategoryFill",
+    "title": "Category Fill Category Fill",
+    "tag": "Category Fill Category Fill"
+  },
+  {
+    "name": "IconCategoryAddFillCategoryAddFill",
+    "title": "Category Add Fill Category Add Fill",
+    "tag": "Category Add Fill Category Add Fill"
+  },
+  {
+    "name": "IconReportChartBoxPlusOutline",
+    "title": "Report Chart Box Plus Outline",
+    "tag": "Report Chart Box Plus Outline"
+  },
+  {
+    "name": "IconShopAlertFill",
+    "title": "Shop Alert Fill",
+    "tag": "Shop Alert Fill"
+  },
+  {
+    "name": "IconShopAlertOutline",
+    "title": "Shop Alert Outline",
+    "tag": "Shop Alert Outline"
+  },
+  {
+    "name": "IconReportChartBoxPlusFill",
+    "title": "Report Chart Box Plus Fill",
+    "tag": "Report Chart Box Plus Fill"
+  },
+  {
+    "name": "IconFitnessDumbbellFill",
+    "title": "Fitness Dumbbell Fill",
+    "tag": "Fitness Dumbbell Fill"
+  },
+  {
+    "name": "IconFitnessDumbbellOutline",
+    "title": "Fitness Dumbbell Outline",
+    "tag": "Fitness Dumbbell Outline"
+  },
+  {
+    "name": "IconRotate90DegreesRightOutline",
+    "title": "Rotate90 Degrees Right Outline",
+    "tag": "image | rotate"
+  },
+  {
+    "name": "IconFlip",
+    "title": "Flip",
+    "tag": "Flip | Mirror | Reflect | Invert | Reverse | Swap | Transpose | Switch | Horizontal | Vertical | X-Axis | Y-Axis | Landscape | Portrait | Axis | Symmetry | Opposite | Mirror-Image | Rotate | Turn | Fold | Page-Flip | Card-Flip | Toggle | Camera | Image-Editor | Transformation | Canvas | Layers | Perspective"
+  },
+  {
+    "name": "IconRotate90DegreesRightFill",
+    "title": "Rotate90 Degrees Right Fill",
+    "tag": "image | rotate"
+  },
+  {
+    "name": "IconGroupsWaitingListFill",
+    "title": "Groups Waiting List Fill",
+    "tag": "Groups Waiting List Fill"
+  },
+  {
+    "name": "IconGroupsWaitingListOutline",
+    "title": "Groups Waiting List Outline",
+    "tag": "Groups Waiting List Outline"
+  },
+  {
+    "name": "IconHeartStyleMonochrome",
+    "title": "Heart Style Monochrome",
+    "tag": "Heart Style Monochrome"
+  },
+  {
+    "name": "IconHeartStyleColor",
+    "title": "Heart Style Color",
+    "tag": "Heart Style Color"
+  },
+  {
+    "name": "IconNoteAttachmentOutline",
+    "title": "Note Attachment Outline",
+    "tag": "Note Attachment Outline"
+  },
+  {
+    "name": "IconNoteAttachmentFill",
+    "title": "Note Attachment Fill",
+    "tag": "Note Attachment Fill"
+  },
+  {
+    "name": "IconRankingPodiumFill",
+    "title": "Ranking Podium Fill",
+    "tag": "Ranking Podium Fill"
+  },
+  {
+    "name": "IconRankingPodiumOutline",
+    "title": "Ranking Podium Outline",
+    "tag": "Ranking Podium Outline"
+  },
+  {
+    "name": "IconSocialVimeoStyleFill",
+    "title": "Social Vimeo Style Fill",
+    "tag": "Social Vimeo Style Fill"
+  },
+  {
+    "name": "IconSocialSlackStyleFill",
+    "title": "Social Slack Style Fill",
+    "tag": "Social Slack Style Fill"
+  },
+  {
+    "name": "IconSocialWechatStyleFill",
+    "title": "Social Wechat Style Fill",
+    "tag": "Social Wechat Style Fill"
+  },
+  {
+    "name": "IconSocialLineStyleFill",
+    "title": "Social Line Style Fill",
+    "tag": "Social Line Style Fill"
+  },
+  {
+    "name": "IconSocialPinterestStyleFill",
+    "title": "Social Pinterest Style Fill",
+    "tag": "Social Pinterest Style Fill"
+  },
+  {
+    "name": "IconSocialTumblrStyleFill",
+    "title": "Social Tumblr Style Fill",
+    "tag": "Social Tumblr Style Fill"
+  },
+  {
+    "name": "IconSocialSnapChatStyleFill",
+    "title": "Social Snap Chat Style Fill",
+    "tag": "Social Snap Chat Style Fill"
+  },
+  {
+    "name": "IconSocialRedditStyleFill",
+    "title": "Social Reddit Style Fill",
+    "tag": "Social Reddit Style Fill"
+  },
+  {
+    "name": "IconSocialDiscordStyleFill",
+    "title": "Social Discord Style Fill",
+    "tag": "Social Discord Style Fill"
+  },
+  {
+    "name": "IconMusicFill",
+    "title": "Music Fill",
+    "tag": "Play | Pause | Stop | Record | Volume | Speaker | Mute | Repeat | Loop | Shuffle | Equalizer | Levels | Headphones | Microphone | Mic | Earbuds | Vinyl | Record | CD | Disc | Radio | Instrument | Amplify | Note | Waveform | Soundwave | Audio | Beat | Tempo | Metronome | Frequency | Vibrate | Playlist | Album | Artist | Queue | Library | Discovery | Podcast | Streaming | Lyrics"
+  },
+  {
+    "name": "IconMusicOutline",
+    "title": "Music Outline",
+    "tag": "Play | Pause | Stop | Record | Volume | Speaker | Mute | Repeat | Loop | Shuffle | Equalizer | Levels | Headphones | Microphone | Mic | Earbuds | Vinyl | Record | CD | Disc | Radio | Instrument | Amplify | Note | Waveform | Soundwave | Audio | Beat | Tempo | Metronome | Frequency | Vibrate | Playlist | Album | Artist | Queue | Library | Discovery | Podcast | Streaming | Lyrics"
+  },
+  {
+    "name": "IconBranchOutline",
+    "title": "Branch Outline",
+    "tag": "fork | version | revision | node | diff | divergence | stream | commit | patch | repository | source | deployment | pipeline | workflow | tree | hierarchy | subdivision | category | organization | department | unit | sector | arm | subsidiary | parent | child | nested | taxonomy |  split | junction | path | route | connection | link | flow | decision | manifold | bifurcation | crossroads | detour | option | sequence | twig | stem | sprout | limb | leaf | bough | organic | growth | spray | tendril | y-shape | trident | prong | fork-in-the-road | connector | divider | separator | directional | axis"
+  },
+  {
+    "name": "IconBranchFill",
+    "title": "Branch Fill",
+    "tag": "fork | version | revision | node | diff | divergence | stream | commit | patch | repository | source | deployment | pipeline | workflow | tree | hierarchy | subdivision | category | organization | department | unit | sector | arm | subsidiary | parent | child | nested | taxonomy |  split | junction | path | route | connection | link | flow | decision | manifold | bifurcation | crossroads | detour | option | sequence | twig | stem | sprout | limb | leaf | bough | organic | growth | spray | tendril | y-shape | trident | prong | fork-in-the-road | connector | divider | separator | directional | axis"
+  },
+  {
+    "name": "IconArrowExpandExpandTrue",
+    "title": "Arrow Expand Expand True",
+    "tag": "Arrow Expand Expand True"
+  },
+  {
+    "name": "IconArrowExpandExpandFalse",
+    "title": "Arrow Expand Expand False",
+    "tag": "Arrow Expand Expand False"
+  },
+  {
+    "name": "IconLifebuoyFill",
+    "title": "Lifebuoy Fill",
+    "tag": "lifebuoy | life ring | lifebelt | safety | rescue | maritime | help | support | assistance | emergency | nautical | lifesaver | ring buoy | protection | drowning prevention | icon | stroke | solid"
+  },
+  {
+    "name": "IconLifebuoyOutline",
+    "title": "Lifebuoy Outline",
+    "tag": "lifebuoy | life ring | lifebelt | safety | rescue | maritime | help | support | assistance | emergency | nautical | lifesaver | ring buoy | protection | drowning prevention | icon | stroke | solid"
+  },
+  {
+    "name": "IconToggleOnOutline",
+    "title": "Toggle On Outline",
+    "tag": "Toggle On Outline"
+  },
+  {
+    "name": "IconToggleOnFill",
+    "title": "Toggle On Fill",
+    "tag": "Toggle On Fill"
+  },
+  {
+    "name": "IconToggleOffOutline",
+    "title": "Toggle Off Outline",
+    "tag": "Toggle Off Outline"
+  },
+  {
+    "name": "IconToggleOffFill",
+    "title": "Toggle Off Fill",
+    "tag": "Toggle Off Fill"
+  },
+  {
+    "name": "IconCheckBoxFill",
+    "title": "Check Box Fill",
+    "tag": "Check Box Fill"
+  },
+  {
+    "name": "IconCheckBoxOutline",
+    "title": "Check Box Outline",
+    "tag": "Check Box Outline"
+  },
+  {
+    "name": "IconTextTypeShortText",
+    "title": "Text Type Short Text",
+    "tag": "Text Type Short Text"
+  },
+  {
+    "name": "IconTextTypeLongText",
+    "title": "Text Type Long Text",
+    "tag": "Text Type Long Text"
+  },
+  {
+    "name": "IconCounter",
+    "title": "Counter",
+    "tag": "Counter"
+  },
+  {
+    "name": "IconArrowPointerDirectionDown",
+    "title": "Arrow Pointer Direction Down",
+    "tag": "Arrow Pointer Direction Down"
+  },
+  {
+    "name": "IconArrowPointerDirectionLeft",
+    "title": "Arrow Pointer Direction Left",
+    "tag": "Arrow Pointer Direction Left"
+  },
+  {
+    "name": "IconArrowPointerDirectionRight",
+    "title": "Arrow Pointer Direction Right",
+    "tag": "Arrow Pointer Direction Right"
+  },
+  {
+    "name": "IconArrowPointerDirectionUp",
+    "title": "Arrow Pointer Direction Up",
+    "tag": "Arrow Pointer Direction Up"
+  },
+  {
+    "name": "IconDropDownFill",
+    "title": "Drop Down Fill",
+    "tag": "Drop Down Fill"
+  },
+  {
+    "name": "IconDropDownOutline",
+    "title": "Drop Down Outline",
+    "tag": "Drop Down Outline"
+  },
+  {
+    "name": "IconCalendarDateRangeFill",
+    "title": "Calendar Date Range Fill",
+    "tag": "Calendar Date Range Fill"
+  },
+  {
+    "name": "IconCalendarDateRangeOutline",
+    "title": "Calendar Date Range Outline",
+    "tag": "Calendar Date Range Outline"
+  },
+  {
+    "name": "IconRadioCheckedTrue",
+    "title": "Radio Checked True",
+    "tag": "Radio Checked True"
+  },
+  {
+    "name": "IconRadioCheckedFalse",
+    "title": "Radio Checked False",
+    "tag": "Radio Checked False"
+  },
+  {
+    "name": "IconColorPickerFill",
+    "title": "Color Picker Fill",
+    "tag": "Color Picker Fill"
+  },
+  {
+    "name": "IconColorPickerOutline",
+    "title": "Color Picker Outline",
+    "tag": "Color Picker Outline"
+  },
+  {
+    "name": "IconSingleSelectFill",
+    "title": "Single Select Fill",
+    "tag": "Single Select Fill"
+  },
+  {
+    "name": "IconSingleSelectOutline",
+    "title": "Single Select Outline",
+    "tag": "Single Select Outline"
+  },
+  {
+    "name": "IconLearningBookFill",
+    "title": "Learning Book Fill",
+    "tag": "Learning Book Fill"
+  },
+  {
+    "name": "IconLearningBookOutline",
+    "title": "Learning Book Outline",
+    "tag": "Learning Book Outline"
+  },
+  {
+    "name": "IconInProgress",
+    "title": "In Progress",
+    "tag": "WIP | In-Progress | Active | Ongoing | Underway | Processing | Pending | Draft | Beta | In-Review | Staging | In-Design | Building | Development | Sandbox | Loading | Syncing | Buffering | Updating | Refreshing | Generating | Uploading | Downloading | Calculating | Spinner | Pulse | Gears | Cog | Hammer | Wrench | Hourglass | Clock | Ellipsis | Construction | state-loading | is-busy | indeterminate | fetching | transitioning"
+  },
+  {
+    "name": "IconSkipPreviousFill",
+    "title": "Skip Previous Fill",
+    "tag": "Previous | Next | Back | Forward | Step-Back | Step-Forward | Rewind | Fast-Forward | Skip-Back | Skip-Forward | Previous-Track | Next-Track | Seek-Backward | Seek-Forward | First | Last | Start | End | Jump-to-Start | Jump-to-End | Beginning | Finish | Audio | Video | Music | Player | Carousel | Playlist | Pagination | Timeline | skip_previous | skip_next"
+  },
+  {
+    "name": "IconSkipPreviousOutline",
+    "title": "Skip Previous Outline",
+    "tag": "Previous | Next | Back | Forward | Step-Back | Step-Forward | Rewind | Fast-Forward | Skip-Back | Skip-Forward | Previous-Track | Next-Track | Seek-Backward | Seek-Forward | First | Last | Start | End | Jump-to-Start | Jump-to-End | Beginning | Finish | Audio | Video | Music | Player | Carousel | Playlist | Pagination | Timeline | skip_previous | skip_next"
+  },
+  {
+    "name": "IconSkipNextOutline",
+    "title": "Skip Next Outline",
+    "tag": "Previous | Next | Back | Forward | Step-Back | Step-Forward | Rewind | Fast-Forward | Skip-Back | Skip-Forward | Previous-Track | Next-Track | Seek-Backward | Seek-Forward | First | Last | Start | End | Jump-to-Start | Jump-to-End | Beginning | Finish | Audio | Video | Music | Player | Carousel | Playlist | Pagination | Timeline | skip_previous | skip_next"
+  },
+  {
+    "name": "IconSkipNextFill",
+    "title": "Skip Next Fill",
+    "tag": "Previous | Next | Back | Forward | Step-Back | Step-Forward | Rewind | Fast-Forward | Skip-Back | Skip-Forward | Previous-Track | Next-Track | Seek-Backward | Seek-Forward | First | Last | Start | End | Jump-to-Start | Jump-to-End | Beginning | Finish | Audio | Video | Music | Player | Carousel | Playlist | Pagination | Timeline | skip_previous | skip_next"
+  },
+  {
+    "name": "IconClockWarningFill",
+    "title": "Clock Warning Fill",
+    "tag": "clock | warning | alert | time"
+  },
+  {
+    "name": "IconClockWarningOutline",
+    "title": "Clock Warning Outline",
+    "tag": "clock | warning | alert | time"
+  },
+  {
+    "name": "IconMenuPositionPosition5",
+    "title": "Menu Position Position5",
+    "tag": "expand | more | arrow down | arrow | down | caret down"
+  },
+  {
+    "name": "IconVersusOutline",
+    "title": "Versus Outline",
+    "tag": "Versus Outline"
+  },
+  {
+    "name": "IconVersusFill",
+    "title": "Versus Fill",
+    "tag": "Versus Fill"
   }
 ]
