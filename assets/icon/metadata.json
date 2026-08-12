@@ -3,5 +3,165 @@
     "name": "IconAirdrop",
     "title": "Airdrop",
     "tag": "airdrop"
+  },
+  {
+    "name": "IconBookmarkRemoveOutline",
+    "title": "Bookmark Remove Outline",
+    "tag": "bookmark | remove | save | favorite | mark | delete | clear | erase"
+  },
+  {
+    "name": "IconBookmarkRemoveFill",
+    "title": "Bookmark Remove Fill",
+    "tag": "bookmark | remove | save | favorite | mark | delete | clear | erase"
+  },
+  {
+    "name": "IconArchiveOutline",
+    "title": "Archive Outline",
+    "tag": "archive | storage | backup | save"
+  },
+  {
+    "name": "IconArchiveFill",
+    "title": "Archive Fill",
+    "tag": "archive | storage | backup | save"
+  },
+  {
+    "name": "IconUnarchiveFillFalse",
+    "title": "Unarchive Fill False",
+    "tag": "unarchive | restore | recover | extract"
+  },
+  {
+    "name": "IconUnarchiveFillTrue",
+    "title": "Unarchive Fill True",
+    "tag": "unarchive | restore | recover | extract"
+  },
+  {
+    "name": "IconBarChartAddOutline",
+    "title": "Bar Chart Add Outline",
+    "tag": "bar | chart | add | graph | data | analytics | plus | create | new"
+  },
+  {
+    "name": "IconBarChartAddFill",
+    "title": "Bar Chart Add Fill",
+    "tag": "bar | chart | add | graph | data | analytics | plus | create | new"
+  },
+  {
+    "name": "IconBarChartRemoveOutline",
+    "title": "Bar Chart Remove Outline",
+    "tag": "bar | chart | remove | graph | data | analytics | delete | clear | erase"
+  },
+  {
+    "name": "IconBarChartRemoveFill",
+    "title": "Bar Chart Remove Fill",
+    "tag": "bar | chart | remove | graph | data | analytics | delete | clear | erase"
+  },
+  {
+    "name": "IconBankOutline",
+    "title": "Bank Outline",
+    "tag": "finance | money | wealth | payment"
+  },
+  {
+    "name": "IconBankFill",
+    "title": "Bank Fill",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankPlusOutline",
+    "title": "Bank Plus Outline",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankPlusFill",
+    "title": "Bank Plus Fill",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankMinusOutline",
+    "title": "Bank Minus Outline",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankMinusFill",
+    "title": "Bank Minus Fill",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankCheckOutline",
+    "title": "Bank Check Outline",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankCheckFill",
+    "title": "Bank Check Fill",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankRemoveOutline",
+    "title": "Bank Remove Outline",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankRemoveFill",
+    "title": "Bank Remove Fill",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankTransitOutline",
+    "title": "Bank Transit Outline",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankTransitFill",
+    "title": "Bank Transit Fill",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBedOutline",
+    "title": "Bed Outline",
+    "tag": "bed | sleep | bedroom | rest"
+  },
+  {
+    "name": "IconBedFill",
+    "title": "Bed Fill",
+    "tag": "bed | sleep | bedroom | rest"
+  },
+  {
+    "name": "IconBackspaceLeftOutline",
+    "title": "Backspace Left Outline",
+    "tag": "backspace | left | delete | erase | remove | west | backward | start"
+  },
+  {
+    "name": "IconBackspaceLeftFill",
+    "title": "Backspace Left Fill",
+    "tag": "backspace | left | delete | erase | remove | west | backward | start"
+  },
+  {
+    "name": "IconBoatOutline",
+    "title": "Boat Outline",
+    "tag": "boat | ship | vessel | marine"
+  },
+  {
+    "name": "IconBoatFill",
+    "title": "Boat Fill",
+    "tag": "boat | ship | vessel | marine"
+  },
+  {
+    "name": "IconBathtubOutline",
+    "title": "Bathtub Outline",
+    "tag": "bathtub | bath | bathroom | wash"
+  },
+  {
+    "name": "IconBathtubFill",
+    "title": "Bathtub Fill",
+    "tag": "bathtub | bath | bathroom | wash"
+  },
+  {
+    "name": "IconBriefcaseOutline",
+    "title": "Briefcase Outline",
+    "tag": "briefcase | work | business | job"
+  },
+  {
+    "name": "IconBriefcaseFill",
+    "title": "Briefcase Fill",
+    "tag": "briefcase | work | business | job"
   }
 ]
